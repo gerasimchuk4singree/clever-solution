@@ -1,0 +1,136 @@
+@import "_calc.scss";
+
+$gutter: 10px;
+
+
+
+
+//	============================================================================
+//	Common Grid Classes
+//	============================================================================
+
+	.g,
+	.g--rev{
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		display: block;
+		width: 100%;
+		margin: 0 auto;
+		padding: 0;
+		list-style-type: none;
+	}
+	.g{
+		direction: ltr;
+	}
+	.g--rev{
+		direction: rtl;
+	}
+	.g.w720,
+	.g--rev.w720{
+		max-width: 720px;
+	}
+	.g.w960,
+	.g--rev.w960{
+		max-width: 960px;
+	}
+	.g.w1140,
+	.g--rev.w1140{
+		max-width: 1140px;
+	}
+
+	.c,
+	.cc,
+	.c-c{
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		display: inline-block;
+		vertical-align: top;
+		width: 100%;
+		padding: 0 $gutter;
+	}
+	.cc{
+		padding: 0;
+	}
+	.c-c{
+		padding: 0 $gutter*2;
+	}
+
+	.lt-ie9 .c,
+	.lt-ie9 .cc,
+	.no-js .c,
+	.no-js .cc,
+	.no-js .c-c{
+		display: block !important;
+		width: 100% !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	.lt-ie9 .g.w1140,
+	.lt-ie9 .g.w720,
+	.lt-ie9 .g.w960,
+	.no-js .g.w1140,
+	.no-js .g.w960,
+	.no-js .g.w720,
+	.lt-ie9 .g--rev.w1140,
+	.lt-ie9 .g--rev.w720,
+	.lt-ie9 .g--rev.w960,
+	.no-js .g--rev.w1140,
+	.no-js .g--rev.w960,
+	.no-js .g--rev.w720{
+		width: 100% !important;
+		max-width: 100% !important;
+	}
+
+//	============================================================================
+
+
+
+
+
+//	============================================================================
+//	Fixed Fractions
+//	============================================================================
+
+	@include grid-calc(2 3 4 5 6 7 8 9 10 11 12 14 18);
+
+//	============================================================================
+
+
+
+
+
+//	============================================================================
+//	Media-Dependent Fractions
+//	============================================================================
+
+
+	@media (max-width: 1600px) {
+		@include grid-calc(2 3 4 5 6 12, '--1600');
+	}
+
+	@media (max-width: 1050px) {
+		@include grid-calc(2 3 4 5 6 7 10, '--t'); 
+	}
+
+	@media (max-width: 720px) {
+		@include grid-calc(2 3 4, '--s');
+	}
+
+	@media (max-width: 550px) {
+		@include grid-calc(2 3, '--m');
+	}
+
+	@media (max-width: 450px) {
+		@include grid-calc(2 3 9 10, '--ms'); 
+	}
+
+
+
+//	============================================================================

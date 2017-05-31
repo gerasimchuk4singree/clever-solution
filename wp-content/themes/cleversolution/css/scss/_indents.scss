@@ -1,0 +1,182 @@
+@import "compass/css3";
+@import "compass/utilities";
+
+$arPaddings: (0, 2, 3, 4, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 90, 95, 100, 120, 130, 200); // Padding
+$arMargins: (0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 100, 110); // Margin
+$arBradius: (2, 3, 4, 5, 8, 10, 15, 20, 25, 30, 35, 40, 50, 95); // Border Radius
+
+
+
+/*----------------------------------------------------------------------------------*/
+/*-----------------------------------BORDER_RADIUS----------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+@each $bradius in $arBradius {
+    .b-radius-#{$bradius} {
+        @include border-radius(#{$bradius}px);
+    }
+}
+
+
+@each $bradiusbottom in $arBradius {
+    .b-bot-radius-#{$bradiusbottom} {
+        border-bottom-left-radius: #{$bradiusbottom}px;
+        border-bottom-right-radius: #{$bradiusbottom}px;
+        -moz-border-radius-bottomright: #{$bradiusbottom}px;
+        -moz-border-radius-bottomleft: #{$bradiusbottom}px;
+    }
+}
+
+
+@each $bradiustop in $arBradius {
+    .b-top-radius-#{$bradiustop} {
+        border-top-left-radius: #{$bradiustop}px;
+        border-top-right-radius: #{$bradiustop}px;
+        -moz-border-radius-topright: #{$bradiustop}px;
+        -moz-border-radius-topleft: #{$bradiustop}px;
+    }
+}
+
+@each $bradiusright in $arBradius {
+    .b-right-radius-#{$bradiusright} {
+        border-top-right-radius: #{$bradiusright}px;
+        border-bottom-right-radius: #{$bradiusright}px;
+        -moz-border-radius-topright: #{$bradiusright}px;
+        -moz-border-radius-bottomright: #{$bradiusright}px;
+    }
+}
+
+
+@each $bradiusleft in $arBradius {
+    .b-left-radius-#{$bradiusleft} {
+        border-top-left-radius: #{$bradiusleft}px;
+        border-bottom-left-radius: #{$bradiusleft}px;
+        -moz-border-radius-topleft: #{$bradiusleft}px;
+        -moz-border-radius-bottomleft: #{$bradiusleft}px;
+    }
+}
+
+
+/*----------------------------------------------------------------------------------*/
+/*-----------------------------------------ISLAND-----------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+.island {
+    padding: 10px;
+}
+
+@each $island in $arPaddings {
+    .island-#{$island} {
+        padding: #{$island}px;
+    }
+}
+@each $island in $arPaddings {
+    .island-0#{$island} {
+        padding-left: #{$island}px;
+        padding-right: #{$island}px;
+    }
+}
+@each $island in $arPaddings {
+    .island-v#{$island} {
+        padding-top: #{$island}px;
+        padding-bottom: #{$island}px;
+    }
+}
+
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------PADDINGS----------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+@each $padding in $arPaddings {
+    .pad-top-#{$padding} {
+        padding-top: #{$padding}px;
+    }
+}
+@each $padding in $arPaddings {
+    .pad-bot-#{$padding} {
+        padding-bottom: #{$padding}px;
+    }
+}
+@each $padding in $arPaddings {
+    .pad-left-#{$padding} {
+        padding-left: #{$padding}px;
+    }
+}
+@each $padding in $arPaddings {
+    .pad-right-#{$padding} {
+        padding-right: #{$padding}px;
+    }
+}
+.no-pad {
+    padding: 0;
+}
+.no-pad-top {
+    padding-top: 0;
+}
+.no-pad-bottom {
+    padding-bottom: 0;
+}
+.no-pad-left {
+    padding-left: 0;
+}
+.no-pad-right {
+    padding-right: 0;
+}
+
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------MARGINS-----------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+@each $margin in $arMargins {
+    .marg-#{$margin} {
+        margin-top: #{$margin}px;
+        margin-bottom: #{$margin}px;
+    }
+}
+
+@each $margin in $arMargins {
+    .marg-lr-#{$margin} {
+        margin-left: #{$margin}px;
+        margin-right: #{$margin}px;
+    }
+}
+
+@each $margin in $arMargins {
+    .marg-left-#{$margin} {
+        margin-left: #{$margin}px;
+    }
+}
+
+@each $margin in $arMargins {
+    .marg-right-#{$margin} {
+        margin-right: #{$margin}px;
+    }
+}
+
+
+@each $margin in $arMargins {
+    .marg-top-#{$margin} {
+        margin-top: #{$margin}px;
+    }
+}
+@each $margin in $arMargins {
+    .marg-bot-#{$margin} {
+        margin-bottom: #{$margin}px;
+    }
+}
+
+@each $margin in $arMargins {
+    .marg-right-#{$margin} {
+        margin-right: #{$margin}px;
+    }
+}
+
+.b-circle {
+    @include border-radius(50%);
+}
+
+.marg-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+

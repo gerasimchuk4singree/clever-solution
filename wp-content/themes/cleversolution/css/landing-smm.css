@@ -1,0 +1,417 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,400i,700i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+@font-face{
+    font-family: "Reenie Beanie";
+    src: url("../font/ReenieBeanie/ReenieBeanie.ttf");
+}
+::-webkit-input-placeholder {color:#fff;}
+::-moz-placeholder          {color:#fff;}/* Firefox 19+ */
+:-moz-placeholder           {color:#fff;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#fff;}
+.relative-position{
+    position: relative;
+}
+.landing-smm-block{
+    width: 100%;
+    float: left;
+    background: #fff;
+    overflow: hidden;
+}
+.landing-smm-block .form-block .forms{
+    margin-bottom: 0;
+}
+.landing-smm-block .form-block .forms .button_m{
+    width: 170px;
+    height: 56px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border: 1px solid #ff5722;
+    border-radius: 28px;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    box-shadow: 0 0 9px rgba(255, 61, 0, 0.48);
+}
+.landing-smm-block .form-block .form-group{
+    margin-bottom: 46px;
+}
+.landing-smm-block .form-block .forms  .main_input{
+    background: transparent;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    padding-left: 10px;
+    color: #fff;
+    border-radius: inherit;
+    font-weight: 300;
+}
+.landing-smm-block .title{
+    color: #212121;
+    font-size: 42px;
+    font-family: BebasNeueBold;
+    width: 555px;
+    margin: 0 auto 65px;
+    border-bottom: 1px solid #212121;
+    padding-bottom: 5px;
+}
+.landing-smm-block .landing-smm-bg{
+    background: url("../images/landing-pages/landing-smm/bg-landing-smm.jpg") no-repeat center;
+    color: #fff;
+    background-size: cover;
+    float: left;
+    width: 100%;
+}
+.landing-smm-block .landing-smm-bg .main-land{
+    padding-left: 15px;
+    margin-bottom: 60px;
+}
+.landing-smm-block .landing-smm-bg .main-land img{
+    float: left;
+}
+.landing-smm-block .landing-smm-bg .title-block{
+    margin-bottom: 200px;
+}
+.landing-smm-block .landing-smm-bg .first-part{
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+.landing-smm-block .landing-smm-bg .second-part span{
+    display: inline-block;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    background-color: #ff5722;
+    padding: 0 5px;
+    margin-bottom: 30px;
+}
+.landing-smm-block .landing-smm-bg .third-part{
+    font-size: 38px;
+    font-family: "Reenie Beanie";
+}
+.landing-smm-block .landing-smm-bg .form-block{
+    margin-bottom: 160px;
+}
+.landing-smm-block .landing-smm-bg .info-block{
+    background-color: #ff5722;
+    margin-bottom: 117px;
+    padding: 10px 0;
+}
+.landing-smm-block .landing-smm-bg .info-block .text-block{
+    font-size: 22px;
+    padding: 45px 0;
+    border-right: 1px solid #fff;
+}
+.landing-smm-block .landing-smm-bg .info-block .no-border{
+    border-right: none;
+}
+.landing-smm-block .what-is-smm{
+    padding-top: 130px;
+    padding-bottom: 78px;
+    width: 100%;
+    float: left;
+}
+.landing-smm-block .what-is-smm .text-block{
+    color: #252525;
+    font-size: 18px;
+}
+.landing-smm-block .what-is-smm .bg-block{
+    background: url("../images/landing-pages/landing-smm/what-is-smm.jpg") no-repeat center;
+    height: 570px;
+    background-size: contain;
+    margin-top: 60px;
+}
+.landing-smm-block .top-smm-benefits{
+    background-color: #f9fafa;
+    width: 100%;
+    float: left;
+    padding: 70px 0 60px;
+}
+.landing-smm-block .top-smm-benefits ul>li{
+    font-size: 18px;
+    color: #252525;
+    padding: 5px 5px 5px 10px;
+}
+.landing-smm-block .top-smm-benefits ul>li:nth-child(odd){
+    background-color: #e7ebed;
+}
+.landing-smm-block .what-we-do{
+    width: 100%;
+    float: left;
+    padding: 80px 0 150px;
+}
+.landing-smm-block .what-we-do .items{
+    margin-bottom: 35px;
+}
+.landing-smm-block .what-we-do .items .item-block{
+    color: #252525;
+    font-size: 18px;
+    padding: 40px 20px 40px 200px;
+    position: relative;
+}
+.landing-smm-block .what-we-do .items .item-block.grey-block{
+    background-color: #e7ebed;
+}
+.landing-smm-block .what-we-do .items .item-block:after{
+    content: "";
+    height: 51px;
+    width: 51px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    bottom: -20px;
+    background-color: #fff;
+    z-index: 1;
+    transform: rotate(45deg);
+}
+.landing-smm-block .what-we-do .items .item-block:before{
+    content: "";
+    left: 59px;
+    position: absolute;
+    top:50%;
+    background: url("../images/landing-pages/landing-smm/sprite-what-we-do.png");
+}
+.landing-smm-block .what-we-do .items .item-block.first-element:before{
+    width: 58px;
+    height: 58px;
+    margin-top: -29px;
+}
+.landing-smm-block .what-we-do .items .item-block.second-element:before{
+    width: 59px;
+    height: 58px;
+    margin-top: -29px;
+    background-position: 0 -58px;
+}
+.landing-smm-block .what-we-do .items .item-block.third-element:before{
+    width: 63px;
+    height: 48px;
+    margin-top: -24px;
+    background-position: 0 -116px;
+}
+.landing-smm-block .what-we-do .items .item-block.fourth-element:before{
+    width: 61px;
+    height: 52px;
+    margin-top: -26px;
+    background-position: 0 -164px;
+}
+.landing-smm-block .what-we-do .items .item-block.fifth-element:before{
+    width: 52px;
+    height: 50px;
+    margin-top: -25px;
+    background-position: 0 -216px;
+}
+.landing-smm-block .what-we-do .items .item-block.grey-block:after{
+    background-color: #e7ebed;
+}
+.landing-smm-block .what-we-do .result-block{
+    font-size: 24px;
+    color: #252525;
+    text-transform: uppercase;
+}
+.landing-smm-block .what-we-do .result-block .img-block{
+    margin-bottom: 20px;
+}
+.landing-smm-block .what-we-do .result-block .first-text{
+    font-size: 56px;
+    margin-bottom: 15px;
+}
+.landing-smm-block .howwedoit-block{
+    padding: 50px 0 40px;
+    background-color: #ff5722;
+    width: 100%;
+    float: left;
+}
+.landing-smm-block .howwedoit-block .title{
+    color: white;
+    border-color: #fff;
+}
+.landing-smm-block .howwedoit-block .text-block{
+    width: 540px;
+    margin: 0 auto;
+}
+.landing-smm-block .howwedoit-block .text-block p{
+    margin-bottom: 35px;
+    color: #fff;
+}
+.landing-smm-block .why-clever-block{
+    float: left;
+    width: 100%;
+    padding: 133px 0 30px;
+    color: #252525;
+}
+.landing-smm-block .why-clever-block .link-home{
+    margin-bottom: 94px;
+}
+.landing-smm-block .why-clever-block .why-clever-title{
+    font-size: 80px;
+    font-family: BebasNeueRegular;
+    margin-bottom: 65px;
+}
+.landing-smm-block .why-clever-block .text-block{
+    font-size: 18px;
+    width: 770px;
+    margin: 0 auto 100px;
+}
+.landing-smm-block .why-clever-block .item-block{
+    font-size: 24px;
+    font-family: "Segoe UI Bold";
+    margin-bottom: 93px;
+}
+.landing-smm-block .bottom-block{
+    float: left;
+    width: 100%;
+    background: url("../images/landing-pages/landing-smm/bottom-block-bg.jpg") center;
+    background-size: cover;
+    padding: 110px 0;
+}
+.landing-smm-block .bottom-block .text-block{
+    background-color: #ff5722;
+    font-family: "Reenie Beanie";
+    font-size: 60px;
+    margin-bottom: 200px;
+    padding: 30px 0;
+    color: #fff;
+}
+@media(max-width: 1199px){
+    .landing-smm-block .bottom-block .text-block{
+        font-size: 50px;
+    }
+}
+@media (max-width: 1051px){
+    .mobile-contact{
+        float: left;
+        width: 100%;
+    }
+}
+@media (max-width:991px) {
+    .go-cl .logo-cl{
+        position: relative !important;
+    }
+    .landing-smm-block .landing-smm-bg .info-block .text-block{
+        border: none;
+        padding: 20px 0;
+    }
+    .landing-smm-block .bottom-block .text-block br{
+        display: none;
+    }
+    .landing-smm-block .why-clever-block .text-block{
+        width: 100%;
+    }
+}
+@media (max-width:767px){
+    .landing-smm-block .title{
+        width: 100%;
+        font-size: 24px;
+    }
+    .landing-smm-block .form-block{
+        margin: 0 -15px;
+    }
+    .landing-smm-block .landing-smm-bg .main-land img{
+        margin-top: 50px;
+    }
+    .landing-smm-block .landing-smm-bg .title-block{
+        margin-bottom:70px;
+    }
+    .landing-smm-block .landing-smm-bg .first-part{
+        font-size: 14px;
+    }
+    .landing-smm-block .landing-smm-bg .second-part span{
+        font-size: 33px;
+        margin-bottom: 5px;
+    }
+    .landing-smm-block .landing-smm-bg .third-part{
+        font-size: 21px;
+    }
+    .landing-smm-block .landing-smm-bg .form-block{
+        margin-bottom: 120px;
+    }
+    .landing-smm-block .landing-smm-bg .info-block{
+        margin-bottom: 0;
+    }
+    .landing-smm-block .what-is-smm{
+        padding: 60px 0 50px;
+    }
+    .landing-smm-block .what-is-smm .container{
+        padding: 0;
+    }
+    .landing-smm-block .what-is-smm .text-block{
+        padding: 0 15px;
+    }
+    .landing-smm-block .what-is-smm .bg-block{
+        height: 160px;
+    }
+    .landing-smm-block .top-smm-benefits{
+        padding: 33px 0 0;
+    }
+    .landing-smm-block .top-smm-benefits .container{
+        padding: 0;
+    }
+    .landing-smm-block .top-smm-benefits ul{
+        margin-bottom: 0;
+    }
+    .landing-smm-block .top-smm-benefits .help-block{
+        display: none;
+    }
+    .landing-smm-block .what-we-do{
+        padding: 81px 0 72px;
+    }
+    .landing-smm-block .what-we-do .container{
+        padding: 0;
+    }
+    .landing-smm-block .what-we-do .items .item-block{
+        padding: 18px 15px 30px 65px;
+        font-size: 14px;
+    }
+    .landing-smm-block .what-we-do .items .item-block:before{
+        left: 0;
+        transform: scale(0.4);
+    }
+    .landing-smm-block .what-we-do .items .item-block:after{
+        height: 30px;
+        width: 30px;
+        bottom: -10px;
+    }
+    .landing-smm-block .what-we-do .result-block{
+        font-size: 18px;
+    }
+    .landing-smm-block .howwedoit-block .container{
+        padding: 0;
+    }
+    .landing-smm-block .howwedoit-block .text-block{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .landing-smm-block .howwedoit-block .text-block p{
+        text-align: justify;
+    }
+    .landing-smm-block .howwedoit-block .text-block p:last-child{
+        margin-bottom: 0;
+    }
+    .landing-smm-block .why-clever-block{
+        padding: 55px 0 10px;
+    }
+    .landing-smm-block .why-clever-block .link-home{
+        margin-bottom: 60px;
+    }
+    .landing-smm-block .why-clever-block .why-clever-title{
+        font-size: 36px;
+        margin-bottom: 40px;
+    }
+    .landing-smm-block .why-clever-block .text-block{
+        margin-bottom: 80px;
+    }
+    .landing-smm-block .why-clever-block .item-block{
+        margin-bottom: 50px;
+    }
+    .landing-smm-block .bottom-block .text-block{
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+}

@@ -1,0 +1,286 @@
+@font-face {
+    font-family: 'adventura33';
+    src: url('../font/regular/AdVentura33-Condensed.eot');
+    src: url('../font/regular/AdVentura33-Condensed.eot?#iefix') format('embedded-opentype'),
+    url('../font/regular/AdVentura33-Condensed.woff') format('woff'),
+    url('../font/regular/AdVentura33.ttf') format('truetype'),
+    url('../font/regular/AdVentura33-Condensed.svg#segoe_uiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    overflow: visible !important;
+    overflow-x: hidden !important;
+	min-width: 320px;
+}
+.contect-form {
+    position: fixed;
+}
+.mob-menu {
+	border-bottom: 2px solid #164440;
+}
+.section-1 {
+    background: url("../images/medic-header.jpg") center top no-repeat;
+    background-size: cover;
+    height: 512px;
+}
+.bottom-center {
+    position: absolute;
+    bottom: -4px;
+    width: 66%;
+    text-align: center;
+    min-width: 300px;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+}
+.all-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 66%;
+}
+.marg-0-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-first, .p-second {
+    white-space: nowrap;
+    width: 90%;
+}
+.p-first {
+    top: 8%;
+    font-size: 45px;
+    font-weight: 600;
+    color: #3399e0;
+}
+.p-second {
+    bottom: 8%;
+    font-size: 60px;
+    font-weight: 700;
+    color: #216492;
+}
+
+.section-2 .first-block {
+    background: #b9a06a;
+    background-clip: border-box;
+    border-bottom: 8px dotted #ece8e0;
+    min-height: 430px;
+}
+.section-2 .second-block {
+    background: #ece8e0;
+    height: 475px;
+}
+
+.section-2 .first-block > div, .section-2 .second-block > div {
+    width: 80%;
+    max-width: 600px;
+}
+.md-title, .md-text {
+    color: #292929;
+}
+.md-title {
+    font-family: 'adventura33';
+    display: block;
+    text-align: center;
+}
+.md-text {
+    font-size: 18px;
+    line-height: 35px;
+    font-weight: 600;
+}
+.md-text span {
+    font-size: 24px;
+    font-weight: 600;
+    color: #4f1450;
+}
+.section-2 .second-block .md-text {
+    padding-left: 87px;
+    font-weight: 300;
+}
+.img-bg {
+    background: url("../images/medic-circle.png") center no-repeat;
+    background-size: contain;
+    width: 763px;
+    height: 534px;
+    margin-top: -144px;
+    margin-left: -44px;
+}
+.section-3 {
+    background: #0f949e; /* for non-css3 browsers */
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1aadb5', endColorstr='#057b86'); /* для IE6-9 */
+
+    background: -webkit-linear-gradient(#1aadb5, #057b86); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#1aadb5, #057b86); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#1aadb5, #057b86); /* For Firefox 3.6 to 15 */
+    background: -ms-linear-gradient(#1aadb5, #057b86); /* IE10+ */
+    background: linear-gradient(#1aadb5, #057b86); /* Standard syntax (must be last) */
+}
+.medic-tablet2 {
+    float: right;
+    margin-top: -2px;
+	width: 88%;
+}
+.section-3 .md-title {
+    padding-top: 50px;
+    font-size: 90px;
+    margin-left: -63px;
+    color: #ffffff;
+}
+.section-3 p {
+    font-size: 18px;
+    text-indent: 28px;
+    line-height: 20px;
+    color: #ffffff;
+}
+.section-4 {
+    background: #a8c2e2;
+    min-height: 275px;
+}
+.section-4 p {
+    line-height: 25px;
+    font-weight: 400;
+}
+.medic-bullets {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.carousel, .section-6 {
+    background: #4f1450;
+	overflow: hidden;
+}
+.section-6 > div {
+    width: 480px;
+}
+.section-6 p {
+    line-height: 85px;
+}
+.section-6 .p-f-1 {
+    line-height: 65px;
+}
+.section-6 .p-f-2 {
+    font-size: 95px;
+    font-weight: 800;
+}
+.section-6 .p-f-3 {
+    font-weight: 800;
+}
+.section-6 .font-88 {
+    font-size: 85px;
+    font-weight: 600;
+}
+
+
+@media (max-width: 1500px) {
+    .md-title {
+        font-size: 70px;
+    }
+}
+
+@media (min-width: 1051px) {
+    .js-mobile-contact-title {
+        border-bottom: none;
+        font-size: 68px;
+        font-family: 'adventura33';
+        text-align: center;
+        margin-top: 48px;
+        line-height: 100px;
+    }
+    .hide-on-desc {
+        display: none;
+    }
+    .js-innerform {
+        border-bottom: none;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 30px;
+    }
+    .mobile-contact .topinput {
+        background: none;
+    }
+    .mobile-contact .f2-tel {
+        margin-bottom: 30px;
+    }
+}
+/*@media (max-width: 1050px) {
+    .js-float-menu, .js-topform, .animation-block-3, .readmore, .orangetext, .pencil, .orange-bottom, .js-innernormalizer, .contect-form, .go-up, .anim-pinkline {
+        display: none;
+    }
+}*/
+
+@media (max-width: 760px) {
+    .section-1 {
+        height: 400px;
+    }
+    .first-block .md-text {
+        font-size: 14px;
+    }
+    .section-3 .md-title {
+        padding-top: 0;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 620px) {
+    .section-1 {
+        height: 300px;
+    }
+    .md-title {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 540px) {
+    .md-title {
+        font-size: 35px;
+    }
+    .img-bg {
+        display: none;
+    }
+    .section-2 .second-block .md-title {
+        margin-top: 30px;
+    }
+    .section-2 .second-block .md-text {
+        padding-left: 0;
+    }
+    .md-text span {
+        font-size: 19px;
+    }
+    .section-3 .md-title {
+        font-size: 60px;
+    }
+
+    .section-6 > div {
+        width: 300px;
+        padding-bottom: 20px;
+    }
+    .section-6 p {
+        line-height: 45px;
+    }
+    .section-6 .p-f-1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .section-6 .p-f-2 {
+        font-size: 58px;
+        margin-bottom: 14px;
+    }
+    .section-6 .p-f-3 {
+        font-size: 55px;
+    }
+    .section-6 .font-88 {
+        font-size: 51px;
+    }
+}

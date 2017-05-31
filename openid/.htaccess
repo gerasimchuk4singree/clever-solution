@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} /openid/
+RewriteCond %{QUERY_STRING} ^\z
+RewriteRule ^(.*)$ https://clever-solution.com/? [R=301,L]

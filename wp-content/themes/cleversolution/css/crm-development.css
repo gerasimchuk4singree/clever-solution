@@ -1,0 +1,378 @@
+
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+.crm-top{
+    background-image: url("../images/landing-pages/crm-development/top-bg.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: #fff;
+    background-size: cover;
+    padding-bottom:215px;
+    position: relative;
+    padding-top: 100px;
+}
+.crm-top:before {
+    content: "";
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-color: rgba(0, 34, 72, 0.7);
+}
+.crm-top-desc p {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    text-transform: uppercase;
+    padding-top: 80px;
+}
+.crm-top-desc .light {
+    padding-top:0;
+    line-height: 30px;
+}
+.crm-top-desc .btn {
+    padding: 7px 11px;
+    border: none;
+    border-radius: 0;
+    background-color: #007aff;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 31px;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: auto;
+    margin-top:70px;
+}
+.crm-top-desc .txt {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 24px;
+    display: block;
+    width:75%;
+}
+.crm-top-desc .note {
+    font-family: 'Reenie Beanie', cursive;
+    color: #ffffff;
+    font-size: 24px;
+    display: block;
+    padding-top: 30px;
+}
+.crm-inform {
+    background: #007aff;
+    padding:50px 0;
+}
+.crm-inform-box {
+    border-right: 1px solid #fff;
+    padding:35px 0;
+    text-align: center;
+}
+.crm-inform-box:last-child {
+    border:none;
+}
+.crm-inform-box span {
+    font-size: 22px;
+    color: #fff;
+    width: 90%;
+    display: block;
+    padding-left: 10%;
+    line-height:28px;
+}
+.form-landing {
+    padding: 20px 0;
+    background: #fff;
+}
+.form-landing .forms {
+    margin:0;
+}
+.form-landing input {
+    height:32px;
+    background: transparent;
+    border-left: none;
+    border-right: none;
+    border-bottom:1px solid #007aff;
+    border-top: none;
+    font-style: normal;
+    font-size: 17px;
+    padding-left: 10px;
+    font-weight: 300;
+    color: #000;
+    border-radius: inherit;
+}
+.form-landing .button_m {
+    width: 170px;
+    height: 56px;
+    box-shadow: 0 0 9px rgba(90, 200, 250, 0.48);
+    border: 1px solid #007aff;
+    background-color: #007aff;
+    border-radius: 28px;
+    font-size: 17px;
+    margin-top:30px;
+}
+.clients-form {
+    padding-top:155px;
+    padding-bottom: 120px;
+}
+.clients-form .title {
+    color: #212121;
+    font-size: 42px;
+    line-height: 56px;
+    text-align: center;
+    padding-bottom: 125px;
+}
+.clients-form-note {
+    color: #212121;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'BebasNeueBold';
+    padding-bottom: 55px;
+}
+.crm-benefits {
+    background: #03a9f4;
+    padding:35px 0;
+}
+.crm-benefits .title {
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 42px;
+    text-align: center;
+}
+.crm-benefits .row {
+    margin-top:65px;
+}
+.crm-benefits .img {
+    text-align: center;
+    min-height: 110px;
+}
+.crm-benefits .name {
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 20px;
+    line-height: 36px;
+    border-bottom:1px solid #fff;
+    text-align: center;
+}
+.crm-benefits .txt {
+    font-size:18px;
+    color: #fff;
+    font-family: "Segoe UI Light";
+    padding-top:20px;
+    line-height:24px;
+}
+.crm-blockDesc {
+    padding:130px 0;
+}
+.crm-blockDesc .name {
+    text-align: center;
+    color: #212121;
+    font-family: "BebasNeueBold";
+    font-size: 42px;
+    border-bottom:1px solid #000;
+    display: block;
+    padding-bottom:5px;
+}
+.crm-blockDesc .txt {
+    color: #212121;
+    font-size: 14px;
+    padding-top: 25px;
+    line-height: 18px;
+}
+.choose {
+    background-image: url("../images/landing-pages/crm-development/choose-bg.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: #fff;
+    background-size: cover;
+    padding-bottom:40px;
+    position: relative;
+    padding-top: 175px;
+    position: relative;
+}
+.choose:before {
+    content: "";
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background: rgba(255, 255, 255, 0.5);;
+}
+.choose .title {
+    color: #212121;
+    font-family: "BebasNeueBold";
+    font-size: 42px;
+    border-bottom:1px solid #000;
+    padding-bottom:5px;
+    display: block;
+    text-align: center;
+}
+.choose-step {
+    color: #212121;
+    font-family: "BebasNeueBold";
+    font-size: 20px;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    padding:50px 0;
+}
+.choose-step:before {
+     content: "";
+     position: absolute;
+     left:15px;
+     top:20%;
+     background: url("../images/landing-pages/crm-development/choose-step-before.png");
+     width:9px;
+     height:71px;
+ }
+.choose-step:after {
+    content: "";
+    position: absolute;
+    right:15px;
+    top:20%;
+    background: url("../images/landing-pages/crm-development/choose-step-after.png");
+    width:10px;
+    height:71px;
+}
+.choose-steps {
+    margin-top:60px;
+    margin-bottom: 70px;
+}
+.choose .txt {
+    color: #212121;
+    font-size: 14px;
+    line-height:22px;
+    display: block;
+    width: 48%;
+    margin: 0 auto;
+    padding-bottom: 125px;
+}
+.choose .form-landing {
+    background: transparent;
+}
+.form-landing  input::-webkit-input-placeholder {color:#000;}
+.form-landing  input::-moz-placeholder          {color:#000;}/* Firefox 19+ */
+.form-landing  input:-moz-placeholder           {color:#000;}/* Firefox 18- */
+.form-landing  inputt:-ms-input-placeholder      {color:#000;}
+.choose .clients-form-note {
+    padding-bottom:10px;
+}
+.crm .blue {
+    background: #03a9f4;
+}
+.crm .blue .txt {
+    color: #fff;
+}
+.crm .blue .name {
+    border-bottom:1px solid #fff;
+    color: #fff;
+}
+.crm-about {
+    padding:90px 0;
+}
+.crm-about .name {
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    padding-bottom:80px;
+}
+.crm-about .logo {
+    text-align: center;
+    display: block;
+}
+.crm-about .title {
+    color: #252525;
+    font-family: 'BebasNeueRegular';
+    font-size: 80px;
+    text-align: center;
+    padding:80px 0;
+}
+.crm-about-list {
+    padding-bottom:130px;
+}
+@media (max-width: 767px) {
+    .crm-top-desc p {
+        padding-top:60px;
+    }
+    .crm-top {
+        padding-top:60px;
+        padding-bottom:80px;
+        background-position: center;
+    }
+    .crm-top-desc .btn {
+        margin-top:15px;
+    }
+    .crm-top-desc .txt {
+        width: 100%;
+        padding-top: 15px;
+    }
+    .crm-inform-box span {
+        font-size: 18px;
+        display: block;
+        margin: 0 auto;
+        padding:0;
+    }
+    .crm-inform-box {
+        border:none;
+        padding-right:0;
+    }
+    .crm-inform {
+        padding:0;
+    }
+    .clients-form .title {
+        font-size:24px;
+        line-height:28px;
+        padding-bottom: 60px;
+    }
+    .clients-form {
+        padding-top:70px;
+        padding-bottom: 40px;
+    }
+    .crm-benefits .row {
+        margin:0;
+    }
+    .crm-benefits .img {
+        margin-top: 70px;
+    }
+    .crm-blockDesc .name {
+        font-size:24px;
+    }
+    .crm-blockDesc {
+        padding:80px 0;
+    }
+    .choose .title {
+        font-size:24px;
+    }
+    .choose-step:before, .choose-step:after {
+        display: none;
+    }
+    .choose {
+        padding-top:45px;
+        padding-bottom:0;
+        background-position: center;
+    }
+    .choose-steps {
+        margin-top:0;
+        margin-bottom: 20px;
+    }
+    .choose-step {
+        padding:40px 0;
+    }
+    .choose .txt {
+        width:100%;
+        padding-bottom:30px;
+    }
+    .crm-about .title {
+        font-size:40px;
+    }
+    .crm-about-list {
+        padding-bottom:0;
+    }
+    .choose .form-landing {
+        background: #fff;
+    }
+    .nopadding-mob {
+        padding:0;
+    }
+}

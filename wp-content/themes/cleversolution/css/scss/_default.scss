@@ -1,0 +1,99 @@
+@import "compass/css3";
+@import "compass/utilities";
+
+.ir                                       {position: absolute; overflow: hidden; width: 1px;height: 1px;left: -1000%;top: -1000%;text-indent: -1000%;}
+img.r                                     {width: 100%;height: auto;display: block;}
+.bold                                     {font-weight: 700;}
+.normal                                   {font-weight: 400;}
+a.text-dec-inv                            {text-decoration: underline;}
+a.text-dec-inv:hover                      {text-decoration: none;}
+.relative                                 {position: relative;}
+.wfull                                    {width: 100%;}
+.no-margin                                {margin: 0 !important;}
+.no-padding                               {padding: 0 !important;}
+.display, .block                          {display: block !important;}
+.no-display                               {display: none !important;}
+.table                                    {display:table;}
+.cell                                     {display: table-cell;}
+.italic                                   {font-style: italic;}
+.text-underline                           {text-decoration: underline;}
+.no-text                                  {text-indent: -9999px;}
+.inline, .inline-ul li                    {display: inline-block;}
+.v-top                                    {vertical-align: top;}
+.v-middle                                 {vertical-align: middle;}
+.v-bot                                    {vertical-align: bottom;}
+.a-bot                                    {bottom:0;}
+.a-left                                   {left:0;}
+.a-right                                  {right:0;}
+.a-top                                    {top:0;}
+.float-r                                  {float: right;}
+.float-l                                  {float: left;}
+.overflow                                 {overflow: hidden;}
+.overflow-x                               {overflow-x: hidden;}
+.center                                   {text-align: center;}
+.left                                     {text-align: left;}
+.right                                    {text-align: right;}
+.justify                                  {text-align: justify;}
+.center img                               {margin-left: 0;margin-right: 0;}
+.upper                                    {text-transform: uppercase;}
+.text-normal                              {text-transform: none;}
+.pointer, .submit                         {cursor: pointer;}
+.no-underline, .underline:hover           {text-decoration: none !important;}
+.underline, .decorline,          
+.hoverline:hover                          {text-decoration: underline !important;}
+.clear-ul                                 {list-style: none;padding: 0;margin-top:0px;margin-bottom:0px;}
+.p                                        {margin:0px;}
+.ul-circle                                {list-style-type: disc ;}
+.no-bord                                  {border:0px;}
+.clear-dl, .clear-dl dd                   {margin: 0;}
+.cf:after, .clear                         {clear: both;}
+.absolute                                 {position: absolute;}
+.normal                                   {font-style: normal;}
+.full-center                              {position: absolute;right:0px;left:0px;top:0px;bottom:0px;margin:auto;}
+.no-js body:after                         {display: block;position: fixed;top: 5px;left: 5%;right: 5%;padding: 10px 0;background: firebrick;color: lightyellow;text-align: center;font-weight: bold;z-index: 100500;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;content: 'This page requires JavaScript for correct performance';}
+.disable-hover, .disable-hover *          {pointer-events: none !important;}
+.index-999                                {z-index: 999;}
+.index-500                                {z-index: 500;}
+.index-400                                {z-index: 400;}
+.index-300                                {z-index: 300;}
+.index-200                                {z-index: 200;}
+.index-100                                {z-index: 100;}
+.lh12                                     {line-height: 1.2;} 
+.lh1                                      {line-height: 1;} 
+.lh11                                     {line-height: 1.1;} 
+.lh14                                     {line-height: 1.4;}
+.lh15                                     {line-height: 1.5;} 
+.lh20                                     {line-height: 2;} 
+.light                                    {font-weight: 300;}
+.semilight                                {font-weight: 200;}
+.regular                                  {font-weight: 400;}
+.semibold, .semibold b                    {font-weight: 600;}
+.bold                                     {font-weight: 700;}
+.extrabold                                {font-weight: 800;}
+.cover                                    {background-size: cover;-moz-background-size: cover;}
+.ltr                                      {direction: ltr;}
+.rtl                                      {direction: rtl;}
+.nowrap                                   {white-space: nowrap;}
+.transition-03                            {@include transition(all 0.3s ease);}
+.cl-white                                 {color:#fff;}
+.hfull                                    {height: 100%;}
+.abs-h-mid                                {position: absolute;top:50%;@include transform(translateY(-50%));}
+.abs-mid                                  {position: absolute;left:50%;top:50%;@include transform(translate(-50%,-50%));}
+
+@media (min-width: 1px) {
+    html{
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 480px) {
+    html{
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 960px) {
+    html{
+        font-size: 14px;
+    }
+}

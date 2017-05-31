@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i,700i');
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+.urology-block .urology-bg{
+    background: url("../images/landing-pages/urologi-clinic/main-bg.jpg") no-repeat center;
+    color: #fff;
+}
+.urology-block .main-content{
+    background: rgba(0,0,0,0.5);
+}
+.urology-block .urology-bg .title-block{
+    margin-bottom: 96px;
+}
+.urology-block .urology-bg .title-block .sub-title{
+    font-size: 42px;
+    font-family: BebasNeueBold;
+}
+.urology-block .urology-bg .title-block .title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 86px;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.urology-block .urology-bg .title-block .title>span{
+    display: inline-block;
+    background-color: #ff5722;
+    font-weight: 700;
+    line-height: 1.4;
+    padding: 0 15px;
+}
+.urology-block .urology-bg .form-block{
+    margin-bottom: 74px;
+}
+.urology-block .urology-bg .form-block .urology-proc{
+    width: 488px;
+    background-color: white;
+    box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    padding: 20px 20px 0 20px;
+}
+.urology-block .urology-bg .form-block .forms{
+    margin-bottom: 0;
+}
+.urology-block .urology-bg .title-about-clever{
+    color: #ff5722;
+    font-size: 48px;
+    padding-top: 37px;
+    padding-bottom: 24px;
+    font-family: "Segoe UI Bold";
+}
+.urology-block .about-clever{
+    background-color: #ff5722;
+    padding: 9px 0 6px;
+}
+.urology-block .about-clever .content{
+    padding: 0 192px;
+}
+.urology-block .about-clever .slogan{
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+    margin-bottom: 32px;
+}
+.urology-block .about-clever p{
+    margin-bottom: 26px;
+    color: #fff;
+}
+.urology-block .secondary-contact-form .form-cl-2{
+    background: #fff;
+    width: 506px;
+    box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+    margin: 0 auto 134px;
+}
+.urology-block .secondary-contact-form .form-cl-2 form{
+    margin: 20px 0 0;
+}
+.urology-block .secondary-contact-form .form-cl-2 .forms{
+    margin-bottom: 0;
+}
+.urology-block .secondary-contact-form  .top-left-1{
+    top: 5px;
+    left:3px;
+}
+.urology-block .secondary-contact-form  .top-right-1{
+    top:5px;
+    right: 3px;
+}
+.urology-block .secondary-contact-form  .bot-left-1{
+    top: 240px;
+    right: 3px;
+}
+.urology-block .secondary-contact-form  .bot-right-1{
+    top: 240px;
+    left:3px;
+
+}
+.urology-block .important-factors-niche .title{
+    font-size: 61px;
+    font-family: "Segoe UI Bold";
+    color: #fb8c00;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+.urology-block .important-factors-niche .content-block{
+    background-color:#fb8c00;
+    margin-top: -5px;
+    padding-top: 39px;
+    padding-bottom: 12px;
+    color: #fff;
+}
+.urology-block .important-factors-niche .item{
+   position: relative;
+    border-radius: 80px 71px 71px 80px;
+    padding: 0 62px 0 160px;
+    min-height: 150px;
+    margin-bottom: 25px;
+    background-color: #ffab00;
+    box-shadow: inset -5px 0 0 #fb8c00;
+    font-size: 16px;
+    display: table;
+}
+.urology-block .important-factors-niche .img-block{
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 5px solid #fb8c00;
+    border-radius: 100px;
+}
+.urology-block .important-factors-niche .text-block{
+    display: table-cell;
+    vertical-align: middle;
+}
+.urology-block .contact-block{
+    padding: 239px 0 271px;
+}
+.urology-block .contact-block .form-cl-2{
+    background: url('../images/landing-pages/pediatric-block/contact-us-bg.png') no-repeat center;
+    background-size: contain;
+}
+.urology-block .contact-block .form-cl{
+    width: 460px;
+    margin:  0 auto;
+}
+.urology-block .why-us{
+    padding: 34px 0 67px;
+    margin-bottom: 80px;
+    background-color: #f57c00;
+}
+.urology-block .why-us .title-block{
+    font-size: 149px;
+    color: #fff;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Segoe UI Bold";
+    margin-bottom: 51px;
+}
+.urology-block .why-us .text-block{
+    color: white;
+    font-size: 30px;
+    font-family: "Segoe UI";
+}
+.urology-block .why-us .text-block>p{
+    margin-bottom: 30px;
+}
+@media (max-width: 1199px) {
+    .urology-block .important-factors-niche .title{
+        font-size: 50px;
+    }
+    .contact-block{
+        padding: 150px 0;
+    }
+}
+@media (max-width:991px) {
+    .urology-block .about-clever .title{
+        font-size: 44px;
+    }
+    .urology-block .important-factors-niche .title{
+        font-size: 40px;
+    }
+    .why-us .title-block{
+        font-size: 90px;
+    }
+    .go-cl .logo-cl{
+        position: relative !important;
+    }
+}
+@media(max-width: 767px){
+    .urology-block .pediatric-bg{
+        background-position-x:-250px;
+        background-size: auto;
+    }
+    .urology-block .urology-bg .title-block .title{
+        font-size: 50px;
+    }
+    .urology-block .urology-bg .title-about-clever{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .urology-block .about-clever .content{
+        padding: 0;
+    }
+    .urology-block .urology-bg .form-block .urology-proc{
+        width: auto;
+    }
+    .urology-block .secondary-contact-form .form-cl-2{
+        width: 100%;
+    }
+    .urology-block  .contact-block{
+        padding: 50px 0;
+    }
+    .urology-block  .contact-block .form-cl{
+        width: 100%;
+    }
+    .urology-block  .why-us .title-block{
+        text-align: center;
+        font-size: 55px;
+    }
+    .urology-block  .why-us .text-block{
+        font-size: 18px;
+    }
+    .top-left-1, .top-right-1, .bot-left-1, .bot-right-1{
+        display: none;
+    }
+    .urology-block .important-factors-niche .title{
+        font-size: 35px;
+    }
+    .secondary-contact-form{
+        padding: 0 20px
+    }
+    .form-cl{
+        padding: 10px 20px!important;;
+    }
+    .urology-block .important-factors-niche .item{
+        padding: 20px 40px;
+    }
+    .urology-block .important-factors-niche .img-block{
+        display: none;
+
+    }
+}

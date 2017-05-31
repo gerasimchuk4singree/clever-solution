@@ -1,0 +1,115 @@
+@media screen and (max-width: 768px) {
+	.ma-cl {
+    width: 90%;
+    padding: 0 0 110px 0;
+    margin: 0 auto;
+}
+.fixed-header {
+	position: fixed;
+    top: 85px;
+    left: 0;
+    z-index: 100;
+}
+    .factors-cl>li div {
+   padding: 72px 5px 0 5px;
+    height: 100%;
+    background: #cfd8dc;
+    position: relative;
+}
+    .factors-cl li.pre-last {
+    margin-left: 0;
+}
+    .z-cl img {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    height: auto;
+}
+	.proc {
+		width: 100%;
+	}
+.go-cl {
+	position: relative;
+}
+.go-cl .logo-cl {
+	position: absolute;
+	top: 0;
+}
+.z-cl img {
+	position: inherit;
+}
+.main-land h1 span {
+    color: #212121;
+    font-family: "Segoe UI";
+    font-size: 43px;
+    font-weight: 700;
+}
+.main-land h1 {
+    text-align: center;
+    font-size: 24.492px;
+    font-family: "BebasNeueBold";
+    color: rgb(33, 33, 33);
+    line-height: 1;
+    margin: 145px 0 0 0;
+}
+.proc img {
+	display: none;
+}
+.about-cl p.ital {
+    color: #212121;
+    font-size: 16px;
+    font-family: "Segoe UI";
+    font-style: italic;
+    text-align: right;
+    font-weight: 400;
+    padding: 0 20px;
+    margin: 25px 0 104px 0;
+}
+.about-cl p.text {
+    color: #212121;
+    font-size: 13px;
+    font-weight: 400;
+}
+.small {
+	display: block;
+    width: 100%;
+}
+.large {
+	display: none;
+}
+.import-cl p {
+    color: #212121;
+    font-size: 9px;
+    font-weight: 400;
+    font-family: "Segoe UI";
+    word-wrap: break-word;
+}
+.drop-cl li {
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+    background: ;
+    /* width: 300px; */
+    height: 150px;
+}
+ .factors-cl>li {
+    display: inline-block;
+    list-style-type: none;
+    height: 245px;
+    margin: 104px 0 0 0;
+    padding: 0 5px;
+}
+.form-cl {
+    margin-bottom: 27px;
+    position: relative;
+    padding: 10px;
+}
+}
+@media screen and (max-width: 992px) {
+	.fixed-icons {
+	display: none;
+}
+.go-cl>img {
+    height: 58%;
+}
+}

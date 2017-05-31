@@ -1,0 +1,184 @@
+/*
+Theme Name: Clever Solution
+Theme URI: http://clever-solution.com
+Author: Pavel Berejnoi
+Author URI: http://vk.com/id67575211
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: cleversolution
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body:not(.home) #fp-nav {
+    display: none;
+}
+
+body:not(.home) .js-intrestingbutton {
+    display: none !important;
+    height:  0 !important;
+}
+
+.contect-form {
+    position: fixed;
+}
+.mob-menu {
+    border-bottom: 2px solid #164440;
+}
+.mobile-contact div.wpcf7-validation-errors {
+    color: #292929;
+}
+.display-none {
+    display: none;
+}
+
+/** Styles for Infinite Scroll */
+.pix-wrapper{
+    text-align:center;
+    margin-top:25px;
+}
+.pix-loader{
+    display:none;
+}
+@-webkit-keyframes pulse {
+    0% { -webkit-transform: scale(1); }
+    50% { -webkit-transform: scale(1.1); }
+    100% { -webkit-transform: scale(1); }
+}
+@-moz-keyframes pulse {
+    0% { -moz-transform: scale(1); }
+    50% { -moz-transform: scale(1.1); }
+    100% { -moz-transform: scale(1); }
+}
+@-o-keyframes pulse {
+    0% { -o-transform: scale(1); }
+    50% { -o-transform: scale(1.1); }
+    100% { -o-transform: scale(1); }
+}
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+.pulse {
+    -webkit-animation-duration: 2.3s;
+    -moz-animation-duration: 2.5s;
+    -o-animation-duration: 2.5s;
+    animation-duration: 2.5s;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -o-animation-name: pulse;
+    animation-name: pulse;
+    animation-iteration-count: infinite;
+}
+.not-found-page{
+    background: url('images/img-404.png') #007bc3;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.not-found-page .js-topform{
+    z-index: 2;
+}
+.not-found-page .head-telephones{
+    position: absolute;
+    right: 45px;
+    bottom: 45px;
+}
+@media (min-width: 1051px) {
+    .hide-on-desc {
+        display: none;
+    }
+}
+@media (max-width: 1050px) {
+    .not-found-page{
+        height: 350px !important;
+        background: url('images/404-page.png') #007bc3 center no-repeat;
+        background-size: contain;
+    }
+    .not-found-page .clouds{
+        display: none;
+    }
+    .not-found-page .head-telephones{
+        display: none;
+    }
+    .js-mobile-menu-button {
+        padding-left: 20%;
+        border-top: 2px solid #164440;
+        position: relative;
+        color: #fff;
+        font-size: 18px;
+        vertical-align: middle;
+        padding-top: 4px;
+        padding-bottom: 6px;
+        cursor: pointer;
+    }
+    .js-mobile-menu-button:before {
+        background: url("images/rightblink.png") no-repeat;
+        width: 15px;
+        height: 25px;
+        content: "";
+        display: inline-block;
+        margin-right: 20px;
+        vertical-align: middle;
+    }
+    .js-mobile-menu-button.js-active:before {
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+    .js-mobile-menu-button span {
+        display: inline-block;
+        vertical-align: middle;
+        line-height: 25px;
+    }
+    .hide-on-mobile {
+        display: none;
+    }
+
+    .perehod-niche-block{width: 45% !important;}
+    .niche-right-block {width: 90%!important; top: 0% !important;}
+    .niche-block-links {top: 72% !important;}
+    .niche-main-block{height: 1050px;}
+    .perehod-niche-block a{font-size: 14px!important;}
+.exeption>img {
+width:100%;
+}
+}
+
+/*Homepage new styles*/
+.niche-right-block{ top: 35%; }
+
+.niche-block-links{
+    position: absolute;
+    top: 75%;
+    right: 0px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding-right: 5%;
+    padding-left: 5%;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.perehod-niche-block{background-color: rgba(0, 0, 0, 0.5);}
+
+.perehod-niche-block a{
+    font-size: 16px; 
+    line-height: 2;
+}

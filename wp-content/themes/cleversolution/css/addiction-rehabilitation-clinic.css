@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i,700i');
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg{
+    background: url("../images/landing-pages/addiction-rehabilitation-clinic/addiction-rehabilitation-clinic-bg.jpg") no-repeat center;
+    color: #fff;
+    background-size: cover;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block{
+    margin-top: 146px;
+    margin-bottom: 185px;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block hr{
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    border-top:2px solid #ff3d00;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block .sub-title{
+    font-size: 30px;
+    font-family: BebasNeueBold;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block .title{
+    font-size: 33px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    font-family: "Segoe UI Light";
+    text-transform: uppercase;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block .title>span{
+    font-family: "Segoe UI Bold";
+    font-size: 45px;
+    background-color: #ff2d55;
+    display: inline-block;
+    padding: 10px 7px;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .bottom-text{
+    font-size: 18px;
+    margin-top: 25px;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg  .form-title{
+    font-size: 21px;
+    font-family: "Segoe UI Light";
+    margin-bottom: 35px;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .form-block .addiction-rehabilitation-proc{
+    width: 460px;
+    margin: 0 auto;
+}
+.addiction-rehabilitation-block .addiction-rehabilitation-bg .form-block .bord-cl{
+    display: none;
+}
+.addiction-rehabilitation-block .about-clever{
+    background-color: #ff3d00;
+    padding: 82px 0 63px;
+    color: #fff;
+}
+.addiction-rehabilitation-block .about-clever .top-about{
+    width: 805px;
+    margin: 0 auto 67px;
+}
+.addiction-rehabilitation-block .about-clever .title-about-clever{
+    font-size: 70px;
+    font-family: "Segoe UI Light";
+    margin-bottom: 10px;
+}
+.addiction-rehabilitation-block .about-clever  .slogan{
+    font-size: 18px;
+    font-style: italic;
+}
+.addiction-rehabilitation-block .about-clever .content{
+    width: 462px;
+    margin: 0 auto;
+    font-style: italic;
+}
+.addiction-rehabilitation-block .ma-cl{
+    padding-bottom: 0;
+}
+.addiction-rehabilitation-block .important-factors-niche{
+    padding: 60px 0;
+    background-color: #ff2d55;
+    color: #fff;
+}
+.addiction-rehabilitation-block .important-factors-niche .title{
+    font-size: 48px;
+    margin-bottom: 55px;
+}
+.addiction-rehabilitation-block .important-factors-niche .content-block .item{
+    width: 460px;
+    margin: 0 auto 20px;
+}
+.addiction-rehabilitation-block .why-us{
+    padding-top: 147px;
+    margin-bottom: 96px;
+}
+.addiction-rehabilitation-block .why-us .title-block{
+    font-size: 130px;
+    color: #555;
+    margin-bottom: 145px;
+    font-family: "Segoe UI Light";
+}
+.addiction-rehabilitation-block .why-us .text-block{
+    font-size: 30px;
+    color: black;
+}
+.addiction-rehabilitation-block .why-us .text-block p{
+    margin-bottom: 40px;
+}
+.addiction-rehabilitation-block .secondary-contact-form .form-cl-2{
+    background: #dfdfdf;
+    width: 548px;
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.44);
+    margin: 0 auto 150px;
+    padding: 46px 46px 20px;
+}
+.addiction-rehabilitation-block .secondary-contact-form  .form-cl-2 form{
+    margin: 0;
+}
+.addiction-rehabilitation-block .secondary-contact-form .forms{
+    margin: 0;
+}
+.addiction-rehabilitation-block .secondary-contact-form  .bord-cl{
+    display: none;
+}
+@media(max-width: 991px){
+    .addiction-rehabilitation-block .go-cl .logo-cl{
+        position: relative;
+        margin-top: 15px;
+    }
+    .addiction-rehabilitation-block .about-clever .top-about{
+        width: 100%;
+    }
+}
+@media(max-width: 767px){
+    .addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block{
+        margin-top: 46px;
+        margin-bottom: 85px;
+    }
+    .addiction-rehabilitation-block .addiction-rehabilitation-bg .form-block .addiction-rehabilitation-proc{
+        width: 100%;
+    }
+    .addiction-rehabilitation-block .addiction-rehabilitation-bg .title-block .title>span{
+        font-size: 35px;
+    }
+    .addiction-rehabilitation-block .about-clever .title-about-clever{
+        font-size: 35px;
+    }
+    .addiction-rehabilitation-block .about-clever .content{
+        width: 100%;
+    }
+    .addiction-rehabilitation-block .important-factors-niche .content-block .item{
+        width:100%;
+    }
+    .addiction-rehabilitation-block .secondary-contact-form .form-cl-2{
+        width: 100%;
+    }
+    .addiction-rehabilitation-block .why-us .title-block{
+        font-size: 75px;
+        margin-bottom: 50px;
+    }
+    .addiction-rehabilitation-block .why-us{
+        padding-top: 100px;
+        margin-bottom: 20px;
+    }
+    .addiction-rehabilitation-block .why-us .text-block{
+        font-size: 18px;
+    }
+    .addiction-rehabilitation-block .secondary-contact-form{
+        padding: 0 15px;
+    }
+    .addiction-rehabilitation-block .secondary-contact-form .form-cl-2{
+        padding: 0;
+    }
+}

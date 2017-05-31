@@ -1,0 +1,27 @@
+2016-10-21 08:24:14
+Array
+(
+)
+
+
+2016-10-21 08:24:14
+Array
+(
+    [openid_dh_consumer_public] => cpnygcORNi+9VusDxFLe/qyliEp7vqqiz6D7ws8lIdrBwURMNm+DFbfutTRAosZNCubuWSIVCeYy3UEB+1dbfH8dG/VpkBpVWZusK/6/fY8Hd0Q2YNw+5YQvPGA8TY5JueOFxdJrO6Pmm8do1Xt+NqINhzs/q0PvS8Li+jtgZHk=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-10-21 08:24:18
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26ret_fail%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26forwhat%3Dwww%24%2F%26oic.identity%3Dhttp%3A%2F%2Fclever-solution.com%2Fopenid%2F%26oic.time%3D1477036109-28764a4f0ccc97c7922b%26openid.mode%3Derror%26openid.error%3DInvalid%20identity%3A%20%27http%3A%2F%2Fclever-solution.com%2Fopenid%2Findex.php%27&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26ret_fail%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26forwhat%3Dwww%24%2F%26oic.identity%3Dhttp%3A%2F%2Fclever-solution.com%2Fopenid%2F%26oic.time%3D1477036109-28764a4f0ccc97c7922b%26openid.mode%3Derror%26openid.error%3DInvalid%20identity%3A%20%27http%3A%2F%2Fclever-solution.com%2Fopenid%2Findex.php%27&forwhat=www%2524%252Fidentity%252Fcallback-openid.bml%253Fret%253Dhttp%253A%252F%252Fwww.livejournal.com%252F%2526ret_fail%253Dhttp%253A%252F%252Fwww.livejournal.com%252F%2526forwhat%253Dwww%252524%25252F%2526oic.identity%253Dhttp%253A%252F%252Fclever-solution.com%252Fopenid%252F%2526oic.time%253D1477036109-28764a4f0ccc97c7922b%2526openid.mode%253Derror%2526openid.error%253DInvalid%2520identity%253A%2520%2527http%253A%252F%252Fclever-solution.com%252Fopenid%252Findex.php%2527&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1477038257-53ba722acd07f905a170
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => em0qddd0as7bprr51kra082lh7
+)
+
+

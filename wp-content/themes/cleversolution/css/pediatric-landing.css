@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i,500i,700i');
+.inline-block{
+    display: inline-block;
+    vertical-align: middle;
+}
+.form-cl-2{
+    background: none;
+}
+.form-cl-2 form{
+    padding: inherit;
+}
+.pediatric-block .pediatric-bg{
+    background: url('../images/landing-pages/pediatric-block/pediatric-bg.jpg') no-repeat;
+    line-height: 1;
+    padding-bottom: 63px;
+    background-size: cover;
+}
+.pediatric-block .label-pediatric .pediatric-proc{
+    padding-top: 134px;
+    margin-bottom: 64px;
+}
+.pediatric-block .pediatric-bg .pediatric-proc.col-md-6 {
+    width: 50% !important;
+}
+.pediatric-block .label-pediatric .top-text{
+    font-size: 42px;
+    font-family: "BebasNeueBold";
+}
+.pediatric-block .label-pediatric h1{
+    display: inline-block;
+    padding: 5px;
+    font-size: 67px;
+    color: #fff;
+    text-align: right;
+    background: #1565c0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 0;
+}
+.pediatric-block .label-pediatric .websites{
+    color:#1565c0;
+    font-size: 68px;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+.pediatric-block .label-pediatric .bottom-text{
+    font-style: italic;
+}
+.pediatric-block .form-block {
+    padding: 38px 0 100px;
+    background-color: rgba(255,255,255,0.5);
+}
+.pediatric-block .about-clever{
+    background-color: #ff5722;
+    padding: 25px 0 36px;
+    color: #fff;
+    font-family: "Segoe UI";
+    line-height: 1.4;
+}
+.pediatric-block .about-clever .title{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Segoe UI Bold";
+    margin-bottom: 19px;
+    line-height: 1.05;
+}
+.pediatric-block .secondary-contact-form .form-cl-2{
+    background: #fff;
+    width: 506px;
+    box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+    margin: 0 auto 134px;
+}
+.pediatric-block .secondary-contact-form .form-cl-2 form{
+    margin: 20px 0 0;
+}
+.pediatric-block .secondary-contact-form .form-cl-2 .forms{
+    margin-bottom: 0;
+}
+.pediatric-block .secondary-contact-form  .top-left-1{
+    top: 5px;
+}
+.pediatric-block .secondary-contact-form  .top-right-1{
+    top:5px;
+}
+.pediatric-block .secondary-contact-form  .bot-left-1{
+    top: 240px;
+}
+.pediatric-block .secondary-contact-form  .bot-right-1{
+    top: 240px;
+}
+.pediatric-block .important-factors-niche .title{
+    font-size: 61px;
+    font-family: "Segoe UI Bold";
+    color: #fb8c00;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+.pediatric-block .important-factors-niche .content-block{
+    background-color:#fb8c00;
+    margin-top: -5px;
+    padding-top: 39px;
+    padding-bottom: 12px;
+    border-top:19px solid #ef6c00;
+}
+.pediatric-block .important-factors-niche .item{
+    margin-bottom: 17px;
+}
+.pediatric-block .important-factors-niche .img-block{
+    width: 13%;
+}
+.pediatric-block .important-factors-niche .text-block{
+    width: 87%;
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+}
+.contact-block{
+    padding: 239px 0 271px;
+}
+.contact-block .form-cl-2{
+    background: url('../images/landing-pages/pediatric-block/contact-us-bg.png') no-repeat center;
+    background-size: contain;
+}
+.contact-block .form-cl{
+    width: 460px;
+    margin:  0 auto;
+}
+.why-us{
+    background: url("../images/landing-pages/pediatric-block/why-us-bg.png") #f57c00 left 50px no-repeat;
+    padding: 34px 0 90px;
+    margin-bottom: 136px;
+}
+.why-us .title-block{
+    font-size: 149px;
+    color: #f57c00;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Segoe UI Bold";
+    background: #fff;
+    margin-bottom: 49px;
+}
+.why-us .text-block{
+    color: white;
+    font-size: 30px;
+    font-family: "Segoe UI";
+}
+.why-us .text-block>p{
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1199px) {
+    .pediatric-block .important-factors-niche .title{
+        font-size: 50px;
+    }
+    .contact-block{
+        padding: 150px 0;
+    }
+}
+@media (max-width:992px) {
+    .pediatric-block .about-clever .title{
+        font-size: 44px;
+    }
+    .pediatric-block .important-factors-niche .title{
+        font-size: 40px;
+    }
+    .why-us .title-block{
+        font-size: 90px;
+    }
+}
+@media(max-width: 767px){
+    .pediatric-block .pediatric-bg{
+        background-position-x:-250px;
+        background-size: auto;
+    }
+    .pediatric-block .label-pediatric h1{
+        font-size: 42px;
+    }
+    .pediatric-block .about-clever .title{
+        text-align: center;
+    }
+    .pediatric-block .secondary-contact-form .form-cl-2{
+        width: 100%;
+    }
+    .contact-block{
+        padding: 50px 0;
+    }
+    .contact-block .form-cl{
+        width: 100%;
+    }
+    .why-us .title-block{
+        text-align: center;
+        font-size: 55px;
+    }
+    .why-us .text-block{
+        font-size: 18px;
+    }
+    .top-left-1, .top-right-1, .bot-left-1, .bot-right-1{
+        display: none;
+    }
+    .pediatric-block .important-factors-niche .title{
+        font-size: 35px;
+    }
+    .secondary-contact-form{
+        padding: 0 20px
+    }
+    .form-cl{
+        padding: 10px 20px!important;;
+    }
+}

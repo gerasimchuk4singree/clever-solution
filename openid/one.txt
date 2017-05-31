@@ -1,0 +1,1266 @@
+2016-10-21 10:12:47
+Array
+(
+)
+
+
+2016-10-21 10:12:47
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2F&ret_fail=http%3A%2F%2Fwww.livejournal.com%2F&forwhat=www%2524%252F&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1477044767-0d9e4fbb0ed3f385bcdc
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => n3ci30oeaaf3tg608n0kah3lt6
+)
+
+
+2016-10-21 10:12:48
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-10-21 10:14:27
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-10-21 10:14:27
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2F&ret_fail=http%3A%2F%2Fwww.livejournal.com%2F&forwhat=www%2524%252F&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1477044767-0d9e4fbb0ed3f385bcdc
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => n3ci30oeaaf3tg608n0kah3lt6
+)
+
+
+2016-10-21 10:29:20
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2F&ret_fail=http%3A%2F%2Fwww.livejournal.com%2F&forwhat=www%2524%252F&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1477044767-0d9e4fbb0ed3f385bcdc
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => n3ci30oeaaf3tg608n0kah3lt6
+)
+
+
+2016-11-23 16:55:21
+Array
+(
+)
+
+
+2016-11-23 16:55:26
+Array
+(
+    [openid_mode] => login
+)
+
+
+2016-11-23 16:55:26
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-23 16:55:26
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-23 16:55:45
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-23 16:55:45
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-23 16:55:45
+Array
+(
+    [openid_mode] => id_res
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => k8315k67aefv8efds0obkt75p2
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+    [openid_signed] => mode,identity,assoc_handle,return_to
+    [openid_sig] => TNYzHbHdKNUFSVy0WoRbp+PeeDE=
+)
+
+
+2016-11-23 17:04:52
+Array
+(
+)
+
+
+2016-11-23 17:04:53
+Array
+(
+    [openid_dh_consumer_public] => bCtJ5bHCQzJwFOE6Df/pPp0PmskbWPoVN/Oz5xp1uRup0CxITEJvI8HcQyzXd5tysTR3Jx/V36phIw2nhlQa7xH8JI15iQL3MQF5eFCKt+m4Ty5eFx5aaeaPBvU4uSL+hwSnDZFJTmqM4so5PbsxOKaFJhW0hVjlFKE8FPqYYWE=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-23 17:04:56
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479920696-a50b3528fb934e2271ff
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:05:10
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479920696-a50b3528fb934e2271ff
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:22:40
+Array
+(
+)
+
+
+2016-11-23 17:22:41
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:22:41
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-23 17:22:43
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-23 17:22:43
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:30:25
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:31:02
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:37:30
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:38:10
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:46:07
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Flogin.bml&forwhat=www%2524%252Flogin.bml&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:46:37
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:46:55
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:52:01
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:52:33
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 17:53:15
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:07:55
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:09:41
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:10:08
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:12:23
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:19:14
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:22:05
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:22:15
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:27:10
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:43:24
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:47:28
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 18:58:03
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:03:33
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:10:14
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:17:06
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:26:31
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:37:18
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:39:34
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:47:43
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:50:21
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/login.bml
+    [ret_fail] => http://www.livejournal.com/login.bml
+    [forwhat] => www%24%2Flogin.bml
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479921760-4cefc6ef52dea6025b9e
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => usli1e23d8ke32up3rr31hrs31
+)
+
+
+2016-11-23 19:50:22
+Array
+(
+)
+
+
+2016-11-23 19:53:13
+Array
+(
+)
+
+
+2016-11-23 19:53:13
+Array
+(
+    [openid_dh_consumer_public] => TLs0Z2s26KXPSvYaXkJ614nKwGXrv2ENwmuQONUgJAwuYqzw4R6AWJthRV1gjNPolk9YBExl0U+Vmb1N7tuK9ELR66kYYsoeBovsdadyz20Eutet7uVv1djHplutmB9muMuF2rGOxY482nMWUbsGCbBE/Udl4rxd7wrIWpazsQo=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-23 19:53:18
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2F&ret_fail=http%3A%2F%2Fwww.livejournal.com%2F&forwhat=www%2524%252F&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479930797-c3b7497fa7c7ea73cc23
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => f7gh947778r1a72tsp6iu8jr22
+)
+
+
+2016-11-23 20:12:45
+Array
+(
+)
+
+
+2016-11-23 20:14:41
+Array
+(
+)
+
+
+2016-11-23 20:18:15
+Array
+(
+)
+
+
+2016-11-23 20:19:43
+Array
+(
+)
+
+
+2016-11-24 11:38:36
+Array
+(
+)
+
+
+2016-11-24 11:38:36
+Array
+(
+    [openid_dh_consumer_public] => TMF6uHRCmfIFe/7xp8eYfUEgusrt85/We7udA2hbUJLBRvzKDaNJkncp8yBR58OWJ6BpGLSx4BizHgaTyJUyxonwO44P/F5VWhcriuEk0bnwECQLbmRhF+mt80mrPC09pwI6e8IRgf1IUELa5ht1pB6MUxyUxMAY41vjJTzIjnk=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-24 11:38:51
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2F&ret_fail=http%3A%2F%2Fwww.livejournal.com%2F&forwhat=www%2524%252F&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479987531-6ad982ca38ef53533d5d
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => qeeqpij9ge44l1fcm585qfb9f2
+)
+
+
+2016-11-24 11:38:52
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:27:51
+Array
+(
+    [openid_mode] => checkid_setup
+)
+
+
+2016-11-24 13:29:04
+Array
+(
+    [openid_mode] => checkid_setup
+)
+
+
+2016-11-24 13:33:36
+Array
+(
+)
+
+
+2016-11-24 13:33:36
+Array
+(
+    [openid_dh_consumer_public] => WaJmFwk9Wbhk2c7AX35zJJLyT1Z2+h9mt73MUjIH7Fx4yxUsT9tnUBEDyZsCFg/WcDRvZxWh9pB+dkKTgvxpErcDuXo8bE/FLXhXD3pV5ufyfVa6kzCIKEkEiGhnusXgMTESCCXNNBtR65X5Tg76PZy4xRRxGD9EYLqgvuavNPE=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-24 13:33:40
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&forwhat=login&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479994420-94c9b0864c519ed70212
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => gm4cn277gf42g757m7n2oirev1
+)
+
+
+2016-11-24 13:33:40
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:34:45
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/identity/login.bml
+    [ret_fail] => http://www.livejournal.com/identity/login.bml
+    [forwhat] => login
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479994420-94c9b0864c519ed70212
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => gm4cn277gf42g757m7n2oirev1
+)
+
+
+2016-11-24 13:34:45
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:36:53
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/identity/login.bml
+    [ret_fail] => http://www.livejournal.com/identity/login.bml
+    [forwhat] => login
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479994420-94c9b0864c519ed70212
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => gm4cn277gf42g757m7n2oirev1
+)
+
+
+2016-11-24 13:36:53
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:41:34
+Array
+(
+    [qweqweqwe] => sdfsdf
+)
+
+
+2016-11-24 13:48:39
+Array
+(
+    [1] => 1
+)
+
+
+2016-11-24 13:48:41
+Array
+(
+    [openid_mode] => login
+)
+
+
+2016-11-24 13:48:41
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 13:48:42
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:48:44
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 13:48:44
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 13:48:44
+Array
+(
+    [openid_mode] => id_res
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => i1bbcenoj50uucmtj2p37fr1n3
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+    [openid_signed] => mode,identity,assoc_handle,return_to
+    [openid_sig] => SPoUtOR8v4xWAPmTZ09veFewvu0=
+)
+
+
+2016-11-24 13:52:55
+Array
+(
+    [openid_mode] => id_res
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => i1bbcenoj50uucmtj2p37fr1n3
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+    [openid_signed] => mode,identity,assoc_handle,return_to
+    [openid_sig] => SPoUtOR8v4xWAPmTZ09veFewvu0=
+)
+
+
+2016-11-24 14:02:46
+Array
+(
+    [1] => 1
+)
+
+
+2016-11-24 14:02:50
+Array
+(
+    [openid_mode] => login
+)
+
+
+2016-11-24 14:02:50
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 14:02:50
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 14:02:52
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 14:02:52
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 14:02:53
+Array
+(
+    [openid_mode] => id_res
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => 4eg28g7htqculter9pfl2dbt27
+    [openid_return_to] => http://clever-solution.com/openid/index.php
+    [openid_signed] => mode,identity,assoc_handle,return_to
+    [openid_sig] => UAi9kJhYlawpt1GMV/7spoTV4H4=
+)
+
+
+2016-11-24 14:23:27
+Array
+(
+)
+
+
+2016-11-24 14:23:36
+Array
+(
+    [1] => 1
+)
+
+
+2016-11-24 14:24:25
+Array
+(
+    [openid_mode] => checkid_setup
+)
+
+
+2016-11-24 14:24:56
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http://www.livejournal.com/
+    [ret_fail] => http://www.livejournal.com/
+    [forwhat] => www%24%2F
+    [oic_identity] => http://clever-solution.com/openid/
+    [oic_time] => 1479987531-6ad982ca38ef53533d5d
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => qeeqpij9ge44l1fcm585qfb9f2
+)
+
+
+2016-11-24 14:24:56
+Array
+(
+)
+
+
+2016-11-24 14:25:17
+Array
+(
+)
+
+
+2016-11-24 14:25:17
+Array
+(
+    [openid_dh_consumer_public] => AM+puRX2VxwI5AzXnR58jdIYEtEAKIXt1TCmnYwdhE0lESKzqdJM4QD5tODLjE824ggv6EqQE+rYN9TC1hO1uNR1qfm+vqjWsu2WR7cBwi1hx/R4kTXsqhkSNYRzeLpk+/vyVuw4fhyIYC26umFJ9WTOMCsH2FmTj4oy4cfVh7P7
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-24 14:25:21
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26openid.mode%3Did_res%26openid.invalidate_handle%3Dqeeqpij9ge44l1fcm585qfb9f2%26openid.identity%3Dhttp%3A%2F%2Fclever-solution.com%2Fopenid%2Findex.php%26openid.assoc_handle%3Dugfqtaai4ov0eo9s89s012l772%26openid.return_to%3Dhttp%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26openid.signed%3Dmode,invalidate_handle,identity,assoc_handle,return_to%26openid.sig%3D%2FW5Vx7wqKdhT%20WqzxWTQMthgd7g%3D&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26openid.mode%3Did_res%26openid.invalidate_handle%3Dqeeqpij9ge44l1fcm585qfb9f2%26openid.identity%3Dhttp%3A%2F%2Fclever-solution.com%2Fopenid%2Findex.php%26openid.assoc_handle%3Dugfqtaai4ov0eo9s89s012l772%26openid.return_to%3Dhttp%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-openid.bml%3Fret%3Dhttp%3A%2F%2Fwww.livejournal.com%2F%26openid.signed%3Dmode,invalidate_handle,identity,assoc_handle,return_to%26openid.sig%3D%2FW5Vx7wqKdhT%20WqzxWTQMthgd7g%3D&forwhat=www%2524%252Fidentity%252Fcallback-openid.bml%253Fret%253Dhttp%253A%252F%252Fwww.livejournal.com%252F%2526openid.mode%253Did_res%2526openid.invalidate_handle%253Dqeeqpij9ge44l1fcm585qfb9f2%2526openid.identity%253Dhttp%253A%252F%252Fclever-solution.com%252Fopenid%252Findex.php%2526openid.assoc_handle%253Dugfqtaai4ov0eo9s89s012l772%2526openid.return_to%253Dhttp%253A%252F%252Fwww.livejournal.com%252Fidentity%252Fcallback-openid.bml%253Fret%253Dhttp%253A%252F%252Fwww.livejournal.com%252F%2526openid.signed%253Dmode,invalidate_handle,identity,assoc_handle,return_to%2526openid.sig%253D%252FW5Vx7wqKdhT%252BWqzxWTQMthgd7g%253D&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479997520-08125bcc9b78f5221b2a
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => schgri1il6f8b7altr2s1q5ns6
+)
+
+
+2016-11-24 14:26:19
+Array
+(
+)
+
+
+2016-11-24 14:26:20
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=https%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml%3Ftype%3Dopenid%26failed%3D1&ret_fail=https%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml%3Ftype%3Dopenid%26failed%3D1&forwhat=wwws%2524%252Fidentity%252Flogin.bml%253Ftype%253Dopenid%2526failed%253D1&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1479997579-cb5cc7f3844c8086cd89
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => schgri1il6f8b7altr2s1q5ns6
+)
+
+
+2016-11-24 14:26:38
+Array
+(
+)
+
+
+2016-11-24 14:28:25
+Array
+(
+)
+
+
+2016-11-24 15:31:30
+Array
+(
+    [1] => 1
+)
+
+
+2016-11-24 15:31:32
+Array
+(
+    [openid_mode] => login
+)
+
+
+2016-11-24 15:31:32
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => https://clever-solution.com/openid/index.php
+    [openid_return_to] => https://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 15:31:32
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:31:51
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:31:53
+Array
+(
+    [openid_mode] => cancel
+)
+
+
+2016-11-24 15:32:15
+Array
+(
+    [openid_mode] => 
+)
+
+
+2016-11-24 15:32:17
+Array
+(
+    [openid_mode] => login
+)
+
+
+2016-11-24 15:32:17
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => https://clever-solution.com/openid/index.php
+    [openid_return_to] => https://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 15:32:17
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:33:13
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:33:13
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => https://clever-solution.com/openid/index.php
+    [openid_return_to] => https://clever-solution.com/openid/index.php
+)
+
+
+2016-11-24 15:33:13
+Array
+(
+    [openid_mode] => id_res
+    [openid_identity] => https://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => gurogn6i77f1q1paso16f9e3j2
+    [openid_return_to] => https://clever-solution.com/openid/index.php
+    [openid_signed] => mode,identity,assoc_handle,return_to
+    [openid_sig] => M83NC+sWYb2Hxamjkas+V4RfcpE=
+)
+
+
+2016-11-24 15:44:31
+Array
+(
+)
+
+
+2016-11-24 15:44:32
+Array
+(
+    [openid_dh_consumer_public] => UhWlcxk2h+UkOCDQ5DKFEuKs2heOigQU3mxJ4SXT3QYC6Ft/NZtOjori1wpXtUpgBSSBIghXcyqkPHCSWYY8gv5hYnh6nlTrIyrpLYcRihmlCfyERjIoVJ/iob1vmKzFZFwcKv26af2FgVV1jMV0HqA845trMv/a3+FeYATKEL8=
+    [openid_session_type] => DH-SHA1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+)
+
+
+2016-11-24 15:44:35
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&forwhat=login&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1480002275-d4433aed1c3b0fb05c54
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => 0qhfn99l6pljnbohjkr90tev13
+)
+
+
+2016-11-24 15:44:36
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:44:39
+Array
+(
+    [openid_mode] => authorize
+)
+
+
+2016-11-24 15:44:40
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_return_to] => http://www.livejournal.com/identity/callback-openid.bml?ret=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&ret_fail=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Flogin.bml&forwhat=login&oic.identity=http%3A%2F%2Fclever-solution.com%2Fopenid%2F&oic.time=1480002275-d4433aed1c3b0fb05c54
+    [openid_trust_root] => http://www.livejournal.com/
+    [openid_assoc_handle] => 0qhfn99l6pljnbohjkr90tev13
+)
+
+
+2016-11-24 15:56:32
+Array
+(
+)
+
+
+2016-11-24 15:56:32
+Array
+(
+)
+
+
+2016-11-24 15:56:32
+Array
+(
+)
+
+
+2016-11-24 15:56:32
+Array
+(
+    [openid_ns] => http://openid.net/signon/1.1
+    [openid_mode] => associate
+    [openid_assoc_type] => HMAC-SHA1
+    [openid_session_type] => DH-SHA1
+    [openid_dh_modulus] => ANz5OguIOXLsDhmYmsWizjEOHTdxfo2Vcbt2I3MYZuYe91ouJ4mLBX+YkcLiemOcPym2CBRYHNOyyjmG0mg3BVd9RcLn5S3IHHoXGHblzqdLFEi/368Ygo79JRnxTkXjgmY0rxlJ5bU1zIKaSDuKdiI+XUkKJX8Fvf8W8vsixYOr
+    [openid_dh_gen] => Ag==
+    [openid_dh_consumer_public] => AKbPLZalz/6m9u2OlbFQ3idNB0V45mcPG8UBezjYzkuoc33nbbEggIlxqivCOfs/oFMQo/H+8a6kBuDjKvt6z3SPTxjASLReM2GmeNoK4YpI2GcVFIDMZHLrA5U48/9TlBeoRaz5RGHyB+e7bXfeqbpAHJy7iJ2+0UOcRY3mHDmV
+)
+
+
+2016-11-24 15:56:36
+Array
+(
+    [openid_mode] => checkid_setup
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_trust_root] => https://www.blogger.com
+    [openid_ns_ax] => http://openid.net/srv/ax/1.0
+    [openid_ax_mode] => fetch_request
+    [openid_ax_type_attr0] => http://axschema.org/namePerson/friendly
+    [openid_ax_type_attr1] => http://schema.openid.net/namePerson/friendly
+    [openid_ax_type_attr2] => http://axschema.org/namePerson
+    [openid_ax_type_attr3] => http://schema.openid.net/namePerson
+    [openid_ax_required] => attr0,attr1,attr2,attr3
+    [openid_ns_sreg] => http://openid.net/extensions/sreg/1.1
+    [openid_sreg_required] => nickname,fullname
+    [openid_return_to] => https://www.blogger.com/comment.do?loginRedirect=EevEmFgBAAA.q4swIQYhrUVDSOMTIpU_Y3bGNyqse9zKLNtBO7Pq_Sw.jLJkKXNxUSEw5hEfO8Lasg&gx.rp_st=AFD_5tmuIMD5z4un5wTnTwu9iEGjYEBALe7dMhxH7fQ-N3Gw5YVaqBnEB2qu9gQU2yo5iVAmGiR5VtnBGUbr7ECRx95zoR2YLdbaWGJ8-RnFUThFEh6tAPcu4eTHfx04MF1lnE9RLNHQt0xugZMYuDC9NLLteExJ4vQAiBhornHLaOIpa60kTW_u3w6xB2WH90zlvBu3AQlQF_Ctm5HvdpHKVDXc837aB4EX4e_SWyOmMc8ge9swNne1uOU
+)
+
+
+2016-11-24 15:56:36
+Array
+(
+)
+
+
+2016-11-24 15:56:36
+Array
+(
+)
+
+
+2016-11-24 15:56:36
+Array
+(
+)
+
+
+2016-11-24 15:56:36
+Array
+(
+    [loginRedirect] => EevEmFgBAAA.q4swIQYhrUVDSOMTIpU_Y3bGNyqse9zKLNtBO7Pq_Sw.jLJkKXNxUSEw5hEfO8Lasg
+    [gx_rp_st] => AFD_5tmuIMD5z4un5wTnTwu9iEGjYEBALe7dMhxH7fQ-N3Gw5YVaqBnEB2qu9gQU2yo5iVAmGiR5VtnBGUbr7ECRx95zoR2YLdbaWGJ8-RnFUThFEh6tAPcu4eTHfx04MF1lnE9RLNHQt0xugZMYuDC9NLLteExJ4vQAiBhornHLaOIpa60kTW_u3w6xB2WH90zlvBu3AQlQF_Ctm5HvdpHKVDXc837aB4EX4e_SWyOmMc8ge9swNne1uOU
+    [openid_mode] => check_authentication
+    [openid_identity] => http://clever-solution.com/openid/index.php
+    [openid_assoc_handle] => bffaiu8s9sk8li45umu8qv3co0
+    [openid_return_to] => https://www.blogger.com/comment.do?loginRedirect=EevEmFgBAAA.q4swIQYhrUVDSOMTIpU_Y3bGNyqse9zKLNtBO7Pq_Sw.jLJkKXNxUSEw5hEfO8Lasg&gx.rp_st=AFD_5tmuIMD5z4un5wTnTwu9iEGjYEBALe7dMhxH7fQ-N3Gw5YVaqBnEB2qu9gQU2yo5iVAmGiR5VtnBGUbr7ECRx95zoR2YLdbaWGJ8-RnFUThFEh6tAPcu4eTHfx04MF1lnE9RLNHQt0xugZMYuDC9NLLteExJ4vQAiBhornHLaOIpa60kTW_u3w6xB2WH90zlvBu3AQlQF_Ctm5HvdpHKVDXc837aB4EX4e_SWyOmMc8ge9swNne1uOU
+    [openid_sreg_nickname] => Грибняк
+    [openid_sreg_fullname] => Сергей
+    [openid_signed] => mode,identity,assoc_handle,return_to,sreg.nickname,sreg.fullname
+    [openid_sig] => aBhbkL1xE5Wp9538BlRVncvCH3w=
+)
+
+

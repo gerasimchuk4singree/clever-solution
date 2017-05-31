@@ -1,0 +1,458 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+@font-face{
+    font-family: "Reenie Beanie";
+    src: url("../font/ReenieBeanie/ReenieBeanie.ttf");
+}
+::-webkit-input-placeholder {color:#fff;}
+::-moz-placeholder          {color:#fff;}/* Firefox 19+ */
+:-moz-placeholder           {color:#fff;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#fff;}
+.relative-position{
+    position: relative;
+}
+.reenie-font{
+    font-family: "Reenie Beanie";
+}
+.landing-seo-block .landing-seo-bg{
+    background: url("../images/landing-pages/landing-seo/bg-landing-seo.jpg") no-repeat center;
+    color: #fff;
+    background-size: cover;
+}
+.landing-seo-block .main-land img{
+    float: none;
+}
+.landing-seo-block .landing-seo-bg .title-block{
+    margin: 105px auto 220px;
+    font-size: 34px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 2px solid #ff5722;
+    width: 570px;
+    padding:13px 0;
+    font-family: "Segoe UI Light";
+}
+.landing-seo-block .landing-seo-bg .slogan{
+    font-size: 44px;
+    margin-bottom: 370px;
+}
+.landing-seo-block .form-block{
+    background: rgba(0,0,0,0.5);
+    border-top: 1px solid #ff6d00;
+    padding: 40px 0;
+}
+.landing-seo-block .form-block .forms{
+    margin-bottom: 0;
+}
+.landing-seo-block .form-block .forms .button_m{
+    width: 170px;
+    height: 56px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border: 1px solid white;
+    border-radius: 28px;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+.landing-seo-block .form-block .form-group{
+    margin-bottom: 46px;
+}
+.landing-seo-block .form-block .forms  .main_input{
+    background: transparent;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: 17px;
+    font-family: "Roboto";
+    /* box-shadow: 0 1px 2px black; */
+    padding-left: 10px;
+    color: #fff;
+    border-radius: inherit;
+}
+.landing-seo-block .blue-block{
+    background-color: #007aff;
+}
+.landing-seo-block .block-after-bg{
+    padding-top: 107px;
+    padding-bottom: 129px;
+    color: #fff;
+    font-size: 22px;
+}
+.landing-seo-block .block-after-bg .img-block{
+    margin-bottom: 29px;
+}
+.landing-seo-block .block-after-bg .title{
+    font-size: 24px;
+}
+.landing-seo-block .engine-marketing-optimization{
+    color: #252525;
+    background-color: #e0f7fa;
+}
+.landing-seo-block .engine-marketing-optimization .title{
+    font-size: 80px;
+    font-family: BebasNeueRegular;
+    margin-bottom: 57px;
+}
+.landing-seo-block .engine-marketing-optimization .text-block{
+    font-size: 18px;
+    margin:0 auto 66px;
+    width: 770px;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block{
+    position: relative;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item{
+    width: 370px;
+    height: 320px;
+    margin: 0 auto 20px;
+    background: url("../images/landing-pages/landing-seo/hexagon.png");
+    font-size: 40px;
+    font-family: BebasNeueRegular;
+    color: #fff;
+    display: table;
+}
+.landing-seo-block .engine-marketing-optimization{
+    padding: 142px 0 127px;
+}
+.landing-seo-block .engine-marketing-optimization .section-1{
+    margin-bottom: 153px;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item>span{
+    display: table-cell;
+    vertical-align: middle;
+}
+/*.landing-seo-block .engine-marketing-optimization .hexagon-block .item.shadow{*/
+    /*background: url("../images/landing-pages/landing-seo/hexagon-shadow.png");*/
+    /*height: 338px;*/
+/*}*/
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item.big-font{
+    font-size: 159px;
+    font-family: BebasNeueBold;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item.absolute-item{
+    position: absolute;
+    top: 50%;
+    margin-top: -160px;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item.left{
+    left:80px;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item.right{
+    right:80px;
+}
+.landing-seo-block .engine-marketing-optimization .hexagon-block .item.transparent{
+    background: transparent;
+}
+.landing-seo-block .engine-marketing-optimization .section-2 .hexagon-block {
+    margin-top: -100px;
+}
+.landing-seo-block .why-you-need{
+    background: url("../images/landing-pages/landing-seo/why-you-need-bg.jpg") no-repeat center;
+    padding: 124px 0 111px;
+}
+.landing-seo-block .why-you-need .section{
+    border-bottom:2px dashed #fff;
+    font-size: 24px;
+    color: #fff;
+}
+.landing-seo-block .why-you-need .section:last-child{
+    border-bottom: none;
+}
+.landing-seo-block .why-you-need .section .item{
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.landing-seo-block .why-you-need hr{
+    border: 0;
+    border-bottom: none;
+    border-left: 2px dashed #fff;
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin: 0 auto;
+}
+.landing-seo-block .content-form{
+    padding: 167px 0 93px;
+}
+.landing-seo-block .content-form .title-block{
+    font-size: 78px;
+    font-family: "Reenie Beanie";
+    margin-bottom: 220px;
+    color: #fff;
+}
+.landing-seo-block .content-form .form-block{
+    background: transparent;
+    border-top: none;
+}
+.information-block{
+    color: #252525;
+    padding-top: 727px;
+    padding-bottom: 771px;
+    background: url("../images/landing-pages/landing-seo/top-bg-last-block.jpg") top no-repeat,url("../images/landing-pages/landing-seo/bottom-bg.jpg") bottom no-repeat #f4f5f7;
+}
+.information-block .title-block{
+    font-size: 80px;
+    font-family: BebasNeueBold;
+    margin-bottom: 45px;
+}
+.information-block .description{
+    width: 769px;
+    margin: 0 auto 128px;
+    font-size: 18px;
+}
+.information-block .what-we-do{
+    margin-bottom: 207px;
+}
+.information-block .what-we-do .title-block{
+    background: url("../images/landing-pages/landing-seo/parenthesis-what-we-do.png") center no-repeat;
+    height: 97px;
+    padding: 20px 0 15px;
+    margin-bottom: 45px;
+}
+.information-block .on-optimization .title-block{
+    background: url("../images/landing-pages/landing-seo/parenthesis-on-page.png") center no-repeat;
+    height: 135px;
+    padding-top: 30px;
+}
+.information-block .off-optimization .title-block{
+    background: url("../images/landing-pages/landing-seo/parenthesis-off.png") center no-repeat;
+    height: 135px;
+    padding-top: 30px;
+}
+.information-block .goals-how{
+    margin-bottom: 108px;
+}
+.information-block .goals-how .goal ul{
+    list-style-image: url("../images/landing-pages/landing-seo/goal-list-type.png");
+}
+.information-block .goals-how .how ul{
+    list-style-image: url("../images/landing-pages/landing-seo/how-list-type.png");
+}
+.information-block .goals-how .title{
+    font-size: 48px;
+    font-family: BebasNeueRegular;
+    margin-bottom: 40px;
+}
+.information-block .goals-how .list-block{
+    font-size: 18px;
+}
+.information-block .goals-how .list-block li{
+    margin-bottom: 15px;
+}
+.information-block .why-you-need-block .title{
+    font-size: 48px;
+    margin-bottom: 68px;
+    font-family: BebasNeueRegular;
+}
+.information-block .why-you-need-block .content-block{
+    font-size: 24px;
+    font-family: "Segoe UI Bold";
+}
+.information-block .on-optimization .goal .title{
+    background: url("../images/landing-pages/landing-seo/goals-on-optimization.png") no-repeat left center ;
+    height:58px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.information-block .on-optimization .how .title{
+    background: url("../images/landing-pages/landing-seo/how-on-optimization.png") no-repeat left center ;
+    height:58px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.information-block .on-optimization{
+    margin-bottom: 173px;
+}
+.information-block .off-optimization .goal .title{
+    background: url("../images/landing-pages/landing-seo/goals-off-optimization.png") no-repeat left center ;
+    height:58px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.information-block .off-optimization .how .title{
+    background: url("../images/landing-pages/landing-seo/how-off-optimization.png") no-repeat left center ;
+    height:58px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.rep-sup{
+    padding: 118px 0 107px;
+    color: #fff;
+}
+.rep-sup .title-block{
+    font-size: 80px;
+    font-family: BebasNeueRegular;
+    margin-bottom: 70px;
+}
+.rep-sup .content-block{
+    width: 700px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+}
+.more-visitors{
+    background-color: #1565c0;
+    padding-top: 53px;
+    padding-bottom: 70px;
+    font-family: "Reenie Beanie";
+    font-size: 78px;
+    color: #fff;
+    line-height: 2;
+}
+.why-clever{
+    padding: 112px 0 20px;
+    color: #252525;
+}
+.why-clever .logo{
+    margin-bottom: 94px;
+}
+.why-clever .title-block{
+    font-size: 80px;
+    margin-bottom: 74px;
+    font-family: BebasNeueRegular;
+}
+.why-clever .description{
+    font-size: 18px;
+    margin:0 auto 105px;
+    width: 770px;
+}
+.why-clever .item{
+    font-size: 24px;
+    font-family: "Segoe UI Bold";
+    margin-bottom:93px;
+    text-align: center;
+}
+.bottom-form{
+    padding: 60px 0;
+}
+.bottom-form .form-block{
+    background: transparent;
+    border-top: none;
+    padding: 0;
+}
+@media (max-width: 1199px){
+    .landing-seo-block .engine-marketing-optimization .hexagon-block .item.left{
+        left: 0;
+    }
+    .landing-seo-block .engine-marketing-optimization .hexagon-block .item.right{
+        right: 0;
+    }
+}
+@media(max-width: 991px){
+    .landing-seo-block .go-cl .logo-cl{
+        position: relative;
+        margin-top: 15px;
+    }
+    .landing-seo-block .block-after-bg .item{
+        margin-bottom: 20px;
+    }
+    .landing-seo-block .engine-marketing-optimization .section-2 .hexagon-block{
+        margin-top: 0;
+    }
+    .landing-seo-block .engine-marketing-optimization .hexagon-block .item.absolute-item{
+        position: relative;
+        top: inherit;
+        margin-top: inherit;
+    }
+    .landing-seo-block .engine-marketing-optimization .hexagon-block .item.transparent{
+        display: none;
+    }
+    .landing-seo-block .content-form .title-block{
+        margin-bottom: 150px;
+    }
+    .information-block{
+        background: #f4f5f7;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .more-visitors{
+        line-height: 1;
+    }
+}
+@media (max-width: 767px) {
+    .landing-seo-block .landing-seo-bg .title-block{
+        width: 100%;
+        margin: 50px 0;
+    }
+    .landing-seo-block .landing-seo-bg .slogan{
+        margin-bottom: 120px;
+    }
+    .landing-seo-block .block-after-bg{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .landing-seo-block .engine-marketing-optimization{
+        padding: 80px 0;
+    }
+    .landing-seo-block .engine-marketing-optimization .title{
+        font-size: 50px;
+    }
+    .landing-seo-block .engine-marketing-optimization .text-block{
+        width: 100%;
+    }
+    .landing-seo-block .engine-marketing-optimization .title{
+        font-size: 50px;
+    }
+    .landing-seo-block .engine-marketing-optimization .hexagon-block .item{
+        width: 290px;
+        height: 260px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .landing-seo-block .why-you-need{
+        background-size: cover;
+    }
+    .landing-seo-block .why-you-need hr{
+        display: none;
+    }
+    .landing-seo-block .why-you-need .section{
+        border-bottom: none;
+    }
+    .landing-seo-block .why-you-need .section .item{
+        border-bottom: 2px dashed #fff;
+    }
+    .landing-seo-block .content-form{
+        padding: 80px 0;
+    }
+    .landing-seo-block .content-form .title-block{
+        font-size: 50px;
+    }
+    .information-block .description{
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .information-block .why-you-need-block .content-block{
+        margin-bottom: 15px;
+    }
+    .information-block .title-block{
+        font-size: 50px;
+    }
+    .information-block .goals-how .goal{
+        margin-bottom: 20px;
+    }
+    .information-block .what-we-do{
+        margin-bottom: 120px;
+    }
+    .information-block .on-optimization{
+        margin-bottom: 90px;
+    }
+    .information-block .what-we-do .title-block,
+    .information-block .on-optimization .title-block,
+    .information-block .off-optimization .title-block{
+        background: inherit;
+    }
+    .rep-sup .content-block{
+        width: 100%;
+    }
+    .more-visitors{
+        font-size: 50px;
+    }
+    .why-clever .description{
+        width: 100%;
+        margin-bottom: 70px;
+    }
+}

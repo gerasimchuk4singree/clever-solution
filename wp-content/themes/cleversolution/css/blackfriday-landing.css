@@ -1,0 +1,619 @@
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('../font/segoeui/SegoeUI.eot?#iefix') format('embedded-opentype'), url('../font/segoeui/SegoeUI.woff') format('woff'), url('../font/segoeui/SegoeUI.ttf') format('truetype'), url('../font/segoeui/SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeueBold';
+    src: url('../font/BebasNeueBold/BebasNeueBold.eot?#iefix') format('embedded-opentype'), url('../font/BebasNeueBold/BebasNeueBold.woff') format('woff'), url('../font/BebasNeueBold/BebasNeueBold.ttf') format('truetype'), url('../font/BebasNeueBold/BebasNeueBold.svg#BebasNeueBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto/Roboto-Regular.eot?#iefix') format('embedded-opentype'),  url('../font/Roboto/Roboto-Regular.woff') format('woff'), url('../font/Roboto/Roboto-Regular.ttf')  format('truetype'), url('../font/Roboto/Roboto-Regular.svg#Roboto-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+.top-left{
+    top: 5px;
+    left:3px;
+}
+.top-right{
+    top:5px;
+    right: 3px;
+}
+.bot-left{
+    top: 240px;
+    left:3px;
+}
+.bot-right{
+    top: 240px;
+    right: 3px;
+}
+
+/*h2{
+    border-bottom: 1px solid #ff2d55;
+    font-size: 52px;
+    font-family: Segoe UI Light, sans-serif;
+    margin-top: 75px;
+}*/
+
+    .blackfriday-block .blackfriday-bg{
+        background: url("../images/landing-pages/black-friday/black-friday-main-preview.jpg") no-repeat center;
+        height: 850px;
+        background-size: cover;
+        color: #000;
+        margin-bottom: 150px;
+    }
+    .blackfriday-block .blackfriday-bg .title-block{
+        margin: 100px auto 300px;
+        width: 490px;
+    }
+    .blackfriday-block .blackfriday-bg .title-block h1{
+        font-size: 66px;
+        color: #fff;
+        font-family: Roboto;
+        line-height: 1;
+        border-bottom: 1px solid #ff2d55;
+    }
+
+    .blackfriday-block .blackfriday-bg .title-block h1 span{
+        font-family: BebasNeueRegular;
+        font-size: 88px;
+        margin-right: 30px;
+        padding: 0 10px;
+        background-color: #ff2d55;
+    }
+
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block{
+        background: #000;
+        padding-bottom: 30px;
+    }
+
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block img{
+        text-align: center;
+        margin-bottom: 70px;
+    }
+
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block p{
+        text-align: center;
+        font-family: BebasNeueRegular;
+        font-size: 34px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .secondary-block-quote-title{
+        color: #111111;
+        font-size: 16px;
+        font-style: italic;
+        font-family: "Segoe UI";
+        margin-top: 20px;
+        margin-bottom: 100px;
+    }
+    .secondary-block-about-clever {
+        margin-bottom: 100px;
+    }
+    .secondary-block-about-clever p{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+
+    .blackfriday-block .secondary-contact-form .form-cl-2{
+        background: #fff;
+        width: 506px;
+        box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+        margin: 0 auto 134px;
+    }
+    .black-friday-main-image{display: none;}
+
+
+/* ROMA */
+.love-black-friday {
+    background: black;
+    position: relative;
+    margin-top: 100px;
+    z-index: 1;
+    padding-bottom: 35px;
+}
+
+.love-black-friday .hearts {
+    position: absolute;
+    top: -100px;
+    z-index: -1;
+}
+
+.love-black-friday hr {
+    border: none;
+    border-bottom: 1px solid #ff2d55;
+    margin: 0;
+    width: 797px;
+}
+
+.title-love-black-friday {
+    line-height: 1;
+    font-size: 52px;
+    color: white;
+    margin: 55px 0 0;
+    z-index: 12;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.title-love-black-friday strong {
+    font-family: BebasNeueBold;
+}
+
+.text-1-love-black-friday {
+    margin-top: 70px;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.text-1-love-black-friday span.important-string {
+    padding: 3px;
+    background: #ff2d55;
+}
+
+.text-1-love-black-friday span.reqular {
+    border-bottom: 1px solid #ff2d55;
+}
+
+.text-1-love-black-friday span {
+    font-weight: 700;
+}
+
+.text-1-love-black-friday p {
+    margin-bottom: 35px;
+}
+
+.get-free-seo-audit {
+    padding: 140px 0 160px;
+}
+
+.title-get-free-seo-audit {
+    color: #111;
+    font-size: 52px;
+    line-height: 72px;
+    margin: 0;
+}
+
+.get-free-seo-audit hr {
+    border-bottom: 1px solid #ff2d55;
+    margin: 0;
+    width: 520px;
+}
+
+.get-free-seo-audit .send-mail {
+    background: url(../images/landing-pages/black-friday/2-layers.png) no-repeat;
+    margin-top: 55px;
+}
+
+.get-free-seo-audit .text-send-mail {
+    margin-top: 65px;
+    margin-bottom: 95px;
+    color: #111;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact-form {
+    margin-top: 85px;
+}
+
+.contact-form .text-form {
+    color: #111;
+    line-height: normal;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    margin-bottom: 45px;
+}
+
+.contact-form .input-field input {
+    font-family: Roboto;
+    font-size: 17px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 10px;
+    outline: 0;
+    box-shadow: none;
+}
+
+.contact-form .input-field {
+    margin-top: 5px;
+    box-shadow: 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.contact-form input:-moz-placeholder
+.contact-form input:-ms-input-placeholder
+.contact-form input::-webkit-input-placeholder
+.contact-form input::-moz-placeholder {
+    opacity: 0.5;
+    color: black;
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.contact-form .submit-field {
+    text-align: center;
+}
+
+.contact-form .submit_button {
+    background-color: rgba(0, 0, 0, 0.15);
+    border: 1px solid black;
+    border-radius: 28px;
+    color: black;
+    font-family: Roboto;
+    margin-top: 50px;
+    font-size: 17px;
+    padding: 10px 24px;
+}
+
+.contact-form .submit_button:focus {
+    outline: none;
+}
+
+.contact-form .submit_button:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1199px) {
+    .get-free-seo-audit hr {
+        width: 160px;
+    }
+}
+
+@media (max-width: 991px) {
+    .love-black-friday hr {
+        width: 130px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .title-love-black-friday {
+        font-size: 34px;
+        line-height: normal;
+        text-align: center;
+        display: block;
+    }
+
+    .get-free-seo-audit {
+        padding: 30px 0;
+    }
+
+    .get-free-seo-audit hr,
+    .love-black-friday hr {
+        width: 100%;
+    }
+
+    .title-get-free-seo-audit {
+        font-size: 34px;
+        text-align: center;
+        line-height: normal;
+    }
+
+    .get-free-seo-audit .text-send-mail {
+        margin: 30px 0;
+    }
+
+    .get-free-seo-audit .send-mail {
+        background: none;
+        margin: 0;
+    }
+
+    .contact-form {
+        margin: 0;
+    }
+
+    .contact-form .input-field {
+        width: 280px;
+        margin: 5px auto 0;
+    }
+}
+
+/*.love-black-friday {
+    background: black;
+    position: relative;
+    margin-top: 100px;
+    z-index: 1;
+    padding-bottom: 35px;
+}
+
+.love-black-friday .hearts {
+    position: absolute;
+    top: -100px;
+    z-index: -1;
+}
+
+.title-love-black-friday {
+    line-height: 1;
+    font-size: 52px;
+    color: white;
+    font-family: Segoe UI Light, sans-serif;
+    margin: 55px 0 0;
+    z-index: 12;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 1px solid #ff2d55;
+}
+
+.title-love-black-friday strong {
+    font-family: BebasNeueBold;
+}
+
+.text-1-love-black-friday {
+    margin-top: 70px;
+    font-family: Segoe UI Light, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.text-1-love-black-friday span.important-string {
+    padding: 3px;
+    background: #ff2d55;
+}
+
+.text-1-love-black-friday span.reqular {
+    border-bottom: 1px solid #ff2d55;
+}
+
+.text-1-love-black-friday span {
+    font-weight: 700;
+}
+
+.text-1-love-black-friday p {
+    margin-bottom: 35px;
+}
+
+.get-free-seo-audit {
+    padding: 140px 0 160px;
+}
+
+.title-get-free-seo-audit {
+    color: #111;
+    font-family: Segoe UI Light, sans-serif;
+    font-size: 52px;
+    line-height: 72px;
+    margin: 0;
+}
+
+.title-get-free-seo-audit a {
+    color: black;
+}
+
+.title-get-free-seo-audit a:before {
+    background: white;
+}
+
+.get-free-seo-audit .send-mail {
+    background: url(../img/2-layers.png) no-repeat;
+    margin-top: 55px;
+}
+
+.get-free-seo-audit .text-send-mail {
+    margin-top: 65px;
+    margin-bottom: 95px;
+    color: #111;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact-form {
+    margin-top: 85px;
+}
+
+.contact-form .text-form {
+    color: #111;
+    text-align: center;
+    display: block;
+    margin-bottom: 45px;
+}
+
+.contact-form .input-field input {
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 10px;
+    outline: 0;
+    box-shadow: none;
+}
+
+.contact-form .input-field {
+    margin-top: 5px;
+    box-shadow: 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.contact-form input:-moz-placeholder
+.contact-form input:-ms-input-placeholder
+.contact-form input::-webkit-input-placeholder
+.contact-form input::-moz-placeholder {
+    opacity: 0.5;
+    color: black;
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.contact-form .submit-field {
+    text-align: center;
+}
+
+.contact-form .submit_button {
+    background-color: rgba(0, 0, 0, 0.15);
+    border: 1px solid black;
+    border-radius: 28px;
+    color: black;
+    font-family: Roboto;
+    margin-top: 50px;
+    font-size: 17px;
+    padding: 10px 24px;
+}
+
+.bottom-line span {
+    position: relative;
+}
+
+.bottom-line {
+    position: relative;
+}
+
+.bottom-line a {
+    text-decoration: none;
+    cursor: default;
+    border-bottom: 1px solid #ff2d55;
+}
+
+.bottom-line a:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: -2px;
+}
+
+@media (max-width: 767px) {
+
+    .title-love-black-friday {
+        font-size: 34px;
+        line-height: normal;
+        text-align: center;
+        display: block;
+    }
+
+    .get-free-seo-audit {
+        padding: 30px 0;
+    }
+
+    .title-get-free-seo-audit {
+        font-size: 34px;
+        text-align: center;
+        line-height: normal;
+    }
+
+    .get-free-seo-audit .text-send-mail {
+        margin: 30px 0;
+    }
+
+    .get-free-seo-audit .send-mail {
+        background: none;
+        margin: 0;
+    }
+
+    .contact-form {
+        margin: 0;
+    }
+
+    .contact-form .input-field {
+        width: 280px;
+        margin: 5px auto 0;
+    }
+}*/
+
+/*Roma*/
+
+/*Andrey*/
+    .head-wrap{
+        margin-top: 75px;
+    }
+
+    .header-styling{
+        display: inline;
+        border-bottom: 1px solid #ff2d55;
+        font-size: 52px;
+        font-family: Segoe UI Light, sans-serif;
+         margin-top: 75px;
+        
+    }
+
+    .main-paragraph{
+        font-family: Segoe UI;
+        font-size: 14px;
+        margin-top: 75px;
+        text-align: justify;
+    }
+
+    .about-seo-audit-pic{
+        height: auto;
+        width: 100%;
+    }
+
+    .why-so-profit-announcer{
+        font-size: 40px;
+        font-family: Segoe UI;
+        font-weight: bold;
+        
+    }
+    .why-so-profit-announcer>span{
+        background-color: #ff2d55;
+        color: white;
+        text-transform: uppercase;
+        
+    }
+
+    .why-so-profit-div :last-child {
+     margin-top: 40px;
+     margin-bottom: 60px;
+    }
+
+    .margins-sets {
+        display: block; 
+    }
+
+/*Andrey*/
+
+
+@media(max-width: 1199px){
+
+}
+@media(max-width: 991px){
+
+@media(max-width: 767px){
+    .blackfriday-block .blackfriday-bg .title-block h1{
+        font-size: 35px;
+        display: inline;
+    }
+
+    .blackfriday-block .blackfriday-bg .title-block h1 span{
+        font-size: 35px;
+    }
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block p{
+        font-size: 18px;
+    }
+    .blackfriday-block .blackfriday-bg .title-block{
+        margin: 200px auto 40px;
+        text-align: center;
+        width: auto;
+    }
+    .blackfriday-block .blackfriday-bg{
+        background: #000;
+        height: auto;
+        margin-bottom: 0px;
+    }
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block img{
+        margin-bottom: 30px;
+    }
+    .blackfriday-block .blackfriday-bg .form-block .inner-bg-third-block{
+        padding-bottom: 15px;
+    }
+    .black-friday-main-image{
+        display: block;
+        margin: 0 auto;
+        width:90%;
+        margin-bottom: 100px;
+    }
+}

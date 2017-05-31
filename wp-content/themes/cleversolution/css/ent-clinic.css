@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i,700i');
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+    color: #fff;
+}
+.ma-cl{
+    padding: 0;
+}
+.forms{
+    margin: 0;
+}
+.ent-block .ent-bg{
+    background: url("../images/landing-pages/ent-clinic/ent-block-bg.jpg") no-repeat center;
+    color: #fff;
+    background-size: cover;
+    padding-bottom: 425px;
+    position: relative;
+}
+.ent-block .ent-bg .title-block{
+    margin-top: 132px;
+    position: relative;
+}
+.ent-block .ent-bg .title-block hr{
+    position: absolute;
+    z-index: 10;
+    width: 200%;
+    border-top:2px solid #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    right: 0;
+}
+.ent-block .ent-bg .title-block .sub-title{
+    font-size: 42px;
+    font-family: BebasNeueBold;
+    padding-right: 120px;
+    color: #f6f6f6;
+}
+.ent-block .ent-bg .title-block .title{
+    font-size: 33px;
+    margin-bottom: 10px;
+    color: #f6f6f6;
+    font-weight: 300;
+    font-family: "Segoe UI Light";
+    text-transform: uppercase;
+    width:455px;
+    float: right;
+}
+.ent-block .ent-bg .title-block .title .main-title{
+    font-family: BebasNeueBold;
+    font-size: 174px;
+    display: inline-block;
+}
+.ent-block .ent-bg .title-block .title .clinic{
+    display: inline-block;
+    font-size: 62px;
+    margin-left: 25px;
+    position: relative;
+    top: -14px;
+}
+.ent-block .ent-bg .bottom-text{
+    color: #f6f6f6;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.ent-block .ent-bg  .form-block{
+    position: absolute;
+    width: 502px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    bottom: -210px;
+    background: #fff;
+    padding: 20px;
+}
+.ent-block .ent-bg  .form-title{
+    font-size: 21px;
+    color: #909090;
+    font-family: "Segoe UI Light";
+    margin-bottom: 19px;
+    text-transform: uppercase;
+}
+.ent-block .about-clever{
+    background-color: #ff3d00;
+    padding: 302px 0 80px;
+}
+.ent-block .about-clever .top-about{
+    width: 805px;
+    margin: 0 auto 40px;
+}
+.ent-block .about-clever .title-about-clever{
+    font-size: 70px;
+    font-family: "Segoe UI Light";
+    margin-bottom: 10px;
+}
+.ent-block .about-clever  .slogan{
+    font-size: 18px;
+    font-style: italic;
+}
+.ent-block .about-clever .content{
+    width: 462px;
+    margin: 0 auto;
+}
+.ent-block .important-factors-niche{
+    padding: 66px 0 15px;
+    background-color: #cfd8dc;
+    color: #212121;
+}
+.ent-block .important-factors-niche .title{
+    font-size: 48px;
+    margin-bottom: 45px;
+    font-family: "Segoe UI Bold";
+}
+.ent-block .important-factors-niche .item{
+    position: relative;
+    margin-bottom: 10px;
+}
+.ent-block .important-factors-niche .item .img-block{
+    width: 64px;
+    height: 64px;
+    border: 1px dashed #909090;
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+}
+.ent-block .important-factors-niche .item .img-block img{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin: -20px auto;
+}
+.ent-block .important-factors-niche .item .text-block{
+    margin-left: 105px;
+    padding-bottom: 35px;
+    border-bottom:1px solid #909090;
+    min-height: 65px;
+}
+.ent-block .why-us{
+    padding-top: 70px;
+    margin-bottom: 83px;
+}
+.ent-block .why-us .title-block{
+    font-size: 130px;
+    color: #ff3d00;
+    padding: 182px 0 150px;
+    background: url("../images/landing-pages/ent-clinic/bg-why-us.jpg") no-repeat right 0;
+    font-family: "Segoe UI Light";
+    margin-bottom: 40px;
+}
+.ent-block .why-us .text-block{
+    font-size: 30px;
+    color: black;
+}
+.ent-block .why-us .text-block p{
+    margin-bottom: 70px;
+    position: relative;
+    padding-left: 80px;
+}
+.ent-block .why-us .text-block p:after{
+    content: "";
+    position: absolute;
+    width: 60px;
+    top:0;
+    left: 0;
+    height: 100%;
+    background-color: #ff3d00;
+}
+.ent-block .why-us .text-block p:last-child{
+    padding-left: 0;
+}
+.ent-block .why-us .text-block p:last-child:after{
+    width: 0;
+    height:0;
+}
+.ent-block .secondary-contact-form .form-cl-2{
+    background: #fff;
+    width: 548px;
+    margin: 0 auto 150px;
+    padding: 46px 46px 20px;
+}
+.ent-block .secondary-contact-form  .form-cl-2 form{
+    margin: 0;
+}
+.ent-block .secondary-contact-form .forms{
+    margin: 0;
+}
+.top-left-1{
+    top:-10px;
+    left:-10px;
+}
+.top-right-1{
+    top:-10px;
+    right:-10px;
+}
+.bot-left-1{
+    top: 220px;
+}
+.bot-right-1{
+    top: 220px;
+    right: -10px
+}
+
+@media(max-width: 991px){
+    .ent-block .go-cl .logo-cl{
+        position: relative;
+        margin-top: 15px;
+    }
+    .ent-block .about-clever .top-about{
+        width: 100%;
+    }
+    .ent-block .why-us .title-block{
+        padding: 0;
+        background: none;
+    }
+}
+@media(max-width: 767px){
+    .ent-block .ent-bg{
+        padding-bottom: 50px;
+    }
+    .ent-block .ent-bg .title-block{
+        margin-top: 50px;
+    }
+    .ent-block .ent-bg .title-block .sub-title{
+        padding-right: 0;
+    }
+    .ent-block .ent-bg .title-block .title{
+        width:100%;
+    }
+    .ent-block .ent-bg .title-block .title .main-title{
+        font-size: 115px;
+    }
+    .ent-block .ent-bg .title-block .title .clinic{
+        font-size: 40px;
+        margin-left: 10px;
+    }
+    .ent-block .ent-bg .bottom-text{
+        font-size: 14px;
+    }
+    .ent-block .ent-bg  .form-block{
+        position: relative;
+        margin-top: 50px;
+        width: 100%;
+        bottom: auto;
+    }
+    .ent-block .about-clever{
+        padding-top: 100px;
+    }
+    .ent-block .about-clever .title-about-clever{
+        font-size: 40px;
+    }
+    .ent-block .about-clever .content{
+        width:100%;
+    }
+    .ent-block .important-factors-niche{
+        padding: 50px 0;
+    }
+    .ent-block .important-factors-niche .title{
+        font-size: 40px;
+    }
+    .ent-block .important-factors-niche .item .img-block{
+        display: none;
+    }
+    .ent-block .important-factors-niche .item .text-block{
+        margin-left: 0;
+    }
+    .ent-block .why-us{
+        margin-bottom: 0;
+        padding-top: 50px;
+    }
+    .ent-block .why-us .title-block{
+        font-size: 70px;
+    }
+    .ent-block .why-us .text-block{
+        font-size: 18px;
+    }
+    .ent-block .why-us .text-block p{
+        margin-bottom: 40px;
+    }
+    .ent-block .secondary-contact-form .form-cl-2{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 0;
+    }
+    .offer h2{
+        margin-top: 50px;
+    }
+}

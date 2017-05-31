@@ -1,0 +1,501 @@
+
+@media screen and (max-width: 1620px) {
+.lists ul li {
+    font-size: 13px;
+}
+.rock p {
+    font-size: 40px;
+}
+}	
+
+@media screen and (max-width: 1420px) {
+	.bg_head_moneshop {
+    background: url("/wp-content/themes/cleversolution/images/m_one/bg-header-mone-shop.jpg") no-repeat scroll center center;
+    background-size: 100%;
+}
+.mone-header-text-1 {
+    font-size: 13px;
+    margin: 30px 0 0 0;
+}
+.mone-header-text-2 {
+    font-size: 13px;
+    margin: 20px 0 0 0;
+}
+.mone-shop-title {
+    padding: 15px 0 15px;
+	margin: 20px 0 0;
+}
+.mone-shop-title h1 {
+    font-size: 80px;
+}
+.mone-shop-title p {
+    font-size: 16px;
+    margin: 0 55px 0 0;
+}
+.mone-shop-button a img {
+    width: 100%;
+    margin: 0 auto;
+}
+.mone-shop-button {
+    margin: 30px auto 0;
+    width: 88%;
+}
+.header-mone-shop {
+    float: none;
+    margin-bottom: 130px;
+    margin-top: 0px;
+    text-align: right;
+    width: 434px;
+    margin-left: 48%;
+}
+.mone-shop-five {
+    margin: -128px auto 0;
+    width: 15%;
+}
+.mone-shop-five img {
+    width: 285px;
+}
+.mone-shop-profit h2 {
+    font-size: 150px;
+}
+.mone-shop-profit p {
+    font-size: 135px;
+}
+.lists ul li {
+    font-size: 14px;
+}
+}
+
+@media screen and (max-width: 1360px) {
+	.header-mone-shop {
+    float: none;
+    margin-bottom: 140px;
+    margin-top: 0px;
+    text-align: right;
+    width: 400px;
+    margin-left: 48%;
+}
+.mone-shop-title h1 {
+    font-size: 50px;
+}
+.mone-shop-title p {
+    font-size: 14px;
+    margin: 0 88px 0 0;
+}
+.mone-shop-demo a {
+    font-size: 13px;
+}
+.bg_head_moneshop {
+    background-size: 100% 100%;
+}
+.mblock-text p {
+    font-size: 12px;
+}
+.mblock-img {
+    bottom: 130px;
+}
+.mone-shop-t {
+    margin-top: 140px;
+}
+.mone-shop-text-r p {
+    font-size: 15px;
+}
+.mone-shop-text-r {
+    margin: 50px 0 0 0;
+}
+.button-mone-shop div a img {
+	width: 100%;
+}
+.button-mone-shop {
+    margin: 70px 0 70px;
+}
+.m-button {
+    margin: 0 auto;
+    width: 400px;
+}
+.mone-shop-profit p {
+    font-size: 90px;
+}
+.mone-shop-profit h2 {
+    font-size: 100px;
+}
+.blue-mone-shop div a img {
+	width: 100%;
+}
+.mone-shop-number-text p {
+    margin: 30px 0 120px;
+}
+.mone-shop-marketpleys h3 {
+    font-size: 145px;
+}
+.mone-shop-marketpleys h2 {
+    font-size: 85px;
+    margin: 100px 0 0;
+}
+.shop-ma {
+    margin: 100px 0 80px;
+}
+
+.marketpleys-text-mone-shop p {
+    font-size: 14px;
+}
+.marketpleys-text-mone-shop h2 {
+    font-size: 16px;
+}
+.button-green-block div a img {
+	width: 100%;
+}
+.possible-trading-platform h2 {
+    font-size: 70px;
+}
+.possible-trading-platform h3 {
+    font-size: 145px;
+}
+.p-t-p-mone-shop h4 {
+    font-size: 50px;
+}
+.p-t-p-mone-shop ul li {
+    font-size: 14px;
+}
+.mone-shop-more {
+    margin-left: 135px;
+}
+.mone-shops-h3 {
+    font-size: 85px;
+    margin: 100px 0 35px;
+}
+.rock p {
+    font-size: 30px;
+}
+.lists ul li {
+    font-size: 10px;
+}
+.list_disc p {
+    font-size: 10px;
+}
+.list_disc i {
+    font-size: 30px;
+}
+.list_disc i span {
+    font-size: 20px;
+}
+.lists div a img {
+	width: 85%;
+}
+.bot_pad {
+    padding-bottom: 100px;
+}
+.owl-buttons {
+    display: none;
+}
+}
+@media screen and (max-width: 1250px) {
+	.mone-shop-ma {
+    	width: 22% !important;
+	}
+}	
+@media screen and (max-width: 1024px) {
+.owl-buttons {
+    display: none;
+}
+.bg_head_moneshop {
+    background: url('/wp-content/themes/cleversolution/images/m_one/bg_mone_top.jpg') no-repeat center;
+    background-size: cover;
+}
+.header-mone-shop {
+    float: none;
+    margin-bottom: 145px;
+    margin-top: 0px;
+    text-align: right;
+    width: 400px;
+    margin-left: 22%;
+}
+.mone-shop-five {
+    margin: -132px auto 0;
+    width: 39%;
+}
+.mone-shop-five img {
+    width: 100%;
+}
+.mblock-img {
+    bottom: 167px;
+}
+.mblock-img img {
+    width: 100%;
+}
+.mone-shop-number img {
+    width: 80%;
+}
+.mone-shop-number-text p {
+    font-size: 21px;
+}
+.mone-shop-marketpleys h2 {
+    font-size: 65px;
+    margin: 70px 0 0;
+}
+.mone-shop-marketpleys h3 {
+    font-size: 110px;
+}
+.mone-shop-ma {
+    width: 22% !important;
+}
+.marketpleys-text-mone-shop h2 {
+    font-size: 12px;
+}
+.marketpleys-text-mone-shop p {
+    font-size: 11px;
+}
+.shop-ma {
+    margin: 75px 0 50px;
+}
+.possible-trading-platform h2 {
+    font-size: 50px;
+}
+.possible-trading-platform h3 {
+    font-size: 100px;
+}
+.p-t-p-mone-shop h4 {
+    font-size: 40px;
+}
+.p-t-p-mone-shop ul li {
+    font-size: 12px;
+}
+.mone-shops-h3 {
+    font-size: 65px;
+    margin: 50px 0 25px;
+}
+.rock p {
+    font-size: 20px;
+}
+.lists ul li {
+    font-size: 7px;
+}
+.mblock-img {
+    bottom: 130px;
+}
+.mblock-text p {
+    font-size: 9px;
+}
+.mone-shop-profit h2 {
+    font-size: 80px;
+}
+.mone-shop-profit p {
+    font-size: 75px;
+}
+
+}
+@media screen and (max-width: 758px) {
+.images_m ul {
+	margin-bottom: 50px;
+}
+.rock h3 {
+    text-align: center;
+    margin-top: 140px;
+    color: #202426;
+    font-family: "Palatino Linotype";
+    font-size: 50px;
+    font-weight: 400;
+}
+.lists {
+	display: none;
+}
+.mini_ul {
+	display: block;
+}
+.rock ul.mini_ul li {
+	list-style-type: none;
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 30px;
+	text-align: left;
+}
+.rock ul.mini_ul {
+	padding:0;
+	text-align: center;
+}
+.mini_ul p {
+	text-align: center;
+	color: #464646;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+	margin: 40px 0 16px 0;
+}
+.mini_ul i {
+	text-align: center;
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 68px;
+}
+.mini_ul i span {
+	text-align: center;
+	font-size: 24px;
+}
+.mini_ul h5 {
+	text-align: center;
+	color: #464646;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 11px;
+}
+.mini_ul h6 {
+	text-align: center;
+	color: #464646;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+.mini_ul h6 span {
+	text-align: center;
+	font-size: 62px;
+	margin-top: 0;
+}
+.what_can {
+    background-color: whitesmoke;
+    padding-bottom: 0px;
+}
+.lego {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.mone-shop-five {
+    margin: -80px auto 0;
+    width: 50%;
+}
+.mone-shop-t {
+    margin-top: 30px;
+}
+.mone-shop-1-block {
+    position: relative;
+    margin: 0 auto 0;
+    width: 90%;
+}
+.mone-shop-2-block {
+    position: relative;
+    margin: 0 auto 0;
+    width: 90%;
+}
+.mone-shop-3-block {
+    position: relative;
+    margin: 0 auto 0;
+    width: 90%;
+}
+.header-mone-shop {
+    float: none;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto 140px;
+}
+.mblock-img {
+    bottom: 0;
+	width: 40%;
+	top: 75px;
+	position: relative;
+}
+.mblock-text p {
+    font-size: 13px;
+}
+.mone-shop-text-r p {
+    font-size: 12px;
+}
+.mone-shop-text-r {
+    margin: 50px auto 0;
+    width: 90%;
+}
+.m-button {
+    margin: 0 auto;
+    width: 90%;
+}
+.mone-shop-profit p {
+    font-size: 42px;
+}
+.mone-shop-profit h2 {
+    font-size: 45px;
+}
+.mone-shop-number {
+    display: none;
+}
+.mone-shop-number-text p {
+    font-size: 19px;
+    margin: 0px 0 50px;
+}
+.mone-shop-n {
+    margin: 60px 0 60px 0;
+}
+.mone-shop-demo-white a {
+    font-size: 13px;
+}
+.img-bg-mone-shop {
+    width: 100%;
+    display: none;
+}
+.mone-shop-marketpleys h2 {
+    font-size: 30px;
+    margin: 30px 0 0;
+}
+.mone-shop-marketpleys h3 {
+    font-size: 50px;
+}
+.mone-shop-ma {
+    width: 80% !important;
+    margin: 0 auto 30px;
+}
+.mone-shop-ma:last-child {
+    margin: 0 auto 30px;
+}
+.marketpleys-text-mone-shop p {
+    font-size: 17px;
+    text-align: center;
+}
+.marketpleys-text-mone-shop h2 {
+    font-size: 18px;
+}
+.possible-trading-platform h2 {
+    font-size: 22px;
+}
+.possible-trading-platform h3 {
+    font-size: 48px;
+}
+.p-t-p-mone-shop h4 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 1.3;
+    margin: 0 auto 30px;
+}
+.p-t-p-mone-shop ul li {
+    font-size: 13px;
+    text-align: center;
+    line-height: 1.3;
+}
+.p-t-p-mone-shop {
+    width: 90%;
+    margin: 0 auto;
+}
+.mone-shop-more a {
+    padding: 8px 19px 8px 19px;
+}
+.mone-shop-more {
+    margin: 65px auto;
+    width: 48%;
+}
+.mone-shops-h3 {
+    font-size: 35px;
+    margin: 50px 0 25px;
+}
+
+}
+@media screen and (max-width: 400px) {
+	.why_open img.full {
+		display: none;
+	}
+	.why_open img.mini {
+		display: block;
+	}
+}	

@@ -1,0 +1,209 @@
+body{
+    line-height:1;
+    font-family: "Segoe UI";
+}
+.top-left{
+    top: 5px;
+    left:3px;
+}
+.top-right{
+    top:5px;
+    right: 3px;
+}
+.bot-left{
+    top: 240px;
+    left:3px;
+}
+.bot-right{
+    top: 240px;
+    right: 3px;
+}
+.psychiatry-block .psychiatry-bg{
+    background: url("../images/landing-pages/psychiatry-clinic/bg-psichyatry.jpg") no-repeat center 0;
+    color: #212121;
+    margin-bottom: 51px;
+}
+.psychiatry-block .psychiatry-bg .title-block{
+    margin-top: 355px;
+    margin-bottom: 128px;
+    float: right;
+    width:100%;
+}
+.psychiatry-block .psychiatry-bg .title-block span{
+    font-family: BebasNeueBold;
+    font-size: 42px;
+}
+.psychiatry-block .psychiatry-bg .title-block .first-text{
+    width: 47%;
+    float: left;
+    text-align: right;
+}
+.psychiatry-block .psychiatry-bg .title-block .title{
+    width: 47%;
+    float: right;
+}
+.psychiatry-block .psychiatry-bg .title-block .bottom-text{
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: italic;
+}
+.psychiatry-block .psychiatry-bg .form-block {
+    width: 488px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+}
+.psychiatry-block .psychiatry-bg .form-block .forms{
+    margin-bottom: 0;
+}
+.psychiatry-block .about-clever{
+    background-color: #ff5722;
+    padding: 49px 0 39px;
+    color: white;
+}
+.psychiatry-block .about-clever .top-about{
+    width: 600px;
+    margin: 0 auto 59px;
+}
+.psychiatry-block .about-clever .title-about-clever{
+    font-size: 48px;
+    margin-bottom: 27px;
+    font-family: "Segoe UI Bold";
+}
+.psychiatry-block .about-clever  .slogan{
+    font-size: 18px;
+    font-style: italic;
+}
+.psychiatry-block .about-clever .content{
+    width: 600px;
+    margin: 0 auto;
+}
+.psychiatry-block .about-clever .content p{
+    margin-bottom: 20px;
+}
+.psychiatry-block .secondary-contact-form .form-cl-2{
+    background: #fff;
+    width: 506px;
+    box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
+    margin: 0 auto 134px;
+}
+.psychiatry-block .secondary-contact-form .form-cl-2 form{
+    margin: 20px 0 0;
+}
+.psychiatry-block .secondary-contact-form .form-cl-2 .forms{
+    margin-bottom: 0;
+}
+.psychiatry-block .secondary-contact-form  .top-left-1{
+    top: 5px;
+    left:3px;
+}
+.psychiatry-block .secondary-contact-form  .top-right-1{
+    top:5px;
+    right: 3px;
+}
+.psychiatry-block .secondary-contact-form  .bot-left-1{
+    top: 240px;
+    right: 3px;
+}
+.psychiatry-block .secondary-contact-form  .bot-right-1{
+    top: 240px;
+    left:3px;
+}
+.psychiatry-block .important-factors-niche .title{
+    font-size: 61px;
+    font-family: "Segoe UI Bold";
+    color: #fb8c00;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+.psychiatry-block .important-factors-niche{
+    margin-bottom: 232px;
+}
+.psychiatry-block .important-factors-niche .content-block{
+    margin-top: -5px;
+    padding-bottom: 12px;
+    border-top:19px solid #ef6c00;
+}
+.psychiatry-block .important-factors-niche .item{
+    padding: 15px 0;
+}
+.psychiatry-block .important-factors-niche .img-block{
+    width: 13%;
+}
+.psychiatry-block .important-factors-niche .text-block{
+    width: 87%;
+    color: #212121;
+    font-size: 16px;
+    padding-left: 10px;
+}
+.psychiatry-block .why-us{
+    margin-bottom: 136px;
+}
+.psychiatry-block .why-us .title-block{
+    font-size: 149px;
+    color: #f57c00;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Segoe UI Bold";
+    background: #fff;
+    margin-bottom: -13px;
+}
+.psychiatry-block .why-us .text-block{
+    color: white;
+    font-size: 30px;
+    font-family: "Segoe UI";
+    background-color: #f57c00;
+    padding: 61px 0 42px;
+}
+.psychiatry-block .why-us .text-block p{
+    margin-bottom: 30px;
+}
+@media(max-width: 1199px){
+    .psychiatry-block .psychiatry-bg .title-block span{
+        font-size: 40px;
+    }
+}
+@media(max-width: 991px){
+    .go-cl .logo-cl{
+        position: relative !important;
+    }
+}
+@media(max-width: 767px){
+    .psychiatry-block .psychiatry-bg .title-block .first-text{
+        width: 39%;
+        text-align: left;
+    }
+    .psychiatry-block .psychiatry-bg .title-block .title{
+        width: 38%;
+    }
+    .psychiatry-block .psychiatry-bg .form-block{
+        width: auto;
+    }
+    .psychiatry-block .about-clever .title-about-clever{
+        font-size: 40px;
+    }
+    .psychiatry-block .about-clever .top-about, .psychiatry-block .about-clever .content{
+        width: auto;
+    }
+    .psychiatry-block .secondary-contact-form .form-cl-2{
+        width: auto;
+    }
+    .psychiatry-block .important-factors-niche{
+        margin-bottom: 100px;
+    }
+    .psychiatry-block .important-factors-niche .title{
+        font-size: 33px;
+    }
+    .psychiatry-block .important-factors-niche .img-block{
+        display: none;
+    }
+    .psychiatry-block .important-factors-niche .text-block{
+        width: 100%;
+    }
+    .psychiatry-block .why-us .title-block{
+        font-size: 68px;
+    }
+    .psychiatry-block .why-us .text-block{
+        font-size: 18px;
+    }
+}

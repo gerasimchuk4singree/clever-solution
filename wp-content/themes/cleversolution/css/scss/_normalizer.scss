@@ -1,0 +1,13 @@
+html, body {height: 100%;}
+html, body, figure, hr {margin:0px;padding:0px;}
+a:active, a:hover, a:focus {outline: 0;}
+* {box-sizing: border-box;-ms-box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;}
+input, button, textarea, *:focus {outline: none !important;}
+article, aside, footer, header, nav, section, audio, video  {display: block;}
+img {border: 0;max-width:100%;}
+button, input {line-height: normal;}
+button, select {text-transform: none;}
+button, html input[type="button"], input[type="reset"], input[type="submit"], input[type="clear"] {cursor: pointer;-webkit-appearance: button;cursor: pointer;}
+button[disabled], html input[disabled] {cursor: default;}
+textarea {resize: none;}
+address {font-style: normal;}
