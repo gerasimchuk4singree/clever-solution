@@ -17,7 +17,7 @@ get_header(); ?>
         <div class="container">
             <a href="/home"><img src="<?php echo get_template_directory_uri()?>/images/landing-pages/crm-development/logo-orange.png" alt=""></a>
             <div class="row">
-                <div class="col-md-7">
+                <div class="col-md-10 col-lg-7">
                     <div class="title">Establish Yourself As an Industry Guru</div>
                     <h2>With Powerful PR</h2>
                     <p>Showcase Your Business as Honest,
@@ -171,7 +171,7 @@ get_header(); ?>
     <section class="prLP-about">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-md-offset-3">
+                <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
                     <div class="title"> Why Clever Solution</div>
                     <div class="desc">Clever Solution is a full cycle digital marketing agency, headquartered in NYC. Our experts are professionals in search engine optimization, pay-per-click, social media marketing, public relations, and web design and development. We have gained extensive experience helping small- and mid-sized businesses not only in USA, but also overseas.</div>
                 </div>
@@ -213,120 +213,120 @@ get_header(); ?>
             </div>
         </div>
     </section>
-    <section class="newsBlog">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="item">
-                        <a href="#">
-                            <div class="img">
-                                <img src="<?php echo get_template_directory_uri()?>/images/blog/item-img1.png" alt="">
-                            </div>
-                            <h2 class="name">5 Tips to Help Your Cosmetology Website Dominate Local Web Searches</h2>
-                            <p class="desc">In 2014, Google rolled out its local algorithm “Pigeon”, emphasizing the importance of local SEO for businesses everywhere. Pigeon left many businesses with little choice but to start paying attention to their local SEO practices in order to avoid falling behind the competition.
-                            </p>
-                            <div class="bottom">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="item">
-                        <a href="#">
-                            <div class="img">
-                                <img src="<?php echo get_template_directory_uri()?>/images/blog/item-img2.png" alt="">
-                            </div>
-                            <h2 class="name">How to Promote Your Cosmetology Website with Visual Content</h2>
-                            <p class="desc">Numerous businesses struggle to occupy top positions on Google, as they must effectively combine high quality personal care services with website optimization strategies in order to succeed.
-                            </p>
-                            <div class="bottom">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>
-                                            <p>20000</p>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-12">
-                    <div class="itemOne clearfix">
-                        <a href="#">
-                            <div class="col-md-6 nopadding">
-                                <div class="img">
-                                    <img src="<?php echo get_template_directory_uri()?>/images/blog/item-img3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <h2 class="name">How to Promote Your Cosmetology Website with Visual Content</h2>
-                                <p class="desc">Numerous businesses struggle to occupy top positions on Google, as they must effectively combine high quality personal care services with website optimization strategies in order to succeed.
-                                </p>
-                            </div>
-                            <div class="col-md-12 nopadding">
-                                <div class="bottom">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>
-                                                <p>20000</p>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                                <p>20000</p>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>
-                                                <p>20000</p>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+<!--    <section class="newsBlog">-->
+<!--        <div class="container">-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-6">-->
+<!--                    <div class="item">-->
+<!--                        <a href="#">-->
+<!--                            <div class="img">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri()?><!--/images/blog/item-img1.png" alt="">-->
+<!--                            </div>-->
+<!--                            <h2 class="name">5 Tips to Help Your Cosmetology Website Dominate Local Web Searches</h2>-->
+<!--                            <p class="desc">In 2014, Google rolled out its local algorithm “Pigeon”, emphasizing the importance of local SEO for businesses everywhere. Pigeon left many businesses with little choice but to start paying attention to their local SEO practices in order to avoid falling behind the competition.-->
+<!--                            </p>-->
+<!--                            <div class="bottom">-->
+<!--                                <ul>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-6">-->
+<!--                    <div class="item">-->
+<!--                        <a href="#">-->
+<!--                            <div class="img">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri()?><!--/images/blog/item-img2.png" alt="">-->
+<!--                            </div>-->
+<!--                            <h2 class="name">How to Promote Your Cosmetology Website with Visual Content</h2>-->
+<!--                            <p class="desc">Numerous businesses struggle to occupy top positions on Google, as they must effectively combine high quality personal care services with website optimization strategies in order to succeed.-->
+<!--                            </p>-->
+<!--                            <div class="bottom">-->
+<!--                                <ul>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#">-->
+<!--                                            <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>-->
+<!--                                            <p>20000</p>-->
+<!--                                        </a>-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-12">-->
+<!--                    <div class="itemOne clearfix">-->
+<!--                        <a href="#">-->
+<!--                            <div class="col-md-6 nopadding">-->
+<!--                                <div class="img">-->
+<!--                                    <img src="--><?php //echo get_template_directory_uri()?><!--/images/blog/item-img3.png" alt="">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-6">-->
+<!--                                <h2 class="name">How to Promote Your Cosmetology Website with Visual Content</h2>-->
+<!--                                <p class="desc">Numerous businesses struggle to occupy top positions on Google, as they must effectively combine high quality personal care services with website optimization strategies in order to succeed.-->
+<!--                                </p>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-12 nopadding">-->
+<!--                                <div class="bottom">-->
+<!--                                    <ul>-->
+<!--                                        <li>-->
+<!--                                            <a href="#">-->
+<!--                                                <span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span>-->
+<!--                                                <p>20000</p>-->
+<!--                                            </a>-->
+<!--                                        </li>-->
+<!--                                        <li>-->
+<!--                                            <a href="#">-->
+<!--                                                <span class="icon"><i class="fa fa-share-alt" aria-hidden="true"></i></span>-->
+<!--                                                <p>20000</p>-->
+<!--                                            </a>-->
+<!--                                        </li>-->
+<!--                                        <li>-->
+<!--                                            <a href="#">-->
+<!--                                                <span class="icon"><i class="fa fa-commenting" aria-hidden="true"></i></span>-->
+<!--                                                <p>20000</p>-->
+<!--                                            </a>-->
+<!--                                        </li>-->
+<!--                                    </ul>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
     <?php include_news() ?>
 </div>
 
@@ -338,7 +338,7 @@ get_header(); ?>
 <link rel='stylesheet' href='/wp-content/themes/cleversolution/slick/slick.css' type='text/css' media='all' />
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,300' type='text/css' media='all' />
 <link rel='stylesheet' href='/wp-content/themes/cleversolution/css/main.css' type='text/css' media='all' />
-<link rel='stylesheet' href='/wp-content/themes/cleversolution/css/pr-lp.css' type='text/css' media='all' />
+<link rel='stylesheet' href='/wp-content/themes/cleversolution/css/pr-lp.css?2' type='text/css' media='all' />
 <link rel='stylesheet' href='/wp-content/themes/cleversolution/css/mobile-cl.css' type='text/css' media='all' />
 <?php //get_sidebar(); ?>
 <?php get_footer(); ?>
