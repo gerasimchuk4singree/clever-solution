@@ -1,0 +1,241 @@
+.wordpressLp-top {
+    background: url("../images/landing-pages/wordpress-landing/bg-top.png") no-repeat;
+    background-position: right;
+    margin-bottom: 330px;
+    padding: 105px 0;
+}
+.wordpressLp-top .title {
+    margin-top:215px;
+}
+.wordpressLp-top .title p {
+    color: #0277bd;
+    font-family: "Segoe UI Light";
+    font-size: 30px;
+}
+.wordpressLp-top .title h2 {
+    color: #0277bd;
+    font-family: "Segoe UI Bold";
+    font-size: 35px;
+    font-style: italic
+}
+.wordpress-about {
+    background-color: #252525;
+    padding: 35px 0;
+    margin-top: 55px;
+}
+.wordpress-about p {
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 16px;
+    line-height: 24px;
+    font-style: italic
+}
+.wordpress-about strong {
+    font-family: "Segoe UI Bold";
+}
+.wordpressLp .forget-about {
+
+}
+.wordpressLp .forget-about .title {
+    text-align: center;
+    color: #263238;
+    font-family: 'BebasNeueBold';
+    font-size: 89px;
+    padding-top: 60px;
+    padding-bottom: 7px;
+}
+.wordpressLp .forget-about span {
+    display: block;
+    text-align: center;
+    color: #263238;
+    font-family: "Segoe UI";
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.wordpressLp .forget-about img {
+    display: block;
+    margin:35px auto 0;
+}
+.more-wordpress {
+    padding: 25px 0;
+    background-color: #0277bd;
+    margin-top: 40px;
+}
+.more-wordpress span {
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 66px;
+}
+.wordpress-options {
+
+}
+.wordpress-options .title {
+    text-align: center;
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 36px;
+    padding:80px 0;
+}
+.wordpress-options .box {
+    background: url("../images/landing-pages/wordpress-landing/wp-option-bg.png") no-repeat;
+    text-align: center;
+    padding: 70px 0;
+}
+.wordpress-options .box span {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 40px;
+    line-height: 36px;
+    text-transform: uppercase;
+    display: block;
+    padding: 0 25px;
+}
+.wordpress-advantages {
+    padding-top: 145px;
+}
+.wordpress-advantages .title {
+    text-align: center;
+    color: #252525;
+    font-family: "BebasNeueRegular";
+    font-size: 60px;
+    padding-bottom: 50px;
+}
+.wordpress-advantages .name {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 38px;
+    line-height: 44px;
+}
+.wordpress-advantages .desc p {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    line-height: 28px;
+}
+.wordpress-advantages .desc .line {
+    height: 13px;
+    background-color: #007aff;
+}
+.wordpress-advantages .desc .line1 {
+    width: 67.5%;
+}
+.wordpress-advantages .desc .line2 {
+    width: 57.5%;
+}
+.wordpress-advantages .desc .line3 {
+    width: 66.5%;
+}
+.wordpress-advantages .desc .line4 {
+    width: 56%;
+}
+.wordpress-advantages .desc .line5 {
+    width: 86.5%;
+}
+.wordpress-advantages .desc .line6 {
+    width: 77%;
+}
+.wordpress-advantages .desc .line7 {
+    width: 15%;
+}
+.wordpress-advantages .box {
+    margin-bottom:35px;
+}
+.wordpress-services {
+    background-color: #252525;
+    padding:35px 0;
+    margin-top: 55px;
+}
+.wordpress-services .title {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.wordpress-services .name {
+    display: block;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 28px;
+}
+.wordpress-services .img {
+    height: 110px;
+}
+.wordpress-services .box {
+    margin-top: 60px;
+}
+.wordpress-form {
+    padding:115px 0;
+}
+.wordpress-form .title {
+    text-align: center;
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 48px;
+    margin-bottom: 120px;
+}
+.wordpress-form .title p {
+    line-height:44px;
+}
+.wordpress-form .title span {
+    display: block;
+    margin-top:75px;
+}
+.wordpress-bottomBlock {
+    background-color: #51007d;
+    border-top:1px solid #808080;
+    padding-bottom: 70px;
+}
+.wordpress-bottomBlock .who-we-are {
+    background-color: #007aff;
+    padding-bottom: 190px;
+    position: relative;
+    margin-top:-22px;
+}
+.wordpress-bottomBlock .who-we-are:after {
+    content: "";
+    position: absolute;
+    left:50%;
+    margin-left:-85px;
+    bottom:-85px;
+    background: url("../images/landing-pages/wordpress-landing/logo-bottom.png") no-repeat;
+    width:170px;
+    height:170px;
+}
+.wordpress-bottomBlock .who-we-are .title {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 75px;
+}
+.wordpress-bottomBlock .who-we-are .txt {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    line-height: 28px;
+    width:77%;
+    display: block;
+    margin:0 auto;
+}
+.wordpress-whyClever {
+    padding-top: 205px;
+}
+.wordpress-whyClever .title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+.wordpress-whyClever .name {
+    color: #fff;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    padding-bottom: 80px;
+}

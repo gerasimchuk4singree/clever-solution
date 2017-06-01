@@ -22,7 +22,7 @@ $( document ).ready(function() {
     //     $('.mob-menu li a span').hide();
     //     $('.mob-menu .social').css('margin', '15px 0');
     //     $('.site-main .mob-menu').css('width', '100px');
-    //     $(".mob-menu .logo-mob img").attr("src","http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/mob-menu/mini-logo.png");
+    //     $(".mob-menu .logo-mob img").attr("src","/wp-content/themes/cleversolution/images/mob-menu/mini-logo.png");
     //     $('.menu-btn-block').css('width', '100px');
     // }
 

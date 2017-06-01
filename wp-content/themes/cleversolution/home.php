@@ -16,15 +16,15 @@ get_header(); ?>
     <div class="js-screen" data-title="&lt; The only stop you’ll need to make &gt;">
                 <div class="island-v65">
             <div class="logo-1 index-200">
-                                    <img width="470" height="470" src="http://cltemp.axure.cleverhosting.org/wp-content/uploads/2017/05/anim-logo.png" class="attachment-full wp-post-image" alt="anim-logo" />                            </div>
+                                    <img width="470" height="470" src="/wp-content/uploads/2017/05/anim-logo.png" class="attachment-full wp-post-image" alt="anim-logo" />                            </div>
         </div>
-        <div class="cloud1 " style="top: 28%; left: 7%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud2 " style="top: 12.5%; left: 11.5%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud3 " style="top: 29.5%; left: 25%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud3 d-non-1024" style="top: 16%; right: 24%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud2 " style="top: 20%; right: 12%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud3 d-non-1024" style="top: 31%; right: 10%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
-        <div class="cloud1 " style="top: 37%; right: 4%;"><img class="anim-cloud  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud1 " style="top: 28%; left: 7%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud2 " style="top: 12.5%; left: 11.5%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud3 " style="top: 29.5%; left: 25%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud3 d-non-1024" style="top: 16%; right: 24%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud2 " style="top: 20%; right: 12%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud3 d-non-1024" style="top: 31%; right: 10%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
+        <div class="cloud1 " style="top: 37%; right: 4%;"><img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="" /></div>
         &nbsp;
         <div class="js-topform">
             <div class="topform"><div class="wpcf7" id="wpcf7-f104-p1209-o2" lang="en-US" dir="ltr">
@@ -49,7 +49,7 @@ get_header(); ?>
             <div class="index-200 relative orange-bottom"><address class="c x2d12 island-v10 head-telephones cl-white"> </address>
                 <div class="c x8d12 font-60 light cl-white center">
                     <p class="p marg-control-1">&lt; The only stop you’ll need to make &gt;</p>
-                    <a href="javascript:goscreen(2);" data-menuanchor="secondPage"><img class="anim-bottom  " src="http://cltemp.axure.cleverhosting.org/wp-content/themes/cleversolution/images/anim-bottom.png" alt="" /></a>
+                    <a href="javascript:goscreen(2);" data-menuanchor="secondPage"><img class="anim-bottom  " src="/wp-content/themes/cleversolution/images/anim-bottom.png" alt="" /></a>
 
                     &nbsp;
 

@@ -454,7 +454,7 @@
         top: -55px;
     }
     .pr-steps .step2 .title:after {
-        top:120px;
+        top:110px;
     }
     .pr-steps .step1:after {
         top: 80px;
@@ -464,10 +464,10 @@
     .pr-steps .step2:before {
         left: 50%;
         margin-left: -177px;
-        width: 100%;
+        bottom: -40px;
     }
     .prLP-about .box {
-        padding:0;
+        padding: 0 25px;
     }
     .prLP-top .comment {
         margin-top: 210px;
@@ -476,5 +476,49 @@
         padding-top: 50px;
         background-position: center;
         background-size: cover;
+    }
+    .pr-steps .step2:after {
+        top: 105px;
+    }
+    .pr-work .box {
+        margin-bottom: 5px;
+    }
+    .pr-work .title {
+        margin: 0 auto 20px;
+    }
+    .pr-work span {
+        font-size:14px;
+    }
+}
+@media (max-width: 600px) {
+    .pr-steps .step2:after {
+        right: -15px;
+        background-size: 100%;
+        top: 125px;
+        width: 40%;
+    }
+    .pr-steps .step2:before {
+        background-size: 70%;
+    }
+    .pr-steps .step2 .title {
+        min-height: 160px;
+        padding-bottom:0;
+    }
+    .pr-steps .txt {
+        text-align: left;
+    }
+    .prLP-about .desc {
+        padding-bottom:45px;
+    }
+}
+@media (max-width: 500px) {
+    .pr-steps .step2:after {
+        top: 180px;
+    }
+    .pr-work {
+        margin-top:-40px;
+    }
+    .pr-steps {
+        padding-bottom:100px;
     }
 }
