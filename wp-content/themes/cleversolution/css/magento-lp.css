@@ -1,0 +1,285 @@
+.magentoLp-top {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 120px;
+}
+.magentoLp-top .leftBlock {
+    background-color: #ef4800;
+    background-image: linear-gradient(to top, #ef4800 0%, #ffab00 100%);
+    width:50%;
+}
+.magentoLp-top .title p {
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 48px;
+}
+.magentoLp-top .title h2 {
+    color: #ffffff;
+    font-family: "Segoe UI Bold";
+    font-size: 29px;
+}
+.magentoLp-top .rightBlock {
+    width:50%;
+    position: relative;
+}
+.magentoLp-top .rightBlock .txt {
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 225px;
+    position: absolute;
+    line-height:0.9;
+    width:100%;
+    bottom:0;
+    margin:0;
+}
+.magentoLp-top .rightBlock img {
+    width:100%;
+}
+.magento-about {
+    padding: 35px 0;
+    margin-top: 105px;
+    margin-bottom: 130px;
+}
+.magento-about p {
+    color: #000;
+    font-family: "Segoe UI Light";
+    font-size: 16px;
+    line-height: 24px;
+    font-style: italic
+}
+.magento-about strong {
+    font-family: "Segoe UI Bold";
+}
+.magento-more {
+    position: relative;
+}
+.magento-more h2 {
+    position: absolute;
+    width:100%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 85px;
+    top:35%;
+}
+.magento-more p {
+    position: absolute;
+    width:100%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 64px;
+    top:51.5%;
+}
+.magento-txt {
+    padding:120px 0;
+    text-align: center;
+}
+.magento-txt .title {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 60px;
+    border-bottom:1px solid #ff4600;
+    padding-bottom:10px;
+    margin-bottom: 50px;
+}
+.magento-txt .desc {
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    line-height: 36px;
+    text-transform: uppercase;
+}
+.magento-txt .box {
+    margin-bottom: 55px;
+}
+.magento-desc .title {
+    background-color: #ff4600;
+    background-image: linear-gradient(45deg, #ef4800 0%, #ffab00 100%);
+    padding:40px 0;
+    position: relative;
+}
+.magento-desc .title span {
+    color: #ffffff;
+    font-family: "Segoe UI Light";
+    font-size: 60px;
+    text-align: center;
+    display: block;
+    line-height: 65px;
+}
+.magento-desc .title:after {
+    content: '';
+    position: absolute;
+    bottom:-158px;
+    width:100%;
+    background: url("../images/landing-pages/magento-landing/banner-img.png") no-repeat;
+    height:158px;
+}
+.magento-desc .list {
+    margin-top: 160px;
+}
+.magento-desc .list span {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 109px;
+    display: block;
+    line-height: 70px;
+}
+.magento-desc .list p {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.magento-desc .list .box {
+    border-right:1px solid #252525;
+    text-align: center;
+    padding: 20px 0px;
+}
+.magento-desc .list .box:last-child {
+    border: none;
+}
+.animate-img {
+    position: relative;
+    margin-top: 100px;
+}
+.animate-img .container {
+    position: relative;
+}
+.animate-img .mouse {
+    position: absolute;
+    right: 70px;
+    top: 40px;
+}
+.magento-informBlock {
+    background-color: #f3f3f3;
+    padding: 150px 0 70px;
+    margin-top: -45px;
+}
+.magento-informBlock .txt {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 35px;
+    line-height: 44px;
+    padding-top: 30px;
+    font-style: italic;
+}
+.why-magento {
+    padding-top:155px;
+}
+.why-magento .title {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 66px;
+}
+.why-magento li {
+    list-style: none;
+    margin-bottom: 50px;
+}
+.why-magento .desc span {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 40px;
+}
+.why-magento .desc p {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 16px;
+    font-style: italic;
+    padding-left: 10.5%;
+    padding-top: 20px;
+}
+.magento-services {
+    background-color: #252525;
+    background-image: linear-gradient(45deg, #ef4800 0%, #ffab00 100%);
+    padding: 35px 0;
+    margin-top: 55px;
+}
+.magento-services .title {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.magento-services .img {
+    height: 110px;
+}
+.magento-services .name {
+    display: block;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 28px;
+}
+.magento-services .box {
+    margin-top: 60px;
+}
+.magentoLp .note {
+    padding:110px 0;
+    background-color: #f3f3f3;
+}
+.magentoLp .note p {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 36px;
+    font-style: italic;
+    line-height: 48px;
+}
+.magento-contactForm {
+    background-color: #f3f3f3;
+    padding-bottom: 75px;
+}
+.magento-contactForm .title {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 95px;
+}
+.magento-contactForm .form-landing {
+    background-color: transparent;
+}
+.magentoLp .who-we-are .title {
+    color: #252525;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 75px;
+}
+.magentoLp .who-we-are .txt {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    line-height: 24px;
+    font-style: italic;
+}
+.magentoLp .who-we-are .txt strong {
+    font-family: "Segoe UI Bold";
+}
+.magentoLp .who-we-are {
+    padding-top:105px;
+}
+.magentoLp .who-we-are img {
+    display: block;
+    margin:90px auto;
+}
+.magento-whyClever .title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+.magento-whyClever .name {
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    padding-bottom: 80px;
+}
