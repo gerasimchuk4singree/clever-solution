@@ -239,3 +239,114 @@
     text-align: center;
     padding-bottom: 80px;
 }
+@media (max-width: 1300px) {
+    .wordpressLp-top {
+        background-size:60%;
+    }
+}
+@media (max-width: 1199px) {
+    .wordpressLp-top {
+        background-position: 100% 0;
+        margin-bottom: 100px;
+        padding: 105px 0;
+    }
+    .wordpressLp-top .title {
+        margin-top: 400px;
+    }
+    .more-wordpress span {
+        font-size:55px;
+    }
+    .wordpress-options .box span {
+        font-size:36px;
+    }
+    .wordpress-options .box {
+        background-size:contain;
+    }
+}
+@media (max-width: 991px) {
+    .wordpressLp-top .title {
+        margin-top: 200px;
+    }
+    .wordpress-about p {
+        padding-top:33px;
+    }
+    .more-wordpress span {
+        font-size: 40px;
+    }
+    .wordpress-options .box {
+        background-size: 100%;
+        margin-bottom: 35px;
+    }
+}
+@media (max-width: 767px) {
+    .wordpressLp-top .title p {
+        font-size: 17px;
+    }
+    .wordpressLp-top .title h2 {
+        font-size:16px;
+    }
+    .wordpressLp .forget-about .title {
+        font-size:54px;
+    }
+    .more-wordpress span {
+        font-size:32px;
+        display: block;
+        text-align: center;
+    }
+    .wordpress-options .title {
+        font-size:24px;
+    }
+    .wordpress-options .box span {
+        font-size: 33px;
+    }
+    .wordpress-advantages .title {
+        font-size:30px;
+    }
+    .wordpress-advantages .desc p {
+        font-size:14px;
+        line-height: 25px;
+    }
+    .nopadding-mob {
+        padding:0;
+    }
+    .wordpress-advantages {
+        padding-top: 70px;
+    }
+    .wordpress-services .title {
+        font-size:30px;
+    }
+    .wordpress-form .title {
+        font-size:24px;
+    }
+    .wordpress-bottomBlock .who-we-are .title {
+        font-size:60px;
+    }
+    .wordpress-bottomBlock .who-we-are .txt {
+        font-size:14px;
+    }
+    .wordpress-whyClever .title {
+        font-size:40px;
+    }
+    .wordpressLp-top {
+        background-position: 100% 185px;
+        padding: 15px 0;
+        min-height: 670px;
+        background-size: 100%;
+        margin-bottom: 40px;
+    }
+    .wordpressLp-top .title {
+        margin-top: 90px;
+        text-align: right;
+    }
+}
+@media (max-width: 400px) {
+    .wordpress-options .box {
+        background-size: cover;
+        background-position: center;
+    }
+    .wordpressLp-top {
+        background-position: 100% 280px;
+        min-height: 560px;
+        margin-bottom: 0;
+    }
+}

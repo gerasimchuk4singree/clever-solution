@@ -43,7 +43,7 @@ get_header(); ?>
     <div class="wordpress-about">
         <div class="container">
             <div class="box col-md-6 col-md-offset-3">
-                <div class="col-md-3">
+                <div class="col-md-3 center">
                     <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/wordpress-landing/wp-about-logo.png" alt="">
                 </div>
                 <div class="col-md-9 nopadding">
@@ -58,7 +58,7 @@ get_header(); ?>
         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/wordpress-landing/forget-about.png" alt="">
     </div>
     <div class="more-wordpress">
-        <div class="container">
+        <div class="container nopadding-mob">
             <span>More than 26% of websites are built on WordPress</span>
         </div>
     </div>
@@ -80,11 +80,11 @@ get_header(); ?>
         <div class="container">
             <div class="title">WordPress advantages for your website include</div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s easy
                         to maintain</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>Maintaining a WordPress website doesn’t require many technical skills or expertise. You can easily make simple updates yourself.</p>
                         <div class="line line1"></div>
@@ -92,11 +92,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s easy
                         to access</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>As long as you have computer connected to the Internet, you can login and manage your website. Anytime, anywhere.</p>
                         <div class="line line2"></div>
@@ -104,11 +104,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s highly
                         functional</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>A great amount of free plugins can significantly extend the functionality of your website. Also, plugins can be custom-developed.</p>
                         <div class="line line3"></div>
@@ -116,11 +116,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s SEO-
                         friendly</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>Google loves WordPress websites because they are very easy to index. Moreover, WP offers several SEO plugins.</p>
                         <div class="line line4"></div>
@@ -128,11 +128,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s 100%
                         customizable</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>The way your website looks and feels can be customized. Change your website design using pre-designed or unique custom-designed themes.</p>
                         <div class="line line5"></div>
@@ -140,11 +140,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s
                         scalable</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>Your website can grow along with your business. You can add thousands of pages to your blog or even switch to an ecommerce site.</p>
                         <div class="line line6"></div>
@@ -152,11 +152,11 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-md-8 col-md-offset-2 box">
-                <div class="col-md-3">
+                <div class="col-md-4 col-lg-3 nopadding-mob">
                     <div class="name">It’s
                         responsive</div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8 col-lg-9 nopadding-mob">
                     <div class="desc">
                         <p>Your website will look and perform great on any device – mobile, tablet, laptop or desktop.</p>
                         <div class="line line7"></div>
@@ -245,7 +245,7 @@ get_header(); ?>
         </div>
     </section>
     <section class="wordpress-bottomBlock">
-        <div class="container">
+        <div class="container nopadding-mob">
             <div class="col-md-8 col-md-offset-2 nopadding">
                 <div class="who-we-are">
                     <div class="title">Who We Are</div>
