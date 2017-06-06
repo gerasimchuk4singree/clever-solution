@@ -43,6 +43,7 @@
     <link href="<?php echo get_template_directory_uri(); ?>/css/font-awesome.min.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/jquery.fullPage.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/jquery.fullPage.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/animate.css" rel="stylesheet">
     <script src="<?php echo get_template_directory_uri(); ?>/js/modernizr-2.7.1.min.js"></script>
     <!--[if gt ie 8]><!-->
     <script src="<?php echo get_template_directory_uri(); ?>/js/minify.min.js"></script>
@@ -57,6 +58,7 @@
     <?php endif; ?>
     <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.growl.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/core.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/wow.js"></script>
     <!--<![endif]-->
     <?php if (is_category('blog') || in_category('blog')) : ?>
         <link href="<?php echo get_template_directory_uri(); ?>/css/blog.css?ver=1.1.3" rel="stylesheet">

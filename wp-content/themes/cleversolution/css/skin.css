@@ -7915,8 +7915,8 @@ body.admin-bar .js-float-menu {
 .mob-menu li .dop-menu {
   position: absolute;
   top:0;
-  right:-455px;
-  width: 455px;
+  right:-460px;
+  width: 460px;
   background: #161829;
   display: block;
   text-align: left;

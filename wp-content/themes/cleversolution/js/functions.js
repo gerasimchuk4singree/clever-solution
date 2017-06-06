@@ -25,5 +25,6 @@ $( document ).ready(function() {
     //     $(".mob-menu .logo-mob img").attr("src","/wp-content/themes/cleversolution/images/mob-menu/mini-logo.png");
     //     $('.menu-btn-block').css('width', '100px');
     // }
+    new WOW().init();
 
 });

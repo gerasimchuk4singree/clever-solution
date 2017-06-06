@@ -17,7 +17,7 @@ get_header(); ?>
         <div class="leftBlock">
                 <div class="title">
                     <a href="/home"><img src="<?php echo get_template_directory_uri()?>/images/logo-white.png" alt=""></a>
-                    <p>Get Started in the eCommerce Industry Today</p>
+                    <p>Get Started <br> in the eCommerce Industry Today</p>
                     <h2>With Our Outstanding Magento Solutions</h2>
                 </div>
         </div>
@@ -41,17 +41,17 @@ get_header(); ?>
     </div>
     <div class="magento-about">
         <div class="container">
-            <div class="box col-md-6 col-md-offset-3">
+            <div class="box col-md-6 col-md-offset-3 nopadding-mob">
                 <div class="col-md-3 center">
                     <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/magento-about-logo.png" alt="">
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-9 nopadding-mob">
                     <p><strong>Magento</strong> – a content management system (CMS) for ecommerce websites. It is the most commonly used and most popular platform in the world for building flexible, easily scalable and competitive online stores. </p>
                 </div>
             </div>
         </div>
     </div>
-    <section class="magento-more">
+    <section class="magento-more wow fadeIn" data-wow-offset="500">
         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/magento-more.png" alt="">
         <h2>More than 250k merchants</h2>
         <p>across the globe sell using Magento</p>
@@ -73,15 +73,15 @@ get_header(); ?>
         <div class="list">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 box">
+                    <div class="col-xs-4 box">
                         <span>B2B</span>
                         <p>SITES</p>
                     </div>
-                    <div class="col-md-4 box">
+                    <div class="col-xs-4 box">
                         <span>B2c</span>
                         <p>SITES</p>
                     </div>
-                    <div class="col-md-4 box">
+                    <div class="col-xs-4 box">
                         <span>c2c</span>
                         <p>SITES</p>
                     </div>
@@ -90,17 +90,18 @@ get_header(); ?>
         </div>
         <div class="animate-img">
             <div class="container">
-                <img class="keyboard" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/keyboard.png" alt="">
-                <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/mouse.png" alt="">
+                <img class="keyboard wow slideInLeft" data-wow-offset="300" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/keyboard.png" alt="">
+                <img class="mouse wow slideInRight" data-wow-offset="300" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/mouse.png" alt="">
             </div>
         </div>
         <div class="magento-informBlock">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-2">
-                        <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/icon-inform.png" alt="">
+                <div class="row">
+                    <div class="col-sm-2 center">
+                        <img  src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/icon-inform.png" alt="">
                     </div>
-                    <div class="col-md-10">
+                    <div class="col-sm-10">
                         <p class="txt">1 out of 4 businesses choose Magento <br> as their ecommerce platform</p>
                     </div>
                 </div>
@@ -113,10 +114,10 @@ get_header(); ?>
             <div class="row">
                 <ul>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento1.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento1.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>User-friendly content management interface</span>
                                 <p>allows shop owners to easily manage their stores</p>
@@ -124,10 +125,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento2.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento2.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>Mobile-friendly configuration</span>
                                 <p>makes your shop look and work properly on any device</p>
@@ -135,10 +136,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento3.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento3.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>Build-in and custom SEO extensions</span>
                                 <p>will contribute to your store’s stellar SEO</p>
@@ -146,10 +147,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento4.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento4.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>Lots of space for future growth</span>
                                 <p>thanks to its size and complexity</p>
@@ -157,10 +158,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix" >
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento5.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento5.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>100% customizable platform</span>
                                 <p>can be easily fitted to your expectations</p>
@@ -168,10 +169,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento6.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento6.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>Easy third-party integration</span>
                                 <p>can connect your website with multiple solutions</p>
@@ -179,10 +180,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento7.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento7.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>High functionality</span>
                                 <p>is ensured by a great variety of extensions and plugins</p>
@@ -190,10 +191,10 @@ get_header(); ?>
                         </div>
                     </li>
                     <li class="clearfix">
-                        <div class="col-md-2">
-                            <img class="mouse" src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento8.png" alt="">
+                        <div class="col-xs-4 col-sm-2">
+                            <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/why-magento8.png" alt="">
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-8 col-sm-10">
                             <div class="desc">
                                 <span>Safe system</span>
                                 <p>that is constantly supported by a vast number of developers</p>
@@ -209,54 +210,54 @@ get_header(); ?>
             <div class="title">Our Magento Services</div>
             <div class="row">
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="0.3s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service1.png" alt="">
                     </div>
-                    <span class="name">Website Development</span>
+                    <span class="name wow fadeIn" data-wow-delay="0.4s">Website Development</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="0.6s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service2.png" alt="">
                     </div>
-                    <span class="name">Website Setup</span>
+                    <span class="name wow fadeIn" data-wow-delay="0.7s">Website Setup</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="0.9s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service3.png" alt="">
                     </div>
-                    <span class="name">Themes Custom Design</span>
+                    <span class="name wow fadeIn" data-wow-delay="1s">Themes Custom Design</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="1.2s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/magento-landing/comment-icon.png" alt="">
                     </div>
-                    <span class="name">Website Support</span>
+                    <span class="name wow fadeIn" data-wow-delay="1.3s">Website Support</span>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="1.5s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service5.png" alt="">
                     </div>
-                    <span class="name">Plugin Development</span>
+                    <span class="name wow fadeIn" data-wow-delay="1.6s">Plugin Development</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="1.8s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service6.png" alt="">
                     </div>
-                    <span class="name">Search Engine Optimization</span>
+                    <span class="name wow fadeIn" data-wow-delay="1.9s">Search Engine Optimization</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="2.1s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service7.png" alt="">
                     </div>
-                    <span class="name">Hosting & SSL Certificate for Your Website</span>
+                    <span class="name wow fadeIn" data-wow-delay="2.2s">Hosting & SSL Certificate for Your Website</span>
                 </div>
                 <div class="col-sm-3 center box">
-                    <div class="img">
+                    <div class="img wow fadeIn" data-wow-delay="2.4s">
                         <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/joomla-landing/service8.png" alt="">
                     </div>
-                    <span class="name">Third-Party Plugins Integration</span>
+                    <span class="name wow fadeIn" data-wow-delay="2.5s">Third-Party Plugins Integration</span>
                 </div>
             </div>
         </div>
