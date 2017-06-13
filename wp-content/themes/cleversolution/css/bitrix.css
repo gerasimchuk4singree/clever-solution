@@ -1,0 +1,614 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+.bitrixLP-top {
+    background: url("../images/landing-pages/bitrix/bg-top.png") no-repeat;
+    padding-top:135px;
+    padding-bottom: 235px;
+}
+.bitrixLP-top .cloud {
+    position: absolute;
+    right:0;
+    top:30px;
+}
+.bitrixLP-top .title {
+    margin-top:105px;
+}
+.bitrixLP-top .title .text-top {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight:300;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+.bitrixLP-top .title .name {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.bitrixLP-top .title .name span {
+    color: #2fc7f7;
+    font-family: Roboto;
+    font-size: 100px;
+    font-weight: 900;
+    text-transform: uppercase;
+    background: #fff;
+    display: inline-block;
+    line-height: 1;
+    padding: 0 6px;
+    margin-left: 15px;
+}
+.bitrixLP-top .title .txt {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    line-height: 28px;
+    font-weight:400;
+    width: 53%;
+}
+.bitrixLP-top .title .txt strong {
+    font-weight: 700;
+}
+.bitrix-result {
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.bitrix-result .title {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 42px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 60px;
+}
+.bitrix-result .title:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 1px;
+    background-color: #252525;
+    left: 50%;
+    width: 29%;
+    margin-left: -14.5%;
+}
+.bitrix-result .name {
+    color: #252525;
+    font-family: "Segoe UI Black";
+    font-size: 36px;
+    display: block;
+}
+.bitrix-result .num {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 72px;
+    line-height: 90px;
+}
+.bitrix-result .icon {
+    color: #00c853;
+    font-family: "Font Awesome";
+    font-size: 48px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 5px;
+}
+.bitrix-note {
+    background-color: #00c7f9;
+    padding:55px 0;
+}
+.bitrix-note p {
+    color: #ffffff;
+    font-family: "Segoe UI Bold";
+    font-size: 36px;
+    font-style: italic;
+    line-height:44px;
+}
+.bitrix-answer {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 85px;
+}
+.bitrix-answer .title {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 36px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.bitrix-answer .yes span {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 108px;
+    display: inline-block;
+}
+.bitrix-answer .yes p {
+    color: #00c853;
+    font-family: "Segoe UI Black";
+    font-size: 78px;
+    position: relative;
+    display: inline-block;
+}
+.bitrix-answer .yes p:before {
+    content: '“';
+    position: absolute;
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 108px;
+    left: -110px;
+    top: -15px;
+}
+.bitrix-answer .yes p:after {
+    content: '”';
+    position: absolute;
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 108px;
+    bottom: -20px;
+    right: -106px;
+    line-height: 1px;
+}
+.bitrix-answer .btn {
+    height: 80px;
+    width: auto;
+    box-shadow: inset 0 -4px 0 2px #27abd5, 0 0 9px rgba(90, 200, 250, 0.48);
+    border-radius: 40px;
+    border: 1px solid #2abae8;
+    background-color: #2fc7f7;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 36px;
+    display: block;
+    margin: 135px auto 20px;
+    padding: 0 30px;
+}
+.bitrix-answer .btn span {
+    font-family: "Segoe UI Bold";
+}
+.bitrix-answer .more {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    text-decoration: underline;
+}
+.bitrix-noMore {
+    text-align: center;
+    padding-top: 30px;
+}
+.bitrix-noMore .title {
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 42px;
+    border-bottom:1px solid #252525;
+    padding:0 2.5%;
+    text-align: center;
+    display: inline-block;
+}
+.bitrix-noMore .name {
+    color: #ff3b30;
+    font-family: "BebasNeueBold";
+    font-size: 210px;
+    line-height: 187px;
+    text-align: center;
+    padding-top: 5px;
+}
+.bitrix-noMore .list {
+    background-color: #ff3b30;
+    padding:20px 0;
+}
+.bitrix-noMore .list .txt {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    margin: 0;
+    padding: 35px 0;
+}
+.bitrix-noMore .list .box {
+    border-right:2px solid #fff;
+}
+.bitrix-noMore .list .box:last-child {
+    border: none;
+}
+.bitrix-order {
+    padding-top:144px;
+    text-align: center;
+}
+.bitrix-order .buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    min-height: 480px;
+}
+.bitrix-order .btn {
+    width: 370px;
+    height: 100px;
+    border-radius: 20px;
+    border: 1px solid #252525;
+    background-color: rgba(255, 255, 255, 0);
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    margin-bottom:20px;
+}
+.bitrix-order .active {
+    box-shadow: inset 0 6px 0 #27abd5;
+    border: 1px solid #2fc7f7;
+    background-color: rgba(47, 199, 247, 0.05);
+}
+.bitrix-order .title {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 42px;
+    border-bottom:1px solid #252525;
+    text-align: center;
+    margin-bottom:50px;
+    display: inline-block;
+    padding: 0 9%;
+}
+.bitrix-order .order {
+    width: 368px;
+    height: 80px;
+    box-shadow: inset 0 -4px 0 2px #27abd5, 0 0 9px rgba(90, 200, 250, 0.48);
+    border-radius: 40px;
+    border: 1px solid #2abae8;
+    background-color: #2fc7f7;
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-top:30px;
+}
+.bitrix-order .disabled {
+    box-shadow: inset 0 -4px 0 2px #bcbcbc;
+    border: 1px solid #bcbcbc;
+    background-color: #e7e7e7;
+}
+.bitrixLP .who-we-are {
+    text-align: center;
+    padding-top: 255px;
+    padding-bottom: 165px;
+}
+.bitrixLP .who-we-are .title {
+    color: #252525;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    text-transform: uppercase;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.bitrixLP .who-we-are .txt {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    line-height: 28px;
+    text-align: left;
+}
+.bitrix-bottom {
+    background-color: #00c7f9;
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 84px;
+    line-height:85px;
+    text-transform: uppercase;
+    padding:20px;
+    text-align: center;
+}
+.bitrix-info {
+    background-color: #00c7f9;
+    position: relative;
+    padding-top: 135px;
+    padding-bottom:65px;
+}
+.bitrix-info .title {
+    width: 170px;
+    height: 170px;
+    border: 1px solid #ffffff;
+    background-color: #00c7f9;
+    border-radius: 50%;
+    position: absolute;
+    left:50%;
+    top:45px;
+    z-index:5;
+    margin-left:-85px;
+    text-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.bitrix-info .title span {
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 46px;
+    line-height: 40px;
+}
+.bitrix-info .center-block {
+    height:505px;
+    width:505px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: relative;
+    background: url("../images/landing-pages/bitrix/bitrix-info-img.png") no-repeat center;
+}
+.bitrix-info .center-block div {
+    position: absolute;
+}
+.bitrix-info .center-block span {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 18px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.bitrix-info1 {
+    top: 25px;
+    left: -25px;
+}
+.bitrix-info2 {
+    top: 105px;
+    left: -170px;
+}
+.bitrix-info3 {
+    top: 193px;
+    left: -247px;
+}
+.bitrix-info4 {
+    bottom: 145px;
+    left: -145px;
+}
+.bitrix-info5 {
+    bottom: 55px;
+    left: -190px;
+}
+.bitrix-info6 {
+    bottom: -10px;
+    left: 13px;
+}
+.bitrix-info7 {
+    bottom: -25px;
+    left: 300px;
+}
+.bitrix-info8 {
+    bottom: 64px;
+    right: -66px;
+}
+.bitrix-info9 {
+    bottom: 149px;
+    right: -203px;
+}
+.bitrix-info10 {
+    top: 185px;
+    right: -185px;
+}
+.bitrix-info11 {
+    top: 90px;
+    right: -160px;
+}
+.bitrix-info12 {
+    top: 20px;
+    right: -125px;
+}
+@media (max-width: 1200px) {
+    .bitrix-result .name {
+        min-height: 100px;
+    }
+    .bitrix-bottom {
+        line-height: 70px;
+        font-size:70px;
+    }
+}
+@media (max-width: 991px) {
+    .bitrix-info .center-block div {
+        position: relative;
+        top:0;
+        left:0;
+    }
+    .bitrix-info .center-block {
+        border: none;
+    }
+    .bitrixLP-top .cloud {
+        top: -90px;
+    }
+    .bitrixLP-top {
+        padding-bottom:10px;
+    }
+    .bitrix-result .box {
+        margin-bottom:45px;
+    }
+    .bitrix-result .box:last-child {
+        margin-bottom:0;
+    }
+    .bitrix-result .name {
+        min-height: 0;
+    }
+    .bitrixLP-top .title .name {
+        font-size:85px;
+    }
+    .bitrixLP-top .title .name span {
+        font-size:85px;
+    }
+    .bitrix-info .bitrix-list {
+        margin-top:500px;
+    }
+    .bitrix-info {
+        padding-bottom:1000px;
+    }
+    .bitrix-info1 {
+        padding-top: 400px;
+    }
+    .bitrix-info .center-block div {
+        margin-bottom:20px;
+    }
+    .bitrix-info1, .bitrix-info2, .bitrix-info3, .bitrix-info4, .bitrix-info5, .bitrix-info6 {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .bitrix-info1 span, .bitrix-info2 span, .bitrix-info3 span, .bitrix-info4 span, .bitrix-info5 span, .bitrix-info6 span {
+        order: 2;
+    }
+    .bitrix-noMore .list .box {
+        border-right: none;
+    }
+    .bitrix-noMore .list .txt {
+        margin: auto;
+        width: 50%;
+        border-bottom: 2px solid #fff;
+        padding: 65px 0;
+    }
+    .bitrix-noMore .list .box:last-child .txt {
+        border: none;
+    }
+    .bitrix-order .order {
+        margin-bottom:90px;
+    }
+    .bitrix-order .disabled {
+        margin-bottom:0;
+    }
+}
+@media (max-width: 767px) {
+    .bitrixLP-top .title .text-top {
+        font-size:20px;
+    }
+    .bitrix-result .title {
+        font-size:24px;
+    }
+    .bitrix-note p {
+        font-size:24px;
+        padding: 0 15px;
+        line-height: 30px;
+    }
+    .bitrix-result .name {
+        font-size:30px;
+    }
+    .bitrix-answer .title {
+        font-size:24px;
+    }
+    .bitrix-answer .yes p {
+        font-size:60px;
+    }
+    .bitrix-answer .more {
+        font-size:18px;
+    }
+    .bitrix-noMore .title {
+        font-size:24px;
+        padding:0;
+        display: block;
+    }
+    .bitrix-noMore .name {
+        font-size:110px;
+        line-height: 110px;
+        text-align: center;
+        padding-top: 0;
+        padding-bottom: 10px;
+    }
+    .bitrix-order .title {
+        font-size:24px;
+        padding:0;
+        display: block;
+    }
+    .bitrix-order .btn {
+        width:100%;
+    }
+    .bitrix-order .order {
+        font-size:28px;
+        width:100%;
+    }
+    .bitrixLP .who-we-are .title {
+        font-size:60px;
+    }
+    .bitrix-bottom {
+        font-size:25px;
+        line-height:25px;
+        text-align: center;
+    }
+    .bitrix-order .buttons {
+        min-height: 0;
+    }
+    .bitrixLP-top .title .txt {
+        width:100%;
+    }
+    .bitrixLP-top .title .name {
+        font-size:65px;
+        margin-bottom: 55px;
+        line-height: 70px;
+    }
+    .bitrixLP-top .title .name span {
+        font-size: 65px;
+        margin-left:0;
+    }
+    .bitrixLP-top {
+        padding-top:40px;
+    }
+    .bitrix-answer .btn {
+        font-size:25px;
+    }
+    .bitrix-answer .yes p:before {
+        left:-80px;
+    }
+    .bitrix-answer .yes p:after {
+        right:-80px;
+    }
+    .bitrix-note {
+        padding:15px 0;
+    }
+    .bitrixLP-top {
+        background-position: right;
+    }
+    .bitrix-result .title:after {
+        left: 0;
+        width: 100%;
+        margin-left: 0;
+    }
+    .bitrix-result {
+        padding-bottom:40px;
+    }
+    .bitrix-answer {
+        padding:60px 0;
+    }
+    .bitrix-answer .btn {
+        margin: 80px auto 20px;
+    }
+    .bitrix-info {
+        padding-top:100px;
+    }
+    .bitrix-noMore {
+        padding-top:50px;
+    }
+    .bitrix-order {
+        padding-top:60px;
+    }
+    .bitrixLP .who-we-are {
+        padding-top:70px;
+        padding-bottom:30px;
+    }
+}
+@media (max-width: 550px) {
+    .bitrix-info .center-block {
+        width:100%;
+        background-size:80%;
+    }
+}

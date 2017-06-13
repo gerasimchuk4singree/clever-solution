@@ -23,7 +23,7 @@
 }
 .joomlaLP-top .top-bigText .txt {
     color: #263238;
-    font-size: 111px;
+    font-size: 110px;
     font-family: "Segoe UI Bold";
     margin-top: -30px;
 }
@@ -189,12 +189,12 @@
     font-size: 115px;
     transform: rotate(-5.5deg);
     display: block;
-    line-height: 135px;
+    line-height:105px;
 }
 .empty-block {
     position: absolute;
     box-sizing: border-box;
-    padding: 185px 0;
+    padding: 165px 0;
     top: 55px;
     z-index: -2;
     background: rgb(8,119,182); /* Old browsers */
@@ -566,7 +566,7 @@
     }
     .empty-block {
         top:0;
-        padding:60px 0;
+        padding:65px 0;
     }
     .joomla-perfect .title {
         font-size:16px;

@@ -92,7 +92,8 @@ get_header(); ?>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 center">
-                            <span>More than 3 million websites <br> are powered by Joomla </span>
+                            <span>More than 3 million websites </span>
+                            <span>are powered by Joomla</span>
                         </div>
                     </div>
                 </div>

@@ -153,8 +153,8 @@ get_header(); ?>
                         <ul>
                             <li><span class="num">1</span>We analyze your business,competitors and define your goals</li>
                             <li> <span class="num">2</span>We develop an initial plan: mapping, wireframes, keywords, etc.</li>
-                            <li><span class="num">3</span>We create visual designs basedon your preferences and desires</li>
-                            <li><span class="num">4</span>We bring the design you love to life and builda final version of your website</li>
+                            <li><span class="num">3</span>We create visual designs based on your preferences and desires</li>
+                            <li><span class="num">4</span>We bring the design you love to life and build a final version of your website</li>
                             <li><span class="num">5</span>We deploy your website <br> and introduce it to the world; ready to use!</li>
                         </ul>
                     </div>

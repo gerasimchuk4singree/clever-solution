@@ -1216,4 +1216,16 @@ $(document).ready(function() {
 	    }, 500, "some unique string");
 	});
 
+    $('.bitrix-order .btn').on('click',function () {
+        $(this).toggleClass('active');
+    });
+
+    if ($('.box1 .btn').hasClass('active')) {
+        $('.bitrix-order .order1').prop('disabled', false);
+        console.log("true");
+	} else {
+        $(".bitrix-order .order1").prop('disabled', true);
+        console.log("false");
+	}
+
 });

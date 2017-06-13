@@ -15,7 +15,7 @@ get_header(); ?>
 <div class="custom-marketplace">
     <section class="custom-marketplace-top">
         <div class="container">
-            <a class="hidden-xs" href="/home"><img src="<?php echo get_template_directory_uri()?>/images/landing-pages/crm-development/logo-orange.png" alt=""></a>
+            <a class="hidden-xs logo" href="/home"><img src="<?php echo get_template_directory_uri()?>/images/landing-pages/crm-development/logo-orange.png" alt=""></a>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">
                     <div class="monitor">
@@ -97,7 +97,7 @@ get_header(); ?>
                 <div class="col-sm-6">
                     <ul>
                         <li>IT BRINGS PROFIT, ROUND-THE-CLOCK</li>
-                        <li>YOU DON’T DEALWITH DELIVERY SERVICES</li>
+                        <li>YOU DON’T DEAL<br>WITH DELIVERY SERVICES</li>
                         <li>YOU CAN WORK WITH MULTIPLE PROVIDERS</li>
                         <li>YOU CAN OFFER GOODS, SERVICES OR INFORMATION</li>
                     </ul>
@@ -105,7 +105,7 @@ get_header(); ?>
                 <div class="col-sm-6">
                     <ul>
                         <li>YOU PROFIT FROM EACH SUCCESSFUL TRANSACTION</li>
-                        <li>YOU HAVE NO ISSUESWITH WAREHOUSING</li>
+                        <li>YOU HAVE NO ISSUES<br>WITH WAREHOUSING</li>
                         <li>YOU DON’T HAVE GEOGRAPHICAL LIMITS</li>
                         <li>YOU CAN PROVIDE A HUGE VARIETY OF OFFERS</li>
                     </ul>

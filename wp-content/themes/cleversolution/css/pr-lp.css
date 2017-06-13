@@ -1,7 +1,4 @@
-@font-face{
-    font-family: "Reenie Beanie";
-    src: url("../font/ReenieBeanie/ReenieBeanie.ttf");
-}
+
 .prLP-top {
     background: url(../images/landing-pages/pr-landing/bg-top.png) no-repeat;
     padding-top: 120px;
@@ -139,6 +136,13 @@
     font-size: 16px;
     line-height: 28px;
     text-transform: uppercase;
+    margin:0;
+}
+.pr-help .services .item ul {
+    padding:0;
+}
+.pr-help .services .item li {
+    list-style: none;
 }
 .pr-help .services .flex {
     display: -webkit-box;

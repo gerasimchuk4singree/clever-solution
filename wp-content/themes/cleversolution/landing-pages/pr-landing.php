@@ -66,19 +66,44 @@ get_header(); ?>
                             <h2>TO</h2>
                         </div>
                         <div class="item">
-                            <p>PROTECT THE IMAGE OF YOUR COMPANY
-                                BUILD A GOOD REPUTATION FOR YOUR BRAND
-                                SPEND YOUR MARKETING BUDGET WISELY
-                                SAVE YOUR PRECIOUS TIME FOR BUSINESS MANAGEMENT
-                                REACH THE RIGHT PEOPLE AT THE RIGHT TIME
-                                GIVE YOUR PRODUCT THE OPPORTUNITY TO SEE THE LIGHT OF DAY
-                                HAVE AN EFFECTIVE CRISIS COMMUNICATION PLAN
-                                EASILY LEAVE YOUR COMPETITORS BEHIND
-                                HANDLE ANY POTENTIAL NEGATIVE PUBLICITY
-                                TURN YOUR POTENTIAL CUSTOMERS INTO LOYAL ONES
-                                INCREASE YOUR RETURN ON INVESTMENT
-                                BRING IN NEW IDEAS AND DISCOVER NEW PRACTICES
-                            </p>
+                            <ul>
+                                <li>
+                                    <p>PROTECT THE IMAGE OF YOUR COMPANY</p>
+                                </li>
+                                <li>
+                                    <p>BUILD A GOOD REPUTATION FOR YOUR BRAND</p>
+                                </li>
+                                <li>
+                                    <p>SPEND YOUR MARKETING BUDGET WISELY</p>
+                                </li>
+                                <li>
+                                    <p>SAVE YOUR PRECIOUS TIME FOR BUSINESS MANAGEMENT</p>
+                                </li>
+                                <li>
+                                    <p>REACH THE RIGHT PEOPLE AT THE RIGHT TIME</p>
+                                </li>
+                                <li>
+                                    <p>GIVE YOUR PRODUCT THE OPPORTUNITY TO SEE THE LIGHT OF DAY</p>
+                                </li>
+                                <li>
+                                    <p>HAVE AN EFFECTIVE CRISIS COMMUNICATION PLAN</p>
+                                </li>
+                                <li>
+                                    <p>EASILY LEAVE YOUR COMPETITORS BEHIND</p>
+                                </li>
+                                <li>
+                                    <p>HANDLE ANY POTENTIAL NEGATIVE PUBLICITY</p>
+                                </li>
+                                <li>
+                                    <p>TURN YOUR POTENTIAL CUSTOMERS INTO LOYAL ONES</p>
+                                </li>
+                                <li>
+                                    <p>INCREASE YOUR RETURN ON INVESTMENT</p>
+                                </li>
+                                <li>
+                                    <p>BRING IN NEW IDEAS AND DISCOVER NEW PRACTICES</p>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>

@@ -3,6 +3,11 @@
     padding-top:25px;
     padding-bottom: 55px;
 }
+.custom-marketplace-top .logo {
+    display: block;
+    margin-left: 9%;
+    margin-bottom: 50px;
+}
 .custom-marketplace-top .monitor{
     text-align: center;
 }

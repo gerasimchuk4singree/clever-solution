@@ -154,6 +154,15 @@
 	font-style: normal;
 	font-weight: normal;
 }
+@font-face {
+	font-family: "Reenie Beanie";
+	src: url("../font/ReenieBeanie/ReenieBeanie.eot");
+	src: url("../font/ReenieBeanie/ReenieBeanie.eot?#iefix")format("embedded-opentype"),
+	url("../font/ReenieBeanie/ReenieBeanie.woff") format("woff"),
+	url("../font/ReenieBeanie/ReenieBeanie.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
 
 
 body{
