@@ -1218,14 +1218,12 @@ $(document).ready(function() {
 
     $('.bitrix-order .btn').on('click',function () {
         $(this).toggleClass('active');
+        if ($('.box1 .btn').hasClass('active')) {
+            $('.bitrix-order .order1').prop('disabled', true);
+        }
     });
+    $('.bitrix-order .order1').prop('disabled', false);
 
-    if ($('.box1 .btn').hasClass('active')) {
-        $('.bitrix-order .order1').prop('disabled', false);
-        console.log("true");
-	} else {
-        $(".bitrix-order .order1").prop('disabled', true);
-        console.log("false");
-	}
+
 
 });

@@ -468,6 +468,8 @@
         align-items: center;
     }
     .bitrix-info1 span, .bitrix-info2 span, .bitrix-info3 span, .bitrix-info4 span, .bitrix-info5 span, .bitrix-info6 span {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
         order: 2;
     }
     .bitrix-noMore .list .box {

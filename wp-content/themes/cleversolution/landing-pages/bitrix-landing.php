@@ -172,9 +172,9 @@ get_header(); ?>
                     <div class="title">Self-hosted Version</div>
                     <div class="buttons box1">
                         <button class="btn">BizPace</button>
-                        <button class="btn">BizPace Enterprise</button>
+                        <button class="btn active">BizPace Enterprise</button>
                     </div>
-                    <button class="order disabled order1" disabled>ORDER NOW!</button>
+                    <button class="order disabled order1">ORDER NOW!</button>
                 </div>
             </div>
         </div>

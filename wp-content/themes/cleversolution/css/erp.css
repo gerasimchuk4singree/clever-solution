@@ -1,0 +1,515 @@
+.erpLP-top {
+    background: url("../images/landing-pages/erp/bg-top.png") no-repeat;
+    padding-top:100px;
+    padding-bottom: 235px;
+    background-size: cover;
+}
+.erpLP-top .title {
+    padding-top: 80px;
+}
+.erpLP-top .txt1 {
+    color: #ffffff;
+    font-family: "BebasNeueBold";
+    font-size: 38px;
+    margin-bottom:5px;
+}
+.erpLP-top .txt2  {
+    color: #ffffff;
+    font-family: "Segoe UI Bold";
+    font-size: 28px;
+}
+.erpLP-top .txt3  {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    line-height: 60px;
+    font-size: 56px;
+    margin-bottom:0;
+}
+.erpLP-top .txt4  {
+    color: #ffffff;
+    font-family: "Segoe UI Bold";
+    line-height: 76px;
+    font-size: 76px;
+}
+.erpLP-top .txt4 span {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    line-height: 76px;
+    font-size: 56px;
+}
+.erpLP-top .desc {
+    color: #252525;
+    font-family: "Segoe UI Light";
+    font-size: 16px;
+    line-height: 24px;
+    font-style: italic;
+    padding-top: 827px;
+    width:70%;
+    text-align: justify;
+    margin-bottom:0;
+}
+.erpLP-top .desc span {
+    font-family: "Segoe UI Bold";
+}
+.erpLP-top .right-box {
+    border-left: 2px solid #ff2d55;
+    margin-top:173px;
+}
+.erp-inform .title {
+    color: #040404;
+    font-family: "BebasNeueBold";
+    font-size: 72px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: -240px;
+}
+.erp-inform {
+    text-align: center;
+    padding-top: 65px;
+}
+.b-polygon {
+    visibility: hidden;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.b-polygon-part {
+    visibility: hidden;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+.b-polygon-part_content:after {
+    content:"";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.b-polygon-part_helper,
+.b-polygon-part_content {
+    visibility: visible;
+}
+.b-polygon-part_content {
+    color: #fff;
+    background: #007bff;
+    font-family: "BebasNeueRegular";
+    font-size: 40px;
+    line-height: 50px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.b-polygon-part_content p {
+    margin-bottom:0;
+}
+.b-polygon_hexagon,
+.b-polygon_dodecagon {
+    -webkit-transform: rotate(120deg);
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    transform: rotate(120deg);
+}
+.b-polygon_hexagon>.b-polygon-part,
+.b-polygon_dodecagon>.b-polygon-part,
+.b-polygon_hexagon>.b-polygon-part>.b-polygon-part,
+.b-polygon_dodecagon>.b-polygon-part>.b-polygon-part {
+    -webkit-transform: rotate(-60deg);
+    -moz-transform: rotate(-60deg);
+    -ms-transform: rotate(-60deg);
+    -o-transform: rotate(-60deg);
+    transform: rotate(-60deg);
+}
+
+.b-polygon_octagon>.b-polygon-part {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.b-polygon_hexagon {
+    width: 370px;
+    height: 320px;
+    margin: 0 -35px;
+}
+.b-polygon_hexagon:nth-child(2) {
+    margin-top: 320px;
+}
+.erp-contactForm {
+    padding-top: 150px;
+}
+.erp-contactForm .title {
+    text-align: center;
+    color: #252525;
+    font-family: "Segoe UI Bold";
+    font-size: 36px;
+    line-height:40px;
+    padding-bottom: 150px;
+}
+.erp-advantages {
+    padding-top:105px;
+    text-align: center;
+}
+.erp-advantages .title {
+    text-align: center;
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 72px;
+    padding-bottom: 210px;
+}
+.erp-advantages .b-polygon_hexagon:nth-child(2) {
+    margin-top: -340px;
+}
+.erp-advantages .blocks {
+    margin-bottom: 20px;
+}
+.erp-advantages .b-polygon-part_content {
+    position: relative;
+}
+.erp-advantages .b-polygon-part_content:before {
+    content: "";
+    position: absolute;
+    top:50%;
+    width:65%;
+    left:50%;
+    margin-left: -32.5%;
+    height:1px;
+    background-color: #fff;
+}
+.erp-advantages .top-txt {
+    color: #fff;
+    font-family: "BebasNeueRegular";
+    font-size: 40px;
+    line-height: 50px;
+    display: block;
+    padding-top: 50px;
+}
+.erp-advantages .bottom-txt {
+    color: #ffffff;
+    font-family: "Segoe UI Bold";
+    font-size: 18px;
+    line-height:24px;
+    padding-top: 50px;
+}
+.erp-advantages .b-polygon-part_content {
+    display: block;
+}
+.erp-why-custom {
+    margin-top:85px;
+}
+.erp-why-custom .box {
+    padding-bottom: 215px;
+}
+.erp-why-custom .title {
+    text-align: center;
+    color: #252525;
+    font-family: "BebasNeueBold";
+    font-size: 72px;
+    padding-bottom:25px;
+    padding-top:140px;
+}
+.erp-why-custom .txt {
+    color: #252525;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    line-height: 36px;
+    text-align: justify;
+}
+.erp-processes {
+    background-color: #252525;
+    padding: 100px 0 55px;
+}
+.erp-processes .title {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.erp-processes .box {
+    margin-top: 60px;
+}
+.erp-processes .img {
+    height: 110px;
+}
+.erp-processes .name {
+    display: block;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 28px;
+}
+.erp-processes .bottom-txt {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 156px;
+    text-align: center;
+    padding-top: 60px;
+}
+.erp-bottomBlock {
+    background-color: #f4f4f4;
+    background-image: linear-gradient(to top, #ff9500 0%, #ff6b00 100%);
+    border-top: 1px solid #808080;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.erp-bottomBlock .who-we-are {
+    background-color: #007aff;
+    padding-bottom: 60px;
+    position: relative;
+    margin-top: -45px;
+}
+.erp-bottomBlock .who-we-are .title {
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 75px;
+}
+.erp-bottomBlock .who-we-are .txt {
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    line-height: 28px;
+    width: 77%;
+    padding-bottom: 55px;
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+}
+.erp-whyClever {
+    padding-top: 105px;
+    padding-bottom: 30px;
+}
+.erp-whyClever .title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: "BebasNeueRegular";
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+.erp-whyClever .name {
+    color: #fff;
+    font-family: "Segoe UI Bold";
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.erp-bottomBlock .form-landing {
+    background-color: transparent;
+}
+@media (max-width: 1199px) {
+    .erp-processes .bottom-txt {
+        font-size:88px;
+    }
+    .erpLP-top .txt1 {
+        font-size:31px;
+    }
+    .erpLP-top .txt2 {
+        font-size:23px;
+    }
+    .erpLP-top .txt3 {
+        font-size:46px;
+    }
+    .erpLP-top .txt4 {
+        font-size:60px;
+    }
+}
+@media (max-width: 991px) {
+    .erpLP-top .right-box {
+        border: none;
+        margin-top:0;
+    }
+    .erpLP-top .desc {
+        padding-top: 215px;
+    }
+    .erp-processes .bottom-txt {
+        font-size: 68px;
+    }
+    .erp-advantages .b-polygon_hexagon:nth-child(2) {
+        margin-top: -235px;
+    }
+    .b-polygon_hexagon {
+        width: 270px;
+        height: 225px;
+        margin: 0 -28px;
+    }
+    .erp-advantages .blocks {
+        margin-bottom: 15px;
+    }
+    .erp-advantages .top-txt {
+        font-size: 30px;
+        line-height: 34px;
+        padding-top: 30px;
+    }
+    .b-polygon-part_content {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .erp-advantages .bottom-txt {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 28px;
+    }
+    .b-polygon_hexagon:nth-child(2) {
+        margin-top: 225px;
+    }
+    .erp-inform .title {
+        margin-bottom:-185px;
+    }
+}
+@media (max-width: 767px) {
+    .erpLP-top .title {
+        text-align: center;
+    }
+    .erpLP-top .txt1 {
+        font-size:20px;
+    }
+    .erpLP-top .txt2 {
+        font-size:14px;
+        line-height: 16px;
+        margin-bottom: 0;
+    }
+    .erpLP-top .txt3 {
+        font-size:30px;
+        line-height: 40px;
+    }
+    .erpLP-top .txt4 span {
+        font-size:30px;
+    }
+    .erpLP-top .txt4 {
+        font-size:40px;
+        line-height:50px;
+    }
+    .erpLP-top .desc {
+        font-size:14px;
+        line-height: 24px;
+        width:100%;
+    }
+    .b-polygon_hexagon {
+        width: 111px;
+        height: 96px;
+        margin: 0 -8px;
+    }
+    .b-polygon-part_content {
+        font-size:12px;
+        line-height:16px;
+    }
+    .b-polygon_hexagon:nth-child(2) {
+        margin-top: 95px;
+    }
+    .erp-inform .title {
+        margin-bottom: -65px;
+        font-size: 36px;
+    }
+    .erp-inform {
+        padding-top:40px;
+    }
+    .erpLP-top {
+        padding-bottom:0;
+    }
+    .erp-contactForm .title {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .erp-contactForm {
+        padding-top: 45px;
+    }
+    .erp-contactForm .title {
+        padding-bottom:50px;
+    }
+    .erp-advantages {
+        padding-top: 35px;
+    }
+    .erp-advantages .title {
+        font-size:36px;
+    }
+    .erp-advantages .top-txt {
+        font-size: 12px;
+        line-height: 16px;
+        padding-top: 10px;
+    }
+    .erp-advantages .bottom-txt {
+        font-size: 8px;
+        line-height: 10px;
+        padding-top: 12px;
+        width: 65%;
+        margin: 0 auto;
+    }
+    .erp-advantages .b-polygon_hexagon:nth-child(2) {
+        margin-top: -110px;
+    }
+    .erp-advantages .title {
+        padding-bottom:115px;
+    }
+    .erp-why-custom .title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .erp-why-custom .txt {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .erp-why-custom .title {
+        padding-top:45px;
+        padding-bottom: 80px;
+    }
+    .erp-why-custom .box {
+        padding-bottom: 0px;
+    }
+    .erp-processes .title {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .erp-processes {
+        padding: 60px 0 55px;
+    }
+    .erp-processes .bottom-txt {
+        font-size: 26px;
+    }
+    .erp-bottomBlock .who-we-are {
+        margin-top:0;
+        padding-bottom: 40px;
+    }
+    .nopadding-mob {
+        padding:0 !important;
+    }
+    .erp-bottomBlock .who-we-are .title {
+        font-size:72px;
+        padding-top: 10px;
+    }
+    .erp-bottomBlock .who-we-are .txt {
+        font-size: 14px;
+        line-height: 24px;
+        width:100%;
+        padding:0 15px 55px;
+    }
+    .erp-bottomBlock {
+        padding-bottom:0;
+    }
+    .erp-whyClever .title {
+        font-size:36px;
+    }
+    .erp-whyClever .name {
+        font-size:18px;
+        padding-bottom:60px;
+    }
+    .erp-whyClever {
+        padding-top: 35px;
+        padding-bottom: 0;
+    }
+}
