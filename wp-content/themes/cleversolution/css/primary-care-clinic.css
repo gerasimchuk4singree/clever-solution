@@ -8,6 +8,13 @@ body{
     color: #fff;
     background-size: cover;
 }
+.primary-care-block .primary-care-bg .forms {
+    color: #000;
+}
+.primary-care-block .primary-care-bg div.wpcf7-response-output {
+    position: relative;
+    color: #000;
+}
 .primary-care-block .primary-care-bg .title-block{
     margin-top: 86px;
     margin-bottom: 151px;

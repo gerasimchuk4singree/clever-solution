@@ -24,6 +24,9 @@ body{
     padding-bottom: 62px;
     background-size: cover;
 }
+.skin-cancer-block .skin-cancer-bg div.wpcf7-response-output {
+    position: relative;
+}
 .skin-cancer-block .skin-cancer-bg .title-block{
     margin-top: 157px;
     margin-bottom: 75px;
@@ -88,7 +91,7 @@ body{
 }
 .skin-cancer-block .secondary-contact-form .form-cl-2{
     background: #fff;
-    width: 506px;
+    max-width: 506px;
     box-shadow: 0 1px 9.6px 0.4px rgba(0, 0, 0, 0.2);
     margin: 0 auto 134px;
 }

@@ -20,7 +20,7 @@
 		submenuClass = '.pushy-submenu',
 		submenuOpenClass = 'pushy-submenu-open',
 		submenuClosedClass = 'pushy-submenu-closed',
-		closeMobMenu = $('.close-mob-menu'),
+		closeMobMenu = $('.close-mob-menu, .contact-us'),
 		submenu = $(submenuClass);
 
 

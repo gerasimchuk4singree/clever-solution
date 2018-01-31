@@ -8,6 +8,13 @@ body{
     color: #fff;
     background-size: cover;
 }
+.cardiology-block .cardiology-bg .forms {
+    color: #000;
+}
+.cardiology-block .cardiology-bg div.wpcf7-response-output {
+    position: relative;
+    color: #fff;
+}
 .cardiology-block .cardiology-bg .title-block{
     margin: 183px auto 250px;
     width: 620px;

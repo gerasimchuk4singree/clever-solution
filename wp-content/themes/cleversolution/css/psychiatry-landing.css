@@ -23,6 +23,9 @@ body{
     color: #212121;
     margin-bottom: 51px;
 }
+.psychiatry-block .psychiatry-bg div.wpcf7-response-output {
+    position: relative;
+}
 .psychiatry-block .psychiatry-bg .title-block{
     margin-top: 355px;
     margin-bottom: 128px;
@@ -138,14 +141,14 @@ body{
 }
 .psychiatry-block .why-us{
     margin-bottom: 136px;
+    background-color: #f57c00;
 }
 .psychiatry-block .why-us .title-block{
     font-size: 149px;
-    color: #f57c00;
+    color: #fff;
     line-height: 1;
     font-weight: 700;
     font-family: "Segoe UI Bold";
-    background: #fff;
     margin-bottom: -13px;
 }
 .psychiatry-block .why-us .text-block{

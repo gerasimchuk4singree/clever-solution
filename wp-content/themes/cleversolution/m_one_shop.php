@@ -205,7 +205,7 @@ Template Name: mONEShop
 							<div class="row">
 								<div class="marketpleys-text-mone-shop">
 									<h2>AFFORDABLE PRICE</h2>
-									<p>Developing an e-commerce website takes a lot of time and money. Don’t pay through the nose – buy <strong>mOne Shop</strong> – решение для вас. Эффективная модель продаж по хорошей цене.</p>
+									<p>Developing an e-commerce website takes a lot of time and money. Don’t pay through the nose – buy</p>
 								</div>
 							</div>
 						</div>

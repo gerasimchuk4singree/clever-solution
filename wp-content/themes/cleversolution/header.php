@@ -32,11 +32,10 @@
 	<meta name="twitter:site" content="@SolutionClever">
     <?php endif; ?>
     <link rel="me" href="https://twitter.com/SolutionClever"/>
-    <meta name="description" content="">
     <title><?php wp_title('|', true, 'right'); ?></title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/grid.css" rel="stylesheet">
-    <link href="<?php echo get_template_directory_uri(); ?>/css/skin.css?ver=1.1.8" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/skin.css?ver=1.1.9" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/owl.carousel.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/lightbox.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/pushy.css" rel="stylesheet">
@@ -260,6 +259,9 @@ if (!is_front_page()) : ?>
         <a href="/integrated">
             <div class="js-mobile-menu-button intbutton-6" data-num="6"><span>Integrated</span></div>
         </a>
+        <a href="/ico">
+            <div class="js-mobile-menu-button intbutton-11" data-num="6"><span>Launch ICO</span></div>
+        </a>
         <a href="/ecommerce">
             <div class="js-mobile-menu-button intbutton-7" data-num="7"><span>eCommerce</span></div>
         </a>
@@ -303,18 +305,18 @@ if (!is_front_page()) : ?>
                 echo($menu);
                 ?>
             </ul>
-            <a href="#" class="contact-us">Contact Us</a>
+            <a onclick="opencloseform()" class="contact-us">Contact Us</a>
             <div class="social">
-                <a href="#">
+                <a href="https://twitter.com/CleverrSolution" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/mob-menu/twitter.png" alt="">
                 </a>
-                <a href="#">
+                <a href="https://plus.google.com/u/0/+CleverSolutionNewYork" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/mob-menu/google.png" alt="">
                 </a>
-                <a href="#">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/mob-menu/youtube.png" alt="">
+                <a href="https://www.linkedin.com/company/clever-solution-inc" target="_blank">
+                    <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/cleverrsolution/" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/mob-menu/facebook.png" alt="">
                 </a>
             </div>

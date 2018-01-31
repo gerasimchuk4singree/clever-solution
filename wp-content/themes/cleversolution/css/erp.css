@@ -208,9 +208,15 @@
 }
 .erp-why-custom {
     margin-top:85px;
+    background: #f4f5f7;
+}
+.erp-why-custom .form-landing {
+    position: absolute;
+    bottom: -375px;
+    background: transparent;
 }
 .erp-why-custom .box {
-    padding-bottom: 215px;
+    padding-bottom: 15px;
 }
 .erp-why-custom .title {
     text-align: center;
@@ -312,6 +318,15 @@
 .erp-bottomBlock .form-landing {
     background-color: transparent;
 }
+@media (max-width: 1800px) {
+    .erp-why-custom .form-landing {
+        position: relative;
+        bottom: 0;
+    }
+    .erp-why-custom .box {
+        padding-bottom:100px;
+    }
+}
 @media (max-width: 1199px) {
     .erp-processes .bottom-txt {
         font-size:88px;
@@ -373,9 +388,6 @@
     }
 }
 @media (max-width: 767px) {
-    .erpLP-top .title {
-        text-align: center;
-    }
     .erpLP-top .txt1 {
         font-size:20px;
     }

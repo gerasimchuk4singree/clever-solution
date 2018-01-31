@@ -29,19 +29,22 @@ get_header(); ?>
         <div class="js-topform">
             <div class="topform"><div class="wpcf7" id="wpcf7-f104-p1209-o2" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
-<form name="cleversolution-form-104" action="/#wpcf7-f104-p1209-o2" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="104" />
-<input type="hidden" name="_wpcf7_version" value="4.1" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f104-p1209-o2" />
-<input type="hidden" name="_wpnonce" value="4065d44746" />
-</div>
+<!--<form name="cleversolution-form-104" action="/#wpcf7-f104-p1209-o2" method="post" class="wpcf7-form" novalidate="novalidate">-->
+<!--<div style="display: none;">-->
+<!--<input type="hidden" name="_wpcf7" value="104" />-->
+<!--<input type="hidden" name="_wpcf7_version" value="4.1" />-->
+<!--<input type="hidden" name="_wpcf7_locale" value="en_US" />-->
+<!--<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f104-p1209-o2" />-->
+<!--<input type="hidden" name="_wpnonce" value="4065d44746" />-->
+<!--</div>-->
 <div class="formtitle light cl-white island-v20 center">Get your Clever Solution</div>
-<div class="sameform bg-light island-10">
-<span class="wpcf7-form-control-wrap f1-name"><input type="text" name="f1-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required f1-name topinput" aria-required="true" aria-invalid="false" placeholder="Name" /></span><span class="wpcf7-form-control-wrap f1-email"><input type="email" name="f1-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email f1-email topinput" aria-required="true" aria-invalid="false" placeholder="E-mail" /></span><span class="wpcf7-form-control-wrap f1-tel"><input type="tel" name="f1-tel" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel f1-tel topinput" aria-required="true" aria-invalid="false" placeholder="Phone" /></span><span class="wpcf7-form-control-wrap f1-text"><textarea name="f1-text" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required f1-text topinput" aria-required="true" aria-invalid="false" placeholder="Message"></textarea></span><button type="submit" name="f1-submit" class="scalesubmit"><span>Send</span></button>
-</div>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+<!--<div class="sameform bg-light island-10">-->
+<!--<span class="wpcf7-form-control-wrap f1-name"><input type="text" name="f1-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required f1-name topinput" aria-required="true" aria-invalid="false" placeholder="Name" /></span><span class="wpcf7-form-control-wrap f1-email"><input type="email" name="f1-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email f1-email topinput" aria-required="true" aria-invalid="false" placeholder="E-mail" /></span><span class="wpcf7-form-control-wrap f1-tel"><input type="tel" name="f1-tel" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel f1-tel topinput" aria-required="true" aria-invalid="false" placeholder="Phone" /></span><span class="wpcf7-form-control-wrap f1-text"><textarea name="f1-text" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required f1-text topinput" aria-required="true" aria-invalid="false" placeholder="Message"></textarea></span><button type="submit" name="f1-submit" class="scalesubmit"><span>Send</span></button>-->
+<!--</div>-->
+<!--<div class="wpcf7-response-output wpcf7-display-none"></div></form>-->
+                </div>
+                <?php echo do_shortcode('[contact-form-7 id="100" title="Contact form 2"]'); ?>
+            </div>
         </div>
         <div class="js-orange-bottom">
             <div class="animation-box-1 index-100"><i class="anim-svg" data-img="anim-car.svg"></i>
@@ -73,12 +76,16 @@ get_header(); ?>
         <div class="orange-center">
             <div class="cc x1d3 v-top pad-right-30 d-non-1024"><img class="anim-logo2 " src="/wp-content/themes/cleversolution/images/anim-logo2.svg" alt="" /></div>
             <div class="cc x2d3 x1--t pad-left-30 pad-0--t bord-left-white"><a class="md-title">Why Clever Solution</a>
-                <p class="md-text">Because it is the one and only stop you’ll need to make. Leave it to us to worry about the digital aspect of your business. We create your digital presence…</p>
+                <p class="md-text">Clever Solution is the only stop you need to make. Leave the digital aspect of your business to us. We will create your digital presence...</p>
 
             </div>
         </div>
         <img class="anim-rocket  " style="top: 26%; right: 5%;" src="/wp-content/themes/cleversolution/images/anim-rocket.png" alt="" />
-        <img class="topSeo-screen1" src="/wp-content/themes/cleversolution/images/topSeo.png" alt="" />
+        <div class="rewards">
+            <img class="seo_firms" src="/wp-content/themes/cleversolution/images/seo_firms_new_york.png" alt="" />
+            <img class="bronze_winner" src="/wp-content/themes/cleversolution/images/iba17-bronze-winner.png" alt="" />
+            <img class="topSeo-screen1" src="/wp-content/themes/cleversolution/images/topSeo.png" alt="" />
+        </div>
         <div class="animate-media">
             <div class="in-the-media">
                 <span class="title-media">In the media</span>
@@ -123,7 +130,7 @@ get_header(); ?>
 
                 <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
                 <h3>Design Solutions</h3>
-                <p class="marg-bot-60">Our goal is not only to design an intriguing website, but to increase your customer base. We create a clear, responsive and customer-oriented user interface which is guaranteed to retain consumers’ attention, reducing the bounce rate and converting new customers. Our designs are unique, visual and aimed to keep your website visitor interested and reading.</p>
+                <p class="marg-bot-60">Our goal is to not only design an intriguing website, but to increase your customer base. We create a clear, responsive and customer-oriented user interface which is guaranteed to retain consumers’ attention, reducing the bounce rate and converting new customers. Our designs are unique, visual, and aimed to keep your website visitor interested and reading.</p>
 
                 <ul class="new_list">
                     <li>- You remain in control throughout the entire design process</li>
@@ -155,7 +162,7 @@ get_header(); ?>
                         <li>custom design of the logo (if you have not got one still), which represents you as a brand</li>
                         <li>custom design of the web and mobile applications (either/and)</li>
                     </ul>
-                    &nbsp;
+                    &nbsp;<br>
                     <p class="p indent-40">And here are some of the results you should be looking forward to with Clever Solution designs:</p>
 
                     <ul class="ul-tire indent-40">
@@ -166,7 +173,7 @@ get_header(); ?>
                         <li>designs reflect who you are as a business and a brand, not just inform people of what you do, but inform them of who you are</li>
                     </ul>
                 </div>
-                &nbsp;
+                &nbsp;<br>
                 <p class="p cl-orange semibold">The process at Clever Design Solutions involves these following steps:</p>
 
                 <ol class="marg-0 marg-bot-40">
@@ -218,7 +225,7 @@ get_header(); ?>
                     <div class="mobile-stash1">
                         <div class="rptcol">
 
-                            <p>When you already have a design for your website, we develop a website for you and make it functional and of high quality standard. Your mobile device is an extension of yourself? Then it probably is of your customer as well, and they might be looking for you. We develop our websites to work on anything that has got internet access.</p>
+                            <p>If you already have a design for your website, we will develop the site for you and make it functional and of the highest quality. Is your mobile device an extension of yourself? Then the same is probably true of your customer, and they may be looking for you. We develop our websites to work on any device with Internet access.</p>
 
 
                         </div>
@@ -251,17 +258,17 @@ get_header(); ?>
                 <div class="c x2d14 island-v80 d-non-1024"></div>
                 <div class="c x9d14 x1--t font-18 rt-text cl-white justify island-v80 marg-bot-20 indent-40 mobiletxtver">
 
-                    Without clear functionality of the website, no matter how pretty the design is, it is useless. We are not saying that either element is less important, but that the design of the website is only half the job. The development stage includes a number of components, and depending on the needs of your businesses, we find a fitting solution, as well as guide and consult you throughout on the basis of our extensive experience. Be it a web app, mobile app, or both (as is the case today with growing number of mobile devices out there), we develop an application which is clear and easy to navigate, provides option for the consumer to communicate with the business by providing feedback, and of course, certain extent of personalization.
+                    Without clear functionality, no matter how pretty the design, your website is useless. While both elements are important, website design is only half the job. The development stage includes multiple components. Depending on the needs of your business, we find the best solution, guiding and consulting you throughout the process, based on our extensive experience. Be it a web app, mobile app, or both (as is most often the case with the growing use of mobile devices), we develop an application which is clear and easy to navigate, allows the consumer to provide feedback, and affords a degree of personalization.
                     <div class="js-eleport-1">
 
-                        We offer a range of development solutions for our clients, with an individual approach to each challenge we are presented with. If you have questions regarding your allocated budget for the development of the website, there is a possibility of doing a more standard website development.
+                        We offer a range of development solutions for our clients, with an individual approach to each challenge presented. If you have a limited budget for website development, we can create a more standard site to meet your needs.
 
                     </div>
                     <div class="js-eleport-2">
 
                         We work with a number of publishing platforms and customer management systems (CMS), including, but not limited to:
                         <ul class="ul-tire">
-                            <li class="indent-40">Wordpress</li>
+                            <li class="indent-40">WordPress</li>
                             <li class="indent-40">Magento</li>
                             <li class="indent-40">Drupal</li>
                             <li class="indent-40">Technologies: Yii Framework, Node.js, React.js, React Native, Ember.js</li>
@@ -284,7 +291,9 @@ get_header(); ?>
                         <div class="mobile-line-1"></div>
                         <div class="block island-020">
                             <div class="cc x1d2 x1--t left cl-orange left font-16 calibri v-bot relative">
-                                <div class="cc x2d5 x1d5--t left"></div>
+                                <div class="cc x2d5 x1d5--t left">
+                                    <img src="<?php echo get_template_directory_uri()?>/images/left-circle.png" alt="" />
+                                </div>
                                 <div class="c x3d5 x4d5--t v-bot marg-bot-50 ars-left">
 
                                     of users search <mark class="bold">in-store</mark> to help them make up their minds
@@ -297,7 +306,9 @@ get_header(); ?>
                                     use it as <mark class="bold">self-help</mark> instead of seeking help from store-emplayce
 
                                 </div>
-                                <div class="cc x2d5 x1d5--t"></div>
+                                <div class="cc x2d5 x1d5--t">
+                                    <img src="<?php echo get_template_directory_uri()?>/images/right-circle.png" alt="" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -321,12 +332,12 @@ get_header(); ?>
 
                     <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
                     <h3>Digital Marketing</h3>
-                    <p>Reacting to the market immediately is the key to survival, it needs to be a knee-jerk reaction. This can be done only with the help of digital marketing. The virtual world enables us to have real-time feedback on how the marketing strategy is working, enabling us to efficiently respond and make adjustments. We provide an in-depth analysis of how your business is doing digitally, and develop a strategy which suits your brand and your goals.
+                    <p>Rapid respnose to the market is key to survival, and this can only be done with the help of digital marketing. The virtual world enables us to get real-time feedback on how a marketing strategy is working, enabling us to efficiently respond and make adjustments. We provide an in-depth analysis of how your business is doing digitally, and develop a strategy which suits your brand and your goals.
                     </p>
                     <div class="js-eleport-4">
 
                         <ul class="new_list">
-                            <li>- Development of the strategy for your company to increase your ePresesence</li>
+                            <li>- Development of a strategy for your company to increase your ePresesence</li>
                             <li>- Make it easier for your customer to find your products and services</li>
                             <li>- Raise awareness of your brand through social media</li>
                             <li>- Stay current and relevant among your customer base</li>
@@ -351,20 +362,26 @@ get_header(); ?>
         </div>
         <div class="js-slide">
             <div class="slide-rvc overflow">
-                <div class="cloud2 " style="top: 10px; left: 0px;"></div>
-                <div class="cloud3 " style="top: 220px; right: 30px;"></div>
-                <div class="cloud3 " style="top: 520px; right: 220px;"></div>
+                <div class="cloud2 " style="top: 10px; left: 0px;">
+                    <img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="">
+                </div>
+                <div class="cloud3 " style="top: 220px; right: 30px;">
+                    <img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="">
+                </div>
+                <div class="cloud3 " style="top: 520px; right: 220px;">
+                    <img class="anim-cloud  " src="/wp-content/themes/cleversolution/images/anim-cloud.png" alt="">
+                </div>
                 <div class="js-eleport-7-for"></div>
                 <div class="centerheight bottom-height">
                     <div class="c x1d2 x7d10--t x9d10--ms marg-auto--t block--t pad-left-70 pad-right-30 pad-0--t font-18 font-control-7 cl-white justify indent-40">
 
-                        Having an awesome website, which looks and works like a dream is wonderful, but unfortunately, it isn’t enough. Considering that there are well over a billion websites out there, covering everything and anything, standing out becomes quite a bit of a challenge. That is why digital marketing is essential, as it brings you and your potential customers together. What every business should remember, is that it’s not only you looking for the customer, but that said customer is looking for you too.
+                        <p>Having an awesome website, which looks and works like a dream is wonderful, but unfortunately, it isn’t enough. Considering that there are well over a billion websites out there, covering everything and anything, standing out becomes quite a bit of a challenge. That is why digital marketing is essential, as it brings you and your potential customers together. What every business should remember, is that it’s not only you looking for the customer, but that said customer is looking for you too.</p>
 
-                        Businesses today have to be very conscious as to how their web presence overall, not just their website, impacts their business and profitability. What we do is bring both you and your potential customer together through a number of tools.
+                        <p>Businesses today have to be very conscious as to how their web presence overall, not just their website, impacts their business and profitability. What we do is bring both you and your potential customer together through a number of tools.</p>
 
-                        Marketing via the internet differs greatly from traditional methods of marketing, as it is in many ways more subtle. Today’s customers are more informed than ever before, and they get that information from the internet. A digital presence for a business today is just as essential for its survival as air is for us.
+                        <p>Marketing via the internet differs greatly from traditional methods of marketing, as it is in many ways more subtle. Today’s customers are more informed than ever before, and they get that information from the internet. A digital presence for a business today is just as essential for its survival as air is for us.</p>
 
-                        What Clever Solution does is put you on the map in the internet, attract to you your consumers, engage them, convert them to become your customer, and keep them coming back to you. Engaging the customers is probably the hardest bit, since today’s internet users have learned to ignore much of advertising and look specifically for content that is valuable particularly to them. We can’t go spilling our secrets at how we do it, but we will tell you this - we have a proven track record of reducing the bounce rate of visitors to our clients’ websites, which leads to an increased customer base and increased profits for you.
+                        <p>What Clever Solution does is put you on the map in the internet, attract to you your consumers, engage them, convert them to become your customer, and keep them coming back to you. Engaging the customers is probably the hardest bit, since today’s internet users have learned to ignore much of advertising and look specifically for content that is valuable particularly to them. We can’t go spilling our secrets at how we do it, but we will tell you this - we have a proven track record of reducing the bounce rate of visitors to our clients’ websites, which leads to an increased customer base and increased profits for you.</p>
 
                     </div>
                     <div class="c x1d2 x7d10--t x9d10--ms marg-auto--t block--t hfull pad-right-70 pad-left-30 pad-0--t relative js-eleport-7">
@@ -387,7 +404,7 @@ The Big Deal About</span></span>Digital Marketing &amp; Its Purpose
                 <div class="blue-bottom">
                     <div class="js-bottom-animate-1">
                         <div class="animated-puzzle-1 center">
-
+                            <i class="anim-svg" data-img="anim-puzzle1.svg"></i>
                             &nbsp;
                             <div class="abs-h-mid wfull cl-white text-shadow-light lh1"><span class="block font-24 font-control-9 bold">Your Web</span>
                                 <span class="block font-50 font-control-10 bold">+</span>
@@ -395,13 +412,13 @@ The Big Deal About</span></span>Digital Marketing &amp; Its Purpose
                         </div>
                         <div class="animated-puzzle-2 center">
 
-                            &nbsp;
+                            &nbsp;<i class="anim-svg" data-img="anim-puzzle2.svg"></i>
                             <div class="abs-h-mid wfull cl-white text-shadow-light lh13"><span class="block font-24 font-control-9 bold">Digital
 Marketing</span></div>
                         </div>
                         <div class="animated-puzzle-3 center">
 
-                            &nbsp;
+                            &nbsp;<i class="anim-svg" data-img="anim-puzzle3.svg"></i>
                             <div class="abs-h-mid wfull cl-white text-shadow-light lh13"><span class="block font-24 font-control-9 bold">Your
 Business
 Goals</span></div>
@@ -421,8 +438,8 @@ Goals</span></div>
                         </div>
                     </div>
                     <div class="bottom-side-animation x1d2 inline center lh11 font-32 upper cl-white">
-
-                        &amp;it brings the 2 elementsin most cost-effective way possible
+                        <p style="text-align: center">&amp;</p>
+                        it brings the 2 elementsin most cost-effective way possible
 
                     </div>
                     <i class="anim-svg footer-basket basket-1" data-img="anim-basket.svg"></i>
@@ -507,12 +524,13 @@ Goals</span></div>
                     <strong class="why-text font-65 cl-sblue bold upper lh1">
                         Why You Care...
                     </strong>
-                    <p class="because-text right font-16 cl-white lh12"><span class="block v-mid font-25 left">Because…</span>
-                        <b>85%</b> of consumers search for local businesses online…</p>
+                    <div class="because-text right font-16 cl-white lh12"><span class="block v-mid font-25 left">Because…</span>
+                        <b>85%</b> of consumers search for local businesses online…<br>
                     &amp; for <b>65%</b> of them, internet research help them make up their mind
-
+                    </div>
                     <span class="they-text cl-coral font-14 v-mid right">&amp; they may he looking for you</span>
                     <p class="so-text font-30 bold cl-white upper">So? You want them to find you</p>
+
                     <i class="anim-svg footer-basket basket-1" data-img="anim-basket.svg"></i>
                     <i class="anim-svg footer-basket basket-3" data-img="anim-basket.svg"></i>
                     <a href="javascript:goslide(5,1);" class="closemodal el-h-center cl-white">Back</a>
@@ -532,17 +550,17 @@ Goals</span></div>
 
                     <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
                     <h3>Integrated Solutions</h3>
-                    <p>Let us help you handle the digital aspect of your business from start to finish. Beginning with the design and development of your website, we move to your digital marketing strategy with analysis of its effectiveness and continuous adaptation to the everchanging market. We understand the importance of catering to consumers’ needs and wants, and aim to simplify the process for both you as our client and your customers as well.
+                    <p>Let us help you handle the digital aspect of your business from start to finish. Beginning with the design and development of your website, we move to your digital marketing strategy with analysis of its effectiveness and continual adaptation to the everchanging market. We understand the importance of catering to consumers’ needs and wants, and aim to simplify the process for both you as our client, and your customers.
                     </p>
                     <div class="js-eleport-11">
 
                         <ul class="new_list">
                             <li>- Turnkey solutions, meaning we will be with you from start to finish</li>
                             <li>- Consulting you throughout each step and supporting and maintaining your website</li>
-                            <li>- You do not have to find any other company to host your website, market it, or analyze the data</li>
+                            <li>- Use only one company to host your website, market it, and analyze the data</li>
                             <li>- Development of easily operated CMS</li>
                             <li>- Continuous analysis</li>
-                            <li>- Although we do all the work, you are still in control at every single stage</li>
+                            <li>- We do all the work, but you remain in control at every single stage</li>
                         </ul>
 
                     </div>
@@ -555,29 +573,29 @@ Goals</span></div>
                 <a href="javascript:goslide(6,1);"><i class="anim-svg" data-img="readmore.png"></i></a>
 
             </div>
-            <div class="js-slide">
+            <div class="js-slide padding-integrated">
                 <div class="slide-rvc overflow hfull island-040 pad-0--t">
                     <div class="fix-height-1 island-020 pad-0--t">
                         <div class="c x1d3 x1--t relative hfull pad-top-90 pad-0--t">
                             <div class="relative hfull cl-white overflow font-18 rt-text mobile-block cl-black--t">
                                 <div class="dashedtextbox island-10 marg-bot-20 cl-black d-non-1024">
 
-                                    “Increasingly sophisticated and highly connected consumer expects more from brands; he or she wants personalization, relevance, convenience, simplicity, and proximity.”
+                                    “Today's consumer relies on the Internet as the ultimate self-help destination, even preferring to consult their mobile devices rather than asking for help from an in-store employee. Businesses today must consider the digital aspect of their businesses to remain successful and competitive in today's market.”
                                     <p class="p right">- SocialMediaToday.com</p>
 
                                 </div>
                                 <div class="text-overflow" data-size="500">
                                     <div class="indent-40 justify marg-bot-20">
-                                        <p class="p">The consumer today relies on internet as the ultimate ‘self-help’ destination, even preferring to consult the web on their mobile devices instead of asking an in-store employee. Therefore, businesses today have to take into account a number of elements concerning the digital aspect of their businesses in order to be successful on the market.</p>
-                                        What many people forget, is how the success of the business online depends on a number of elements, not just how it is marketed. Three elements are integral in attracting, converting and retaining the customer online, and they are:
+                                        <p class="p">The success of an online business depends on more than just how it is marketed. Three elements are integral to attracting, converting and retaining online customers:</p>
                                         <ul class="ul-tire">
                                             <li>design of the website,</li>
                                             <li>functionality of the interface, and</li>
                                             <li>marketing of the business (web app) digitally.</li>
                                         </ul>
-                                        Therefore, in our Clever Integrated Solutions section, we offer to integrate all 3 elements - resulting in designing, developing and marketing online your business. What you get is a turnkey project handed over to you, easy to use and maintain.
+                                        Clever Integrated Solutions integrates all 3 elements – resulting in design, development and marketing of your online your business. You get a turnkey project handed to you that is easy to use and maintain.
 
                                     </div>
+                                    <a href="javascript:goslide(6,0);" style="bottom: 80px;" class="closemodal cl-black d-non-1024">Back</a>
                                 </div>
                                 <a class="js-big-orange-but wfull block no-underline cl-white bg-orange upper font-26 center island-15 d-non-1024">Why you want to stand out…</a>
 
@@ -586,35 +604,35 @@ Goals</span></div>
                         <div class="c x2d3 x1--t cl-white pad-top-90 justify relative hfull font-18 font-control-13 colums-2 pad-0--t mobile-block cl-black--t">
                             <div class="text-overflow" data-size="2140">
                                 <div class="indent-40 pad-0--t">
-                                    <p class="p">Clever Integrated Solutions integrates six following steps, five of which are essential, and the last one is optional, depending on your requirements:</p>
+                                    <p class="p">Clever Integrated Solutions integrates the following six steps, five of which are essential, and the last which is optional, depending on your requirements:</p>
 
                                     <ol class="no-mp inside-ul">
-                                        <li>Consultation with the client and determination of the specifications of the project. This is an information gathering stage, where you tell us what you would like in the finished product, and when you would like it. The goals, purpose, content and target audience are determined in this phase.</li>
-                                        <li>Drafting and planning is done at this stage, where we create a mock up of the website on the basis of the information you have provided us with in the first step. A mock up of a website is in a way its map and its base, upon which the design and development stages will take place.</li>
-                                        <li>The design stage, where we create a custom graphic design of a web or mobile application for you, which complements your brand and is attractive to the customer as well. Our designs are focused on reducing the bounce rate of visitors and increasing the conversion rate of the web application visitors into your customers. You are constantly consulted on whether you like the design and whether it fits your expectations.</li>
-                                        <li>Development is when the design is made functional. Functionality of the website is one of the most important attributes to a successful web application, and successful digital marketing processes too. Before the website is delivered and hosted online, it is thoroughly tested by our team.</li>
-                                        <li>After the finished web application has been launched online, the digital marketing phase begins. Here, the website is constantly updated with new information, marketed online and search engine optimized, among other things. In this phase, analysis of the business performance online is continuously done, and strategy, which was earlier developed to digitally market the business is adjusted where needed, when needed. You are constantly updated on the progress and work done at this stage as well.</li>
-                                        <li>This last step is optional, as it involves further maintenance and development of application per your request.</li>
+                                        <li>Consultation with the client and determination of the project's specifications This is an information gathering stage, where you tell us what you would like in the finished product, and when you would like it. The goals, purpose, content and target audience are determined in this phase.</li>
+                                        <li>Drafting and planning is done at the second stage, where we create a mock-up of the website based on the information you provided in the first step. A website mock-up is like a map upon which the design and development stages will be based.</li>
+                                        <li>In the design stage, we create a custom graphic design of a web or mobile application for you, which complements your brand and is attractive to your customers. Our designs are focused on reducing the bounce rate and increasing the conversion rate of your site's visitors into customers. You are constantly consulted on whether you like the design and whether it meets your expectations.</li>
+                                        <li>The development stage is when the design is made functional. Functionality is one of the most important attributes of a successful web application, along with successful digital marketing processes.  Before the website is delivered and hosted online, it is thoroughly tested by our team.</li>
+                                        <li>After the finished web application has been launched online, the digital marketing phase begins. Here, the website is constantly updated with new information, marketed online and search engine optimized, among other things. In this phase, analysis of the business's online performance is done continuously, and digital marketing strategy is adjusted where needed, when needed. You are constantly updated on the progress and work done at this stage.</li>
+                                        <li>This last step is optional, as it involves further maintenance and development of the application per your request.</li>
                                     </ol>
                                     &nbsp;
 
                                 </div>
                                 <div class="indent-40 font-18 font-control-13 justify">
-                                    <p class="p">Here is a quick overview of what we are offering as part of Integrated Solutions:</p>
+                                    <p class="p">Here is a quick overview of what we offer as part of Integrated Solutions:</p>
 
                                     <ul class="no-mp ul-tire">
-                                        <li>Customer Relationship Management (CRM), that is the overall attraction, engagement and retainment of the customers via the use of digital tools</li>
+                                        <li>Customer Relationship Management (CRM), which is the overall attraction, engagement and retention of your customers via the use of digital tools</li>
                                         <li>SEO across various SERP’s such as Google, Bing, Yahoo</li>
-                                        <li>Full design and development of your web and mobile application to compliment your existing brand</li>
-                                        <li>Easily manageable CMS, which you are introduced to and taught how to use after you receive your web/mobile application</li>
-                                        <li>Design of the logo to reflect you as a business</li>
-                                        <li>Digital marketing plan developed and executed specifically for your business</li>
+                                        <li>Full design and development of your web and mobile applications to complement your existing brand</li>
+                                        <li>Easily manageable CMS, which you are introduced to and taught to use once you receive your web/mobile application</li>
+                                        <li>Design of a logo to reflect you as a business</li>
+                                        <li>A digital marketing plan developed and executed specifically for your business</li>
                                     </ul>
-                                    If what you have been reading thus far describes the solution you have been looking for to be handled by a team of professionals, then Clever Integrated Solutions are for you.
+                                    If you are looking for an online marketing solution for your business handled by a team of professionals, then Clever Integrated Solutions is right for you.
 
                                 </div>
                             </div>
-                            <p class="p js-righttext-but upper block font-40 center cl-white bold d-non-1024">Think that’s much?</p>
+                            <p class="p js-righttext-but upper block font-40 center cl-white bold d-non-1024">Think that’s a lot?</p>
 
                         </div>
                         <div class="js-eleport-12-for"></div>
@@ -623,7 +641,7 @@ Goals</span></div>
                                 <div class="c x2d5">
                                     <div class="c x1d5"></div>
                                     <div class="c x4d5 font-20 upper light cl-white js-eleport-13">
-                                        <p class="p">Internet is expanding exponentially</p>
+                                        <p class="p">The internet is expanding exponentially</p>
                                         <p class="p">… 2006, USA’s inet alone will be x50 by 2015</p>
 
                                     </div>
@@ -645,14 +663,11 @@ Goals</span></div>
                                 &nbsp;
                                 <div class="abs-mid wfull font-14">
 
-                                    Internet causeda fundamentalchange in how
-
-                                    we communicate
+                                    The Internet caused a fundamental change in how we communicate
 
                                 </div>
                             </div>
                             <i class="anim-svg js-more-clouds-2" data-img="anim-clouds.png"></i>
-                            <a href="javascript:goslide(6,0);" class="closemodal cl-white d-non-1024">Back</a>
 
                         </div>
                     </div>
@@ -668,12 +683,12 @@ Goals</span></div>
 
                     <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
                     <h3>eCommerce Solutions</h3>
-                    <p class="marg-bot-60">Increasing numbers of people shop online today, and what attracts them to an online store isn’t just the product that is offered . What they look in a website is assurance of security of their payments and clear design with ease of use of the website. We offer all three and then some to make your business evolve further.</p>
+                    <p class="marg-bot-60">Increasing numbers of people shop online, and it is not only the product that attracts them to an online store. What shoppers look for in a website is an assurance of payment security, and a clean design that is easy to use. We offer all of the above and then some, to help your business grow.</p>
                     <ul class="new_list">
                         <li>- Clear layout of your products</li>
-                        <li>- Ease of use for both the customer and the business managers</li>
+                        <li>- Ease of use for both customers and business managers</li>
                         <li>- Bringing the customer to you through SEO</li>
-                        <li>- Effortless and continuous update of your product base</li>
+                        <li>- Effortless and continuous updates of your product base</li>
                         <li>- Clear and efficiently manageable CMS</li>
                         <li>- Tracking of your business</li>
                     </ul>
@@ -691,54 +706,51 @@ Goals</span></div>
                     <div class="centerheight">
                         <div class="c x1d2 x1--t rtl pad-0--t">
                             <div class="mobile-block">
-                                <p class="indent-40 cl-white x4d5 x1--t inline ltr">Many businesses are turning to electronic commerce as the new venue for them to expand their business, while others focus their businesses exclusively on it. With the success of companies such as Amazon and the enormous increase of online shoppers in the recent years, for majority of the companies, offering their products and services online through web stores is becoming standard practice. Last Christmas alone, the amount of online shoppers has for the first time surpassed the amount of actual shoppers out in the streets doing their shopping during the Boxing Day.</p>
+                                <p class="indent-40 cl-white x4d5 x1--t inline ltr fz18">Many businesses are turning to electronic commerce as an additional venue for expanding their business, while others focus their business exclusively on it. With the success of companies like Amazon and the enormous increase of online shoppers in recent years, offering products and services online through web stores has become standard practice. During the past holiday season, online shoppers for the first time surpassed the number of shoppers visiting brick-and-mortor stores. </p>
 
                             </div>
                             <div class="blue-block ltr">
                                 <div class="mobile-block">
-                                    <div class="c x2d7 x1--t font-36 font-control-12 cl-white bold v-middle span-br">Some
-                                        of the major
-                                        benefits of
-                                        e-commerce
-                                        include:</div>
+                                    <div class="c x2d7 x1--t font-36 font-control-12 cl-white bold v-middle span-br">Some of the major benefits of e-commerce include:</div>
                                     <div class="c x5d7 x1--t island-10 cl-white v-middle">
-                                        <ul class="ul-tire">
-                                            <li>immediate outreach to your consumer by being available right at their fingertips</li>
-                                            <li>your products and services are on sale 24/7, throughout weekends and holidays</li>
-                                            <li>provides your customer with certain extent of personalization they desire</li>
-                                            <li>provides sustainability on the market, as there are less upkeeping costs (reduced cost as there is no shopping space rent, no need to hire personnel for a shop, and much cheaper marketing)</li>
+                                        <ul class="ul-tire fz18">
+                                            <li>immediate outreach to your consumer, right at their fingertips</li>
+                                            <li>your products and services are available 24/7, even during weekends and holidays</li>
+                                            <li>provides your customer with the degree of personalization they desire</li>
+                                            <li>provides sustainability on the market, with low overhead and fewer marketing expenses</li>
                                             <li>your business is visible to a far greater audience (with the help of SEO of course), which is particularly beneficial if you are offering a niche product or service</li>
-                                            <li>direct feedback from the customer always available, which is vital for every business to acquire</li>
+                                            <li>direct feedback from the customer is always available, which is vital for every business</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="indent-40 cl-white x4d5 x1--t mobile-block inline ltr">
+                            <div class="indent-40 cl-white x4d5 x1--t mobile-block inline ltr fz18">
 
-                                The benefits that are listed above are major points and reasons behind so many retailers and businesses opening up their web-stores online, and thus increasing their profits. According to the statistics, today, approximately a quarter of a company’s profit comes from online sales. Businesses are going online to sell their products and services today, and if you aren’t already there, then you are most likely falling behind your competition.
+                                The benefits listed above are major reasons why so many retailers and businesses are increasing their profits by opening web stores online. According to statistics, approximately one quarter of a company’s profits come from online sales. Businesses are going online to sell their products and services, and if you aren’t already there, you are most likely falling behind your competition.
 
                             </div>
                         </div>
                     </div>
                     &nbsp;
                     <div class="c x1d2 x1--t pad-0--t hfull font-control-13 rtl">
+                        <i class="anim-svg d-non-1024" data-img="anim-crane.png"></i>
                         <div class="blue-block js-blockblue pad-right-60 pad-left-20 island-10 inline ltr">
                             <div class="float-r inline x5d8 x1--t island-10 pad-0--t">
                                 <div class="mobile-block">
 
-                                    <span class="mobile-title">What Clever eCommerce Solutions offers you is:</span>
-                                    <ul class="ul-tire cl-white index-100 pad-bot-10">
-                                        <li>clear web and mobile applications design and development, with all security features incorporated</li>
-                                        <li>easily maintained and updated web application</li>
+                                    <span class="mobile-title">What Clever eCommerce Solutions offers you:</span>
+                                    <ul class="ul-tire cl-white index-100 pad-bot-10 fz18">
+                                        <li>clear web and mobile application design and development, with all security features incorporated </li>
+                                        <li>easily maintained and updated web applications</li>
                                         <li>customers come to you, while we do all the work in the background</li>
-                                        <li>always a two-way communication between you and us</li>
-                                        <li>optimization of the website facilitating your customers in finding you</li>
-                                        <li>security of your customer’s information through the technologies we use</li>
+                                        <li>ongoing two-way communication between you and us</li>
+                                        <li>optimization of your website to help your customers find you</li>
+                                        <li>security of your customers' information through advanced technologies</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <p class="p js-text-bot-anim cl-white ltr mobile-block pad-0--t">On top of that, we offer additional services, such as writing up the descriptions of the product, hosting your new web-store, and additional development solutions you may require at any stage later on. On the basis of the consultation with Clever Solution team, all of the elements you would like for us to take care for you, will be discussed.</p>
+                        <p class="p js-text-bot-anim cl-white ltr mobile-block pad-0--t js-text-bot-anim-top">On top of that, we offer additional services, such as writing up the descriptions of the product, hosting your new web-store, and additional development solutions you may require at any stage later on. On the basis of the consultation with Clever Solution team, all of the elements you would like for us to take care for you, will be discussed.</p>
 
                     </div>
                 </div>
@@ -754,12 +766,12 @@ Goals</span></div>
 
                 <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
                 <h3>Niche Solutions</h3>
-                <p class="marg-bot-60">Looking for a specific industry solution, which doesn’t offer a generic approach to your problem? Then a ‘niche solution’ is what you need. We offer a number of specific solutions in a range of industries and we already have a vast and continuously expanding experience dealing with variety of business specific issues. We are willing to take on the challenge that you present to us, and go beyond, that extra step (or mile) that you need.</p>
+                <p class="marg-bot-60">Looking for an industry-specific solution with a unique approach to your problem? Then a ‘niche solution’ is what you need. We offer a number of specific solutions over a range of industries. We have vast and continuously expanding experience dealing with a variety of business-specific issues. We are ready to take on whatever challenges you present us, and go the extra mile to meet your needs. </p>
                 <ul class="new_list">
                     <li>- Digital campaign management</li>
                     <li>- Quality assurance of the end product</li>
-                    <li>- Business tracking of the progress on the set goals</li>
-                    <li>- Solutions offered on the basis of your specific industry</li>
+                    <li>- Business tracking of progress toward set goals</li>
+                    <li>- Solutions offered based on your specific industry</li>
                 </ul>
 
             </div>
@@ -790,16 +802,16 @@ Goals</span></div>
 
             <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
             <h3>Additional</h3>
-            <p class="marg-bot-60">Finding someone to complete certain tasks for your website is often a rather tedious experience, so we offer a variety of independent services to suit your needs.</p>
+            <p class="marg-bot-60">Finding someone to service your website can be a tedious experience, so we offer a variety of independent services to suit your needs.</p>
             &nbsp;
             <div class="mobile-paddings">
                 <ul class="new_list">
                     <li>- Copywriting and writing of content with emphasis on SEO</li>
                     <li>- Search engine optimization of your website’s content</li>
                     <li>- Technical support for your apps and websites</li>
-                    <li>- Fixing bugs in your systems</li>
+                    <li>- Fixing of bugs in your systems</li>
                     <li>- Administrative support of your web/mobile application</li>
-                    <li>- Supplementary development for your project and business</li>
+                    <li>- Supplementary development of your project and business</li>
                 </ul>
                 <div class="right"></div>
             </div>
@@ -823,15 +835,15 @@ Goals</span></div>
 
             <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="anim-logo3.svg"></i></a>
             <h3>Who We Are</h3>
-            <p class="marg-bot-40">We are a young and passionate team of experts. Founded in 2009, our team has years of experience in the digital marketing, web application design and development fields. Each member of our team is not only an expert in their respective area, but can also act across the different functions of our mission: We pride ourselves on our commitment to providing the highest quality of service.</p>
+            <p class="marg-bot-40">We are a young and passionate team of experts. Founded in 2009, our team has years of experience in the fields of digital marketing, web application design and development. Each member of our team is not only an expert in their respective area, but can also act across the different functions of our mission: We pride ourselves on our commitment to providing the highest quality of service.</p>
 
 
             <ul class="new_list">
                 <li>- We care about you, your business, and your clients</li>
-                <li>- We are a small team, so there is minimum information confusion and minimum time lost in communicating between too many parties</li>
-                <li>- We have indepth knowledge and experience of how the internet works and what needs to be done in order to make your business more competitive</li>
-                <li>- We have a number of accreditations, including in target advertising systems of Google, Yahoo, and Bing</li>
-                <li>- We are flexible and understanding of our clients and their worries</li>
+                <li>- We are a small team, so there is minimal confusion and less time lost in miscommunication between parties</li>
+                <li>- We have indepth knowledge and expertise of how the Internet works and what needs to be done to make your business more competitive</li>
+                <li>- We have a number of accreditations, including several in the target advertising systems of Google, Yahoo, and Bing</li>
+                <li>- We are flexible and understanding of our clients and their concerns</li>
             </ul>
 
         </div>
@@ -855,6 +867,27 @@ Goals</span></div>
                 <p class="p" style="display: none; position: absolute; right: 10px; bottom: 40px; color: white; font-family: 'Segoe-UI';">This site affiliated with <a style="color: white;" href="http://singree.com/" target="_blank">singree.com</a> and LLC Singree incorporated in Odessa, Ukraine</p>
 
             </div>
+        </div>
+    </div>
+    <div class="js-screen" data-title="ICO">
+        <div class="rightblock bottom-height pad-0--t mobile-block index-100">
+
+            <a class="orangetext">Why Clever Solution? <i class="anim-svg osta-logo" data-img="ico-logo-white.png"></i></a>
+            <h3>ICO Launch</h3>
+            <p class="marg-bot-40">The world of blockchain technology is a world of limitless business capabilities. More and more companies are adopting blockchain technology for the purpose of revolutionizing entire industries, and to keep pace with ever-evolving standards and innovations. By kicking off Initial Coin Offerings, numerous companies have already acquired the opportunities and resources to progress forward in the interest of democratizing technology. As a company that has taken this path, we know what it takes to launch a successful ICO, and we are ready to help others:</p>
+
+            <ul class="new_list">
+                <li>- Conduct a market analysis</li>
+                <li>- Develop a marketing strategy</li>
+                <li>- Design an ICO landing page</li>
+                <li>- Integrate blockchain to your solution</li>
+                <li>- Develop smart contracts</li>
+                <li>- Build a strong community</li>
+                <li>- Launch your token sale</li>
+            </ul>
+
+            <a href="/ico" class="btn-ico-screen">LAUNCH YOUR ICO NOW</a>
+
         </div>
     </div>
 </div>

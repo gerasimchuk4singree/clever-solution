@@ -122,7 +122,8 @@ get_header(); ?>
                 </div>
                 <div class="bitrix-info12">
                     <img src="<?php echo get_template_directory_uri()?>/images/landing-pages/bitrix/bitrix-info12.png" alt="">
-                    <span>A SOCIAL NETWORK <br> THAT WORKS WITHIN YOUR <br> COMPANY</span>
+                    <span>A SOCIAL NETWORK <br> THAT WORKS WITHIN YOUR <br> COMPANY<
+  an>
                 </div>
             </div>
         </div>
@@ -159,22 +160,26 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="title">Cloud Version</div>
-                    <div class="buttons">
-                        <button class="btn">Free</button>
-                        <button class="btn">Plus</button>
-                        <button class="btn">Standard</button>
-                        <button class="btn active">Professional</button>
+                    <div class="box">
+                        <div class="title">Cloud Version</div>
+                        <div class="buttons">
+                            <button class="btn">Free</button>
+                            <button class="btn">Plus</button>
+                            <button class="btn">Standard</button>
+                            <button class="btn active">Professional</button>
+                        </div>
+                        <button class="order">ORDER NOW!</button>
                     </div>
-                    <button class="order">ORDER NOW!</button>
                 </div>
                 <div class="col-md-6">
-                    <div class="title">Self-hosted Version</div>
-                    <div class="buttons box1">
-                        <button class="btn">BizPace</button>
-                        <button class="btn active">BizPace Enterprise</button>
+                    <div class="box">
+                        <div class="title">Self-hosted Version</div>
+                        <div class="buttons box1">
+                            <button class="btn">BizPace</button>
+                            <button class="btn active">BizPace Enterprise</button>
+                        </div>
+                        <button class="order disabled order1">ORDER NOW!</button>
                     </div>
-                    <button class="order disabled order1">ORDER NOW!</button>
                 </div>
             </div>
         </div>

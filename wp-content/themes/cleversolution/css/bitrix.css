@@ -215,6 +215,10 @@
     padding-top:144px;
     text-align: center;
 }
+.bitrix-order .box {
+    background: rgba(229, 249, 254, .3);
+    padding: 35px 0 55px;
+}
 .bitrix-order .buttons {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -229,7 +233,8 @@
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    min-height: 480px;
+    height: 480px;
+    max-width:100%;
 }
 .bitrix-order .btn {
     width: 370px;
@@ -277,7 +282,7 @@
 }
 .bitrixLP .who-we-are {
     text-align: center;
-    padding-top: 255px;
+    padding-top: 200px;
     padding-bottom: 165px;
 }
 .bitrixLP .who-we-are .title {
@@ -408,6 +413,9 @@
     top: 20px;
     right: -125px;
 }
+.bitrix-info1, .bitrix-info2, .bitrix-info3, .bitrix-info4, .bitrix-info5, .bitrix-info6 {
+    text-align: right;
+}
 @media (max-width: 1200px) {
     .bitrix-result .name {
         min-height: 100px;
@@ -489,6 +497,22 @@
     }
     .bitrix-order .disabled {
         margin-bottom:0;
+    }
+    .bitrix-info1, .bitrix-info2, .bitrix-info3, .bitrix-info4, .bitrix-info5, .bitrix-info6 {
+        text-align: left;
+    }
+    .bitrix-info .img {
+        width:30px;
+        height:30px;
+        border-radius: 50%;
+        background: yellow;
+        display: inline-block;
+    }
+    .bitrix-info {
+        background-color: #38d5fd;
+    }
+    .bitrix-info .center-block span {
+        padding-left:10px;
     }
 }
 @media (max-width: 767px) {

@@ -12,11 +12,11 @@
 		options = $.extend({
 			//navigation
 			'menu': '#myMenu',
-			'anchors':['Home', 'WhyCleverSolution', 'Design', 'Development', 'Digital-Marketing', 'Integrated', 'eCommerce', 'Niche', 'Additional', 'Who-We-Are'],
+			'anchors':['Home', 'WhyCleverSolution', 'Design', 'Development', 'Digital-Marketing', 'Integrated', 'eCommerce', 'Niche', 'Additional', 'Who-We-Are', 'ICO'],
 			'navigation': true,
 			'navigationPosition': 'right',
 			'navigationColor': '#000',
-			'navigationTooltips': ['Home', 'Why Clever Solution', 'Design', 'Development', 'Digital Marketing', 'Integrated', 'eCommerce', 'Niche', 'Additional', 'Who We Are'],
+			'navigationTooltips': ['Home', 'Why Clever Solution', 'Design', 'Development', 'Digital Marketing', 'Integrated', 'eCommerce', 'Niche', 'Additional', 'Who We Are', 'ICO'],
 			'slidesNavigation': false,
 			'slidesNavPosition': 'bottom',
 
@@ -1102,14 +1102,14 @@
 						break;
 
 					//Home
-					case 36:
-						$.fn.fullpage.moveTo(1);
-						break;
+					// case 36:
+					// 	$.fn.fullpage.moveTo(1);
+					// 	break;
 
 					//End
-					case 35:
-						$.fn.fullpage.moveTo( $('.fp-section').length );
-						break;
+					// case 35:
+					// 	$.fn.fullpage.moveTo( $('.fp-section').length );
+					// 	break;
 
 					//left
 					case 37:

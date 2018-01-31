@@ -11,7 +11,7 @@
  * @since Clever Solution 1.0
  */
 get_header(); ?>
-
+<div class="ent-clinic-landing">
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
@@ -503,6 +503,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+</div>
 <?php include_news() ?>
     <!-- // <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
     <script type="text/javascript" src="/wp-content/themes/cleversolution/slick/slick.min.js"></script>

@@ -296,6 +296,14 @@ body {
         max-width: 1300px;
         padding: 70px 20px 35px;
     }
+    .blog-header .title-block {
+        font-size: 70px;
+        margin-top: 355px;
+        line-height: 139px;
+    }
+    .blog-header .title-block span {
+        font-size: 200px;
+    }
 
     #blog-list .font-65 { font-size: 45px; }
     #blog-list .font-60 { font-size: 42px; }

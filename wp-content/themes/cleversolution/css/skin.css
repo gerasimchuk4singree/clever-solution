@@ -3,6 +3,10 @@
   font-family: 'fontAwesome';
   src: url('../font/fontAwesome/FontAwesome.otf');
 }
+
+.fa-image:before {
+  display: none;
+}
 /* line 1, scss/_normalizer.scss */
 html, body {
   height: 100%;
@@ -3820,7 +3824,7 @@ button::-moz-focus-inner {
   border: 2px dashed #c45c1e;
   position: absolute;
   margin-top: 70px;
-  width: 165px;
+  width: 200px;
 }
 
 /* line 785, scss/_style.scss */
@@ -4076,10 +4080,10 @@ button::-moz-focus-inner {
   height: 1px;
   content: "";
   background: #c45d20;
-  width: 60px;
+  width: 140px;
   position: absolute;
-  bottom: -8px;
-  left: -29px;
+  bottom: -19px;
+  left: -105px;
   -webkit-transform: rotate(-17deg);
   -moz-transform: rotate(-17deg);
   -ms-transform: rotate(-17deg);
@@ -4108,10 +4112,10 @@ button::-moz-focus-inner {
   height: 1px;
   content: "";
   background: #c45d20;
-  width: 60px;
+  width: 140px;
   position: absolute;
-  bottom: -8px;
-  right: -29px;
+  bottom: -19px;
+  right: -103px;
   -webkit-transform: rotate(17deg);
   -moz-transform: rotate(17deg);
   -ms-transform: rotate(17deg);
@@ -4440,7 +4444,7 @@ button::-moz-focus-inner {
 }
 /* line 1281, scss/_style.scss */
 .r-rock-1 .rocktext {
-  top: 0;
+  top: -120px;
   width: 460px;
   left: 57px;
 }
@@ -4629,7 +4633,7 @@ button::-moz-focus-inner {
   position: absolute;
   left: 120%;
   width: 50%;
-  bottom: 20px;
+  bottom: -25px;
 }
 
 /* line 1429, scss/_style.scss */
@@ -4728,6 +4732,13 @@ button::-moz-focus-inner {
   width: 48%;
   right: 0px;
   padding: 0 40px;
+}
+.js-text-bot-anim-top {
+  top:720px !important;
+  font-size:18px;
+}
+.fz18 {
+  font-size:18px;
 }
 
 /* line 1512, scss/_style.scss */
@@ -5378,6 +5389,31 @@ button::-moz-focus-inner {
   height: 22px;
   vertical-align: middle;
   display: inline-block;
+}
+.screen-11 {
+  background: url('../images/ICO-bg.png') no-repeat;
+  background-size:cover;
+}
+.btn-ico-screen {
+  display: inline-block;
+  padding: 17px 22px;
+  color: #fff;
+  font-family: "Segoe-UI";
+  border: 2px solid #fff;
+  border-radius: 6px;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top:30px;
+}
+.btn-ico-screen:before {
+  content: "";
+  position: absolute;
+  top:0;
+  left:0;
+  background: url("../images/bg-btn-ico-screen.png") no-repeat;
+  width:40px;
+  height:40px;
 }
 
 @media (max-width: 1800px) {
@@ -6116,6 +6152,10 @@ button::-moz-focus-inner {
     background: #d69919;
   }
 
+  .intbutton-11 {
+    background: #556f66;
+  }
+
   /* line 623, scss/_media.scss */
   .intbutton-7 {
     background: #13375d;
@@ -6178,6 +6218,7 @@ button::-moz-focus-inner {
     left: auto;
     margin: 30px auto 10px auto;
     width: 80%;
+    padding-bottom:245px;
   }
 
   /* line 668, scss/_media.scss */
@@ -7054,7 +7095,7 @@ button::-moz-focus-inner {
   }
   /* line 1430, scss/_media.scss */
   .r-rock-1 .rocktext {
-    top: -32px;
+    top: -100px;
     width: 393px;
     left: 47px;
   }
@@ -7071,7 +7112,7 @@ button::-moz-focus-inner {
   }
   /* line 1447, scss/_media.scss */
   .r-rock-2 .rocktext {
-    top: -31px;
+    top: -75px;
     width: 316px;
     left: 38px;
   }
@@ -7084,7 +7125,7 @@ button::-moz-focus-inner {
 
   /* line 1463, scss/_media.scss */
   .r-rock-3 .rocktext {
-    top: -31px;
+    top: -50px;
     width: 256px;
     left: 30px;
   }
@@ -7097,7 +7138,7 @@ button::-moz-focus-inner {
 
   /* line 1479, scss/_media.scss */
   .r-rock-4 .rocktext {
-    top: -30px;
+    top: -25px;
     width: 215px;
     left: 21px;
   }
@@ -7278,6 +7319,7 @@ button::-moz-focus-inner {
   /* line 1628, scss/_media.scss */
   .mobile-ars-circle .wfull {
     width: 130px;
+    padding-top:50px;
   }
 
   /* line 1635, scss/_media.scss */
@@ -7308,6 +7350,7 @@ button::-moz-focus-inner {
   .js-asr-block {
     position: relative;
     padding-bottom: 90px;
+    padding-top:100px;
   }
 
   /* line 1659, scss/_media.scss */
@@ -7450,6 +7493,13 @@ button::-moz-focus-inner {
     display: block;
     width: 100%;
   }
+  .screen-11 {
+    background-position: right;
+  }
+  .btn-ico-screen {
+    margin-bottom: 55px;
+    float: right;
+  }
 }
 @media (max-width: 720px) {
   /* line 1791, scss/_media.scss */
@@ -7587,7 +7637,7 @@ button::-moz-focus-inner {
   }
   /* line 1902, scss/_media.scss */
   .r-rock-1 .rocktext {
-    top: -28px;
+    top: -100px;
     width: 286px;
     left: 33px;
   }
@@ -7604,7 +7654,7 @@ button::-moz-focus-inner {
   }
   /* line 1919, scss/_media.scss */
   .r-rock-2 .rocktext {
-    top: -24px;
+    top: -80px;
     width: 239px;
     left: 25px;
   }
@@ -7621,7 +7671,7 @@ button::-moz-focus-inner {
   }
   /* line 1938, scss/_media.scss */
   .r-rock-3 .rocktext {
-    top: -22px;
+    top: -55px;
     width: 202px;
     left: 19px;
   }
@@ -7638,7 +7688,7 @@ button::-moz-focus-inner {
   }
   /* line 1955, scss/_media.scss */
   .r-rock-4 .rocktext {
-    top: -18px;
+    top: -30px;
     width: 179px;
     left: 12px;
   }
@@ -8015,6 +8065,11 @@ body.admin-bar .js-float-menu {
   margin: 7% 0;
   font-size:0;
 }
+.mob-menu li .fa {
+  display: block !important;
+  font-size: 16px !important;
+  margin: 0 auto 5px !important;
+}
 
 .mob-menu li:first-child {
   /*margin:30px 0;*/
@@ -8042,6 +8097,7 @@ body.admin-bar .js-float-menu {
   color: #fff;
   margin: 0;
   width: 100%;
+  cursor: pointer;
 }
 .mob-menu .social {
   margin: 30px 0;
@@ -8049,8 +8105,11 @@ body.admin-bar .js-float-menu {
 .mob-menu .social a {
   padding:0;
   display: inline-block;
-  vertical-align: top;
+  vertical-align: middle;
   margin: 0 10px;
+}
+.mob-menu .social .icon {
+  color: #fff;
 }
 .mob-menu .social img {
   max-width: 100%;
@@ -8161,10 +8220,37 @@ div.wpcf7-response-output {
   margin: 0.5em 1em !important;
 }
 .topSeo-screen1 {
+      /*position: absolute;*/
+    /*left: 40%;*/
+    /*bottom: 33%;*/
+}
+.seo_firms {
+  /*position: absolute;*/
+    /*right: 40%;*/
+    /*bottom: 33%;*/
+    width: 136px;
+    height: 136px;
+}
+.bronze_winner {
+  /*position: absolute;*/
+  /*right:10%;*/
+  /*bottom: 33%;*/
+  width: 136px;
+  height: 136px;
+}
+.rewards {
   position: absolute;
-  left:50%;
-  margin-left:-68px;
+  width:100%;
   bottom: 33%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack:center;
+  -ms-flex-pack:center;
+  justify-content:center;
+}
+.rewards img {
+  margin:0 1%;
 }
 .topSeo-screen2 {
   position: absolute;
@@ -8279,6 +8365,12 @@ div.wpcf7-response-output {
   margin: 0;
   font-style: italic;
 }
+.padding-integrated {
+  padding:0;
+}
+.page-id-20 .screen-6 {
+  padding:15px 0 0 !important;
+}
 /*/////////////////////////////////////////////////////////////////*/
 @media only all and (max-height: 850px) {
   .mob-menu .close-mob-menu {
@@ -8300,15 +8392,40 @@ div.wpcf7-response-output {
     line-height:48px;
   }
 }
+@media (max-width: 1400px) {
+  .topSeo-screen1 {
+    left: 35%;
+  }
+  .seo_firms {
+    right: 35%;
+  }
+  .ars-right:before {
+    width: 100px;
+    bottom: -13px;
+    right: -66px;
+  }
+  .ars-left:before {
+    width: 100px;
+    bottom: -14px;
+    left: -68px;
+  }
+}
 @media (max-width: 1050px) {
   .menu-btn-block {
     display: none;
   }
+  .abs-h-mid {
+    transform: none;
+    position: relative;
+  }
   .in-the-media {
     display: none;
   }
-  .topSeo-screen1, .topSeo-screen2 {
-    display: none;
+  /*.topSeo-screen1, .topSeo-screen2, .seo_firms {*/
+    /*display: none;*/
+  /*}*/
+  .rewards {
+    bottom:50%;
   }
   .js-innernormalizer .cloud2 {
     top: 30px !important;

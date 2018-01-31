@@ -4,6 +4,13 @@ body{
     font-family: "Segoe UI";
     color: #fff;
 }
+.ent-clinic-landing div.wpcf7-validation-errors {
+    color: #000;
+    margin: -0.5em 1em !important;
+}
+.ent-clinic-landing .form-block, .ent-clinic-landing .forms {
+    color: #000;
+}
 .ma-cl{
     padding: 0;
 }

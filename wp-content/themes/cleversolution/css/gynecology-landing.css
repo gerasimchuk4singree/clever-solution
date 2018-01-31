@@ -24,6 +24,10 @@ body{
     padding-bottom: 62px;
     background-size: cover;
 }
+.gynecology-block .gynecology-bg div.wpcf7-response-output {
+    position: relative;
+    color: #000;
+}
 .gynecology-block .gynecology-bg .title-block{
     margin-top: 144px;
     margin-bottom: 30px;

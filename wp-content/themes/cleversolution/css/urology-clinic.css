@@ -7,6 +7,13 @@ body{
     background: url("../images/landing-pages/urologi-clinic/main-bg.jpg") no-repeat center;
     color: #fff;
 }
+.urology-block .urology-bg .forms {
+    color: #000;
+}
+.urology-block .urology-bg div.wpcf7-response-output {
+    position: relative;
+    color: #000;
+}
 .urology-block .main-content{
     background: rgba(0,0,0,0.5);
 }

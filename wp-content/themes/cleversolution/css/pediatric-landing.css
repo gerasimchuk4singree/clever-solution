@@ -15,6 +15,9 @@
     padding-bottom: 63px;
     background-size: cover;
 }
+.pediatric-block .pediatric-bg div.wpcf7-response-output {
+    position: relative;
+}
 .pediatric-block .label-pediatric .pediatric-proc{
     padding-top: 134px;
     margin-bottom: 64px;

@@ -9,6 +9,12 @@ body{
     background-size: cover;
     border-bottom: 4px solid #ff3d00 ;
 }
+.dermatology-block .dermatology-bg .forms {
+    color: #000;
+}
+.dermatology-block .dermatology-bg div.wpcf7-response-output {
+    position: relative;
+}
 .dermatology-block .dermatology-bg .title-block{
     margin-top: 146px;
     margin-bottom: 185px;

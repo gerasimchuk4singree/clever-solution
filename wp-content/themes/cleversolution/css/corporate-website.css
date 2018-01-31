@@ -5,6 +5,12 @@
     background-size: cover;
     padding-bottom:100px;
 }
+.corporate-website-top .forms div.wpcf7-response-output {
+    color: #000;
+}
+.corporate-website-top .form-landing {
+    padding: 20px 0 40px;
+}
 .corporate-website-desc {
     color: #fff;
     margin-top: 100px;

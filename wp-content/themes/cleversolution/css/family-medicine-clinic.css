@@ -3,6 +3,13 @@ body{
     line-height:1;
     font-family: "Segoe UI";
 }
+.family-medicine-block .form-block {
+    color: #000;
+}
+.family-medicine-block .form-block div.wpcf7-response-output {
+    color: #000;
+    position: relative;
+}
 .family-medicine-block .family-medicine-bg{
     background: url("../images/landing-pages/family-medicine-clinic/family-medicine-clinic-bg.jpg") no-repeat center;
     color: #fff;

@@ -11,6 +11,9 @@
 .allergic-block .allergic-bg .forms{
     margin-bottom: 0;
 }
+.allergic-block .allergic-bg .forms div.wpcf7-response-output {
+    position: relative;
+}
 .label-allergic{
     background: rgba(0,0,0,0.8);
     width: 100%;

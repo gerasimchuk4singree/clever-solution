@@ -8,6 +8,12 @@ body{
     color: #fff;
     margin-bottom: 155px;
 }
+.neurogical-block .neurogical-bg .forms {
+    color: #000;
+}
+.neurogical-block .neurogical-bg div.wpcf7-response-output {
+    position: relative;
+}
 .neurogical-block .neurogical-bg .title-block{
     background: url("../images/landing-pages/neurogical-clinic/bg-text-block.jpg") no-repeat;
     width: 738px;
